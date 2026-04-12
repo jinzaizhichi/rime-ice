@@ -48,10 +48,16 @@
 ## 打字学习记录同步（userdb）
 
 `rime_ice.userdb/` 是 LevelDB 二进制格式，不直接用 git 追踪。
+导出的文本文件 `sync/.../rime_ice.userdb.txt` 已纳入版本控制。
 
-同步方式：
-1. Weasel 托盘 → **用户资料同步**，Rime 将 userdb 导出为文本到 `sync/` 目录
-2. 将 `sync/` 目录提交到 personal 分支
-3. 新电脑同样执行一次「用户资料同步」即可导入
+### 日常同步（两步）
 
-建议定期执行：**同步 → commit → push**。
+1. Weasel 托盘 → **用户资料同步**
+2. 双击根目录的 `sync-userdb.bat`
+
+### 新电脑恢复
+
+1. 安装 [Weasel](https://github.com/rime/weasel/releases)
+2. 克隆并检出个人配置（见上方「换电脑部署」）
+3. 将 `sync/` 目录里的 `rime_ice.userdb.txt` 复制到新机器对应的 `sync/<新UUID>/` 目录
+4. Weasel 托盘 → **用户资料同步**，Rime 自动导入学习记录
