@@ -8,10 +8,11 @@ sync/
 *.userdb/
 installation.yaml
 user.yaml
-*.custom.yaml
+
+# 允许追踪根目录下的 *.custom.yaml（已移除忽略规则）
 !others/**/*.custom.yaml
 
-custom_phrase_double.txt
+# custom_phrase_double.txt  <-- 如果你用双拼且有自定义短语，建议也注释掉此行以纳入同步
 others/script/scel2txt/out/*
 others/script/scel2txt/scel/*
 cn_dicts/temp.txt
