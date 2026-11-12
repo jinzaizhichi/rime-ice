@@ -1,0 +1,4308 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	66148
+#@/user_id	73106f4e-97f1-45cc-906d-85bffaa7a534
+A 	A	c=0 d=2.17355e-17 t=66148
+A lao shi 	A老师	c=1 d=2.18444e-16 t=66148
+E 	E	c=1 d=2.99845e-07 t=66148
+F 	F	c=1 d=1.11396e-05 t=66148
+I B K R 	IBKR	c=1 d=7.02009e-15 t=66148
+J I A 	JIA	c=1 d=2.5626e-12 t=66148
+S 	S	c=1 d=1 t=50183
+T S M 	TSM	c=1 d=6.51063e-11 t=66148
+a 	啊	c=96 d=1.90184 t=66148
+a 	阿	c=2 d=1.63445 t=55867
+a li 	阿里	c=17 d=0.82245 t=66148
+a li yun 	阿里云	c=1 d=1.43206e-19 t=66148
+a yo 	啊哟	c=0 d=0.1 t=64287
+ai 	唉	c=8 d=0.798516 t=66148
+ai yan 	碍眼	c=2 d=2.31235e-09 t=66148
+an 	安	c=7 d=1.84614e-07 t=66148
+an 	按	c=12 d=0.180866 t=66148
+an bao she shi 	安保设施	c=1 d=1 t=61337
+an chi 	暗池	c=1 d=0.000720907 t=66148
+an ji hua 	按计划	c=1 d=1 t=47633
+an jian 	按键	c=1 d=1.6191e-22 t=66148
+an li 	案例	c=2 d=3.44131e-10 t=66148
+an niu 	按钮	c=47 d=0.00194605 t=66148
+an pai 	安排	c=3 d=6.08308e-06 t=66148
+an quan 	安全	c=27 d=0.0282259 t=66148
+an ran 	安然	c=1 d=4.55174e-06 t=66148
+an ran wu yang 	安然无恙	c=1 d=4.57456e-06 t=66148
+an yue 	按月	c=1 d=1.99128e-15 t=66148
+an zhao 	按照	c=109 d=2.59406 t=66148
+an zhuang 	安装	c=188 d=1.85214 t=66148
+ao 	熬	c=1 d=5.08188e-08 t=66148
+ba 	八	c=2 d=8.37718e-06 t=66148
+ba 	吧	c=298 d=2.53474 t=66148
+ba 	把	c=306 d=1.6625 t=66148
+ba mu qian 	把目前	c=1 d=1 t=51368
+ba ru xia 	把如下	c=1 d=1 t=55326
+ba wo men 	把我们	c=1 d=5.28837e-06 t=66148
+bai 	白	c=6 d=2.272e-06 t=66148
+bai 	百	c=1 d=3.15218e-07 t=66148
+bai du 	百度	c=7 d=0.00886642 t=66148
+bai fen 	百分	c=6 d=2.21023e-07 t=66148
+bai fen zhi 	百分之	c=1 d=3.81371e-13 t=66148
+bai gong 	白宫	c=1 d=3.38189e-11 t=66148
+bai jia le 	百家乐	c=1 d=3.19982e-07 t=66148
+bai ping 	白屏	c=6 d=1.3545e-11 t=66148
+bai se 	白色	c=2 d=0.318224 t=66148
+bai tian 	白天	c=2 d=1.06549e-11 t=66148
+ban 	办	c=7 d=1.64956e-06 t=66148
+ban 	半	c=1 d=0.414783 t=66148
+ban 	搬	c=3 d=4.69037e-06 t=66148
+ban 	版	c=68 d=0.468676 t=66148
+ban 	班	c=9 d=2.01363 t=62169
+ban 	般	c=1 d=1 t=58025
+ban ben 	版本	c=59 d=0.790055 t=66148
+ban ci 	班次	c=2 d=1.52205 t=62229
+ban dao 	搬到	c=2 d=1.48565e-10 t=66148
+ban dong 	搬动	c=1 d=2.26579e-05 t=66148
+ban fa 	办法	c=5 d=0.000490542 t=66148
+ban gong 	办公	c=2 d=1.45573e-06 t=66148
+ban gong shi 	办公室	c=1 d=1 t=61029
+ban guo 	搬过	c=1 d=1.67478e-08 t=66148
+ban jia 	搬家	c=1 d=6.01007e-11 t=66148
+ban li 	办理	c=1 d=1.95085e-09 t=66148
+ban mian 	版面	c=3 d=7.15913e-11 t=66148
+ban qian 	搬迁	c=4 d=0.0968758 t=66148
+ban quan 	版权	c=1 d=1 t=50070
+ban shi 	办事	c=1 d=1.7042e-07 t=66148
+ban tian 	半天	c=1 d=6.92993e-10 t=66148
+ban xiao shi 	半小时	c=1 d=5.41101e-11 t=66148
+ban yan 	扮演	c=1 d=4.70651e-17 t=66148
+bang 	帮	c=10 d=0.721401 t=66148
+bang 	绑	c=3 d=1.11418e-07 t=66148
+bang ding 	绑定	c=4 d=0.037516 t=66148
+bang ka 	绑卡	c=1 d=1 t=53356
+bang le 	棒了	c=1 d=0.00023056 t=66148
+bang wo 	帮我	c=41 d=0.239259 t=66148
+bang zhu 	帮助	c=2 d=6.413e-07 t=66148
+bao 	保	c=8 d=0.257958 t=66148
+bao 	包	c=8 d=0.177286 t=66148
+bao 	宝	c=1 d=1 t=62107
+bao 	报	c=3 d=8.25475e-08 t=66148
+bao cao 	刨槽	c=1 d=1.51933e-09 t=66148
+bao chi 	保持	c=34 d=0.0721833 t=66148
+bao cun 	保存	c=63 d=0.00124598 t=66148
+bao cuo 	报错	c=13 d=4.76287e-10 t=66148
+bao dao 	报到	c=1 d=1 t=55718
+bao dao 	报道	c=2 d=0.0123389 t=66148
+bao fu 	包袱	c=1 d=1 t=47492
+bao gao 	报告	c=24 d=0.00120654 t=66148
+bao han 	包含	c=6 d=0.794974 t=66148
+bao hu 	保护	c=14 d=0.173077 t=66148
+bao jia 	报价	c=7 d=2.11808e-06 t=66148
+bao jian 	包间	c=1 d=1 t=61229
+bao kuo 	包括	c=6 d=1.58168e-05 t=66148
+bao liu 	保留	c=18 d=0.000294568 t=66148
+bao lu 	暴露	c=3 d=5.63088e-09 t=66148
+bao shou 	保守	c=1 d=8.80668e-06 t=66148
+bao xian 	保险	c=5 d=0.00425373 t=66148
+bao xiao 	报销	c=1 d=1.23813e-13 t=66148
+bao zhang 	保障	c=1 d=5.61538e-06 t=66148
+bao zhang 	暴涨	c=2 d=9.57559e-12 t=66148
+bao zheng 	保证	c=18 d=0.053397 t=66148
+bao zheng jin 	保证金	c=1 d=0.0399551 t=66148
+bei 	倍	c=2 d=2.91687e-06 t=66148
+bei 	北	c=6 d=0.000188133 t=66148
+bei 	杯	c=6 d=7.5864e-07 t=66148
+bei 	碑	c=1 d=1 t=61927
+bei 	被	c=69 d=0.143704 t=66148
+bei 	辈	c=1 d=0.000151489 t=66148
+bei an 	备案	c=4 d=2.70437 t=64344
+bei cha 	备查	c=2 d=9.54343e-10 t=66148
+bei dong 	被动	c=4 d=0.00143012 t=66148
+bei fen 	备份	c=21 d=2.64567e-05 t=66148
+bei feng 	被封	c=1 d=0.0118551 t=66148
+bei guan 	悲观	c=1 d=1 t=63792
+bei jing 	北京	c=14 d=0.741356 t=66148
+bei kao 	背靠	c=1 d=0.287941 t=66148
+bei xuan 	备选	c=1 d=5.96973e-20 t=66148
+bei yong 	备用	c=3 d=6.70777e-09 t=66148
+bei zhu 	备注	c=3 d=1.98578 t=62231
+ben 	本	c=19 d=0.628135 t=66148
+ben ci huo dong 	本次活动	c=1 d=1 t=54063
+ben di 	本地	c=136 d=0.227615 t=66148
+ben jin 	本金	c=7 d=0.43969 t=66148
+ben ku 	本库	c=28 d=0.00323088 t=66148
+ben lai 	本来	c=4 d=7.21153e-08 t=66148
+ben le 	笨了	c=1 d=0.00557201 t=66148
+ben mo 	本末	c=1 d=0.00419023 t=66148
+ben ren 	本人	c=1 d=3.38017e-05 t=66148
+ben shen 	本身	c=2 d=1.13118e-09 t=66148
+ben tu 	本土	c=1 d=1 t=63805
+ben xi tong 	本系统	c=1 d=1.05306e-20 t=66148
+ben xiang mu 	本项目	c=4 d=4.82237e-09 t=66148
+bi 	币	c=10 d=0.169483 t=66148
+bi 	必	c=1 d=5.01747e-05 t=66148
+bi 	比	c=29 d=0.637659 t=66148
+bi an 	币安	c=1 d=1 t=48495
+bi he 	闭合	c=1 d=1 t=49169
+bi ji 	笔记	c=3 d=0.625002 t=66148
+bi ji ben 	笔记本	c=4 d=2.10824e-10 t=66148
+bi jia 	比价	c=2 d=1.6794e-11 t=66148
+bi jiao 	比较	c=45 d=0.23457 t=66148
+bi jing 	毕竟	c=1 d=6.25534e-11 t=66148
+bi kai 	避开	c=2 d=1 t=59302
+bi kan 	必看	c=1 d=4.18154e-08 t=66148
+bi li 	比例	c=2 d=1.29523 t=46055
+bi mian 	避免	c=2 d=0.000181365 t=66148
+bi ru 	比如	c=25 d=0.0553128 t=66148
+bi sai 	比赛	c=6 d=3.77493e-06 t=66148
+bi shui 	避税	c=1 d=1 t=65374
+bi wo 	比我	c=1 d=1.00881e-15 t=66148
+bi xia 	陛下	c=1 d=1 t=55766
+bi xu 	必须	c=33 d=0.353188 t=66148
+bi yao 	必要	c=10 d=0.514284 t=66148
+bi you 	必有	c=1 d=1 t=54632
+bian 	便	c=1 d=4.67984e-09 t=66148
+bian 	变	c=15 d=0.401685 t=66148
+bian 	边	c=1 d=1.79621e-08 t=66148
+bian cheng 	变成	c=26 d=0.316637 t=66148
+bian cheng 	编程	c=5 d=0.367879 t=66148
+bian da 	变大	c=1 d=2.50494e-09 t=66148
+bian dong 	变动	c=5 d=0.0124007 t=66148
+bian geng 	变更	c=2 d=1 t=53803
+bian guo 	变过	c=1 d=1 t=51860
+bian hao 	编号	c=4 d=9.21505e-07 t=66148
+bian hu 	辩护	c=1 d=1.13099e-07 t=66148
+bian hua 	变化	c=32 d=3.48929 t=66148
+bian ji 	编辑	c=11 d=0.0144798 t=66148
+bian ji qi 	编辑器	c=1 d=1 t=52079
+bian jie 	边界	c=3 d=0.0117371 t=66148
+bian le 	变了	c=1 d=2.51664e-05 t=66148
+bian liang 	变量	c=10 d=1.64956e-06 t=66148
+bian ma 	编码	c=6 d=3.33041e-07 t=66148
+bian se 	变色	c=1 d=1 t=53255
+bian wei 	变为	c=2 d=1.00874 t=46320
+bian xing 	变形	c=1 d=1 t=64174
+bian yi 	编译	c=15 d=4.70251e-07 t=66148
+bian yu 	便于	c=6 d=0.000256482 t=66148
+biao 	标	c=5 d=2.14527e-09 t=66148
+biao 	表	c=20 d=2.38932e-05 t=66148
+biao da 	表达	c=1 d=2.35866e-07 t=66148
+biao dan 	表单	c=1 d=1 t=65532
+biao dian 	标点	c=1 d=1 t=49300
+biao ge 	表格	c=5 d=0.00106244 t=66148
+biao qian 	标签	c=5 d=1.53459e-09 t=66148
+biao shi 	标识	c=2 d=1 t=59290
+biao xian 	表现	c=2 d=9.39972e-08 t=66148
+biao xian li 	表现力	c=1 d=6.9972e-06 t=66148
+biao zhu 	标注	c=1 d=1 t=60212
+biao zhun 	标准	c=4 d=6.08411e-08 t=66148
+bie 	别	c=1 d=4.34022e-05 t=66148
+bie chu 	别处	c=1 d=1 t=64574
+bie de 	别的	c=1 d=2.49933e-12 t=66148
+bie ming 	别名	c=3 d=2.93858e-05 t=66148
+bie ren 	别人	c=6 d=6.80682e-05 t=66148
+bing 	并	c=22 d=0.0219337 t=66148
+bing cun 	并存	c=2 d=9.44845e-10 t=66148
+bing du 	病毒	c=2 d=1.08374 t=58287
+bing fan yi 	并翻译	c=1 d=1 t=47431
+bing pai 	并排	c=2 d=1.97045 t=52097
+bing qi 	摒弃	c=1 d=4.90624e-06 t=66148
+bing qie 	并且	c=1 d=2.30795e-16 t=66148
+bing ru 	并入	c=1 d=2.81023e-09 t=66148
+bing xing 	并行	c=2 d=1.93611e-08 t=66148
+bing yong 	并用	c=1 d=3.73757e-11 t=66148
+bo 	伯	c=1 d=2.867e-09 t=66148
+bo dong 	波动	c=6 d=7.17558e-08 t=66148
+bo dong le 	波动了	c=1 d=1 t=56854
+bo dong lv 	波动率	c=5 d=0.0033592 t=66148
+bo fang 	播放	c=14 d=0.00417198 t=66148
+bu 	不	c=417 d=2.9417 t=66148
+bu 	布	c=2 d=2.56008e-09 t=66148
+bu 	步	c=17 d=0.00680798 t=66148
+bu 	补	c=14 d=4.13924e-06 t=66148
+bu 	部	c=4 d=0.00051312 t=66148
+bu a yo 	不啊哟	c=1 d=1 t=64288
+bu an quan 	不安全	c=2 d=1.0007 t=47129
+bu bao cuo 	不报错	c=1 d=1 t=49504
+bu bian 	不变	c=2 d=8.78394e-05 t=66148
+bu cheng gong 	不成功	c=4 d=0.00504176 t=66148
+bu chong 	补充	c=13 d=0.377192 t=66148
+bu chu 	不出	c=1 d=1 t=57738
+bu cun zai 	不存在	c=2 d=0.0169075 t=66148
+bu cuo 	不错	c=3 d=2.29488e-08 t=66148
+bu da 	不大	c=1 d=4.49635e-09 t=66148
+bu dao 	不到	c=14 d=0.429557 t=66148
+bu deng yu 	不等于	c=1 d=0.00489275 t=66148
+bu di 	不低	c=1 d=1 t=46211
+bu diao 	不掉	c=1 d=8.57583e-17 t=66148
+bu dong 	不动	c=27 d=0.0261214 t=66148
+bu dong 	不懂	c=1 d=3.96937e-13 t=66148
+bu dong le 	不动了	c=1 d=1 t=44110
+bu duan 	不断	c=2 d=0.213312 t=66148
+bu dui 	不对	c=55 d=1.76013 t=66148
+bu fa 	步伐	c=3 d=0.511709 t=66148
+bu fa 	补发	c=1 d=0.474734 t=66148
+bu fen 	部分	c=59 d=0.566944 t=66148
+bu gan 	不敢	c=1 d=2.81702e-08 t=66148
+bu gao 	不高	c=1 d=0.0531307 t=66148
+bu gei 	不给	c=1 d=0.000739157 t=66148
+bu gou 	不够	c=3 d=8.76274e-06 t=66148
+bu gou yong 	不够用	c=1 d=1 t=51123
+bu hao 	不好	c=14 d=7.21219e-06 t=66148
+bu hao kan 	不好看	c=1 d=2.88883e-10 t=66148
+bu he li 	不合理	c=1 d=2.15083e-10 t=66148
+bu he shi 	不合适	c=2 d=1.25202e-08 t=66148
+bu huan 	不换	c=3 d=0.0720785 t=66148
+bu hui 	不会	c=22 d=0.00022462 t=66148
+bu hui tou 	不回头	c=1 d=9.26135e-10 t=66148
+bu ji 	不计	c=1 d=1 t=44148
+bu jian 	不见	c=6 d=1.09738e-05 t=66148
+bu ju 	布局	c=20 d=1.18e-06 t=66148
+bu kai 	不开	c=11 d=0.315472 t=66148
+bu ke xing 	不可行	c=2 d=4.21267e-07 t=66148
+bu lai 	不来	c=1 d=1 t=48293
+bu li hui 	不理会	c=1 d=1 t=46561
+bu liao 	不了	c=8 d=0.140156 t=66148
+bu men 	部门	c=2 d=2.56836e-09 t=66148
+bu neng 	不能	c=55 d=0.2334 t=66148
+bu neng gou 	不能够	c=2 d=9.66918e-08 t=66148
+bu pa 	不怕	c=1 d=1 t=55366
+bu qi 	不起	c=3 d=0.109701 t=66148
+bu qi 	补齐	c=3 d=1.16583e-11 t=66148
+bu qi dong 	不启动	c=2 d=1.16885e-12 t=66148
+bu qi zuo yong 	不起作用	c=1 d=1 t=48673
+bu qing 	不清	c=1 d=1 t=50593
+bu qu 	不去	c=1 d=1 t=59970
+bu quan 	补全	c=7 d=0.00222055 t=66148
+bu que ding 	不确定	c=1 d=1 t=49489
+bu rang 	不让	c=7 d=9.78167e-06 t=66148
+bu ru 	不如	c=2 d=1.6141e-15 t=66148
+bu shang 	不上	c=6 d=0.00052611 t=66148
+bu shang 	补上	c=6 d=2.22093e-05 t=66148
+bu shao 	不少	c=1 d=6.4148e-13 t=66148
+bu shi 	不是	c=89 d=1.3588 t=66148
+bu shi he 	不适合	c=2 d=4.26746e-12 t=66148
+bu shi yong 	不使用	c=1 d=2.38935e-12 t=66148
+bu shu 	部署	c=246 d=3.17317 t=66148
+bu shu hao 	部署好	c=1 d=1.71362e-13 t=66148
+bu shuo 	不说	c=2 d=0.191092 t=66148
+bu ti gong 	不提供	c=1 d=1.73443e-08 t=66148
+bu ting 	不停	c=1 d=1 t=51336
+bu tong 	不同	c=1 d=0.00960953 t=66148
+bu tong 	不通	c=123 d=1.24724 t=66148
+bu tong bu 	不同步	c=1 d=1 t=56052
+bu wan mei 	不完美	c=1 d=0.0389686 t=66148
+bu xia 	不下	c=1 d=3.35691e-12 t=66148
+bu xian shi 	不显示	c=6 d=5.9216e-13 t=66148
+bu xiang 	不想	c=2 d=2.21023e-07 t=66148
+bu xie lou 	不泄漏	c=1 d=4.22429e-10 t=66148
+bu xing 	不行	c=8 d=0.0072265 t=66148
+bu xu fei 	不续费	c=2 d=6.67431e-09 t=66148
+bu xu yao 	不需要	c=6 d=0.0788672 t=66148
+bu yao 	不要	c=165 d=0.702781 t=66148
+bu yi ding 	不一定	c=2 d=7.36863e-08 t=66148
+bu yi yang 	不一样	c=3 d=4.59906e-10 t=66148
+bu yi zhi 	不一致	c=3 d=0.585669 t=66148
+bu ying gai 	不应该	c=3 d=1.31199 t=66148
+bu ying xiang 	不影响	c=4 d=1.84645e-09 t=66148
+bu yong 	不用	c=32 d=0.122456 t=66148
+bu yong gai 	不用改	c=2 d=0.00759701 t=66148
+bu yong ou ge 	不用讴歌	c=1 d=7.6799e-13 t=66148
+bu yun xu 	不允许	c=1 d=9.25977e-08 t=66148
+bu zai 	不再	c=1 d=0.0776922 t=66148
+bu zai 	不在	c=4 d=0.118837 t=66148
+bu zhao ji 	不着急	c=1 d=1 t=59214
+bu zheng chang 	不正常	c=4 d=1.14789e-05 t=66148
+bu zheng que 	不正确	c=2 d=1 t=57768
+bu zhi chi 	不支持	c=7 d=1.40251e-05 t=66148
+bu zhi dao 	不知道	c=14 d=1.98879e-05 t=66148
+bu zi dong 	不自动	c=1 d=8.89973e-12 t=66148
+bu zu 	不足	c=8 d=8.55063e-06 t=66148
+bu zuo le 	不做了	c=1 d=2.43845e-16 t=66148
+cai 	才	c=30 d=0.441823 t=66148
+cai bao 	财报	c=33 d=0.102829 t=66148
+cai bao ri 	财报日	c=1 d=3.15218e-07 t=66148
+cai ce 	猜测	c=2 d=0.00612804 t=66148
+cai chan 	财产	c=1 d=1.7649e-07 t=66148
+cai dan 	菜单	c=6 d=2.63884e-08 t=66148
+cai hui 	才会	c=2 d=0.0544757 t=66148
+cai ji 	采集	c=9 d=6.2789e-05 t=66148
+cai jian 	裁剪	c=1 d=5.41193e-13 t=66148
+cai jing 	财经	c=6 d=0.00814786 t=66148
+cai liao 	材料	c=5 d=1.43406e-06 t=66148
+cai neng 	才能	c=11 d=9.80699e-07 t=66148
+cai pan 	裁判	c=1 d=3.5651e-14 t=66148
+cai pei zhi 	才配置	c=1 d=8.46425e-10 t=66148
+cai pin 	菜品	c=2 d=1.97531 t=60893
+cai shi 	才是	c=1 d=5.54516e-05 t=66148
+cai yong 	采用	c=2 d=1.41464e-22 t=66148
+cai zuo 	才做	c=1 d=3.56328e-08 t=66148
+can kao 	参考	c=32 d=0.140858 t=66148
+can ping 	参评	c=1 d=1 t=54058
+can shu 	参数	c=20 d=0.677104 t=66148
+can yin 	餐饮	c=1 d=1 t=62028
+can yu 	参与	c=6 d=7.54218e-06 t=66148
+can zhao 	参照	c=6 d=0.183269 t=66148
+cang 	仓	c=3 d=0.255381 t=66148
+cang cu 	仓促	c=1 d=1 t=44177
+cang ku 	仓库	c=4 d=0.000642592 t=66148
+cang wei 	仓位	c=3 d=0.0454056 t=66148
+cao pan 	操盘	c=1 d=5.26291e-08 t=66148
+cao zuo 	操作	c=98 d=1.24124 t=66148
+ce 	侧	c=1 d=1 t=62221
+ce 	测	c=12 d=2.12771e-05 t=66148
+ce bian 	侧边	c=1 d=0.00210172 t=66148
+ce bian lan 	侧边栏	c=1 d=1 t=55341
+ce lve 	策略	c=62 d=1.28631 t=66148
+ce shi 	测试	c=150 d=2.9031 t=66148
+ce shi hou 	测试后	c=4 d=0.100761 t=66148
+ce su 	测速	c=3 d=0.000817446 t=66148
+ce zhong 	侧重	c=3 d=1.0951e-10 t=66148
+ceng ji 	层级	c=3 d=2.90256 t=65349
+ceng jing 	曾经	c=1 d=6.30083e-08 t=66148
+ceng mian 	层面	c=1 d=5.44941e-06 t=66148
+cha 	叉	c=1 d=1 t=59286
+cha 	差	c=3 d=9.44845e-10 t=66148
+cha 	插	c=2 d=4.22193e-07 t=66148
+cha 	查	c=64 d=0.832847 t=66148
+cha bu duo 	差不多	c=1 d=1.77345e-05 t=66148
+cha cha 	查查	c=36 d=1.1733 t=66148
+cha chu 	查出	c=1 d=1 t=46016
+cha chu 	查处	c=1 d=4.97009e-11 t=66148
+cha dao 	查到	c=1 d=1.93243e-15 t=66148
+cha dian 	差点	c=3 d=3.59848e-06 t=66148
+cha hang qing 	查行情	c=1 d=5.5042e-06 t=66148
+cha jian 	插件	c=16 d=0.0359725 t=66148
+cha kan 	查看	c=25 d=0.00628575 t=66148
+cha ru 	插入	c=4 d=4.85052e-07 t=66148
+cha xun 	查询	c=69 d=0.427415 t=66148
+cha yi 	差异	c=1 d=1.31765e-10 t=66148
+cha yi xia 	查一下	c=3 d=3.53575e-05 t=66148
+cha zhao 	查找	c=16 d=0.00647381 t=66148
+chai 	拆	c=1 d=1 t=47493
+chai 	柴	c=1 d=1 t=60937
+chai fen 	拆分	c=1 d=2.35338e-10 t=66148
+chai jie 	拆解	c=2 d=1.00309 t=50957
+chai kai 	拆开	c=1 d=2.20677e-18 t=66148
+chan pin 	产品	c=1 d=4.85825e-08 t=66148
+chan sheng 	产生	c=9 d=1.43648e-10 t=66148
+chang 	厂	c=1 d=3.61713e-08 t=66148
+chang 	唱	c=1 d=6.55685e-06 t=66148
+chang 	场	c=2 d=1.18305e-07 t=66148
+chang 	常	c=1 d=4.31931e-07 t=66148
+chang 	长	c=9 d=2.3348e-05 t=66148
+chang chu 	长处	c=1 d=0.348192 t=66148
+chang gui 	常规	c=28 d=0.344728 t=66148
+chang jing 	场景	c=2 d=1 t=63936
+chang kou 	敞口	c=3 d=3.67592e-13 t=66148
+chang nian 	常年	c=1 d=1.10574e-06 t=66148
+chang qi 	长期	c=6 d=0.196912 t=66148
+chang qiao 	长桥	c=1 d=3.98792e-09 t=66148
+chang shi 	尝试	c=16 d=0.431711 t=66148
+chang suo 	场所	c=2 d=3.43548e-06 t=66148
+chang tong 	畅通	c=5 d=1.88799e-06 t=66148
+chang yong 	常用	c=7 d=1.01809e-05 t=66148
+chao 	抄	c=2 d=0.0350844 t=66148
+chao 	超	c=2 d=2.35826e-05 t=66148
+chao chu 	超出	c=1 d=1 t=46535
+chao ji 	超级	c=5 d=3.96666e-05 t=66148
+chao kuan 	超宽	c=1 d=1 t=57288
+chao qing 	超清	c=1 d=1 t=44791
+chao shi 	超市	c=1 d=1 t=61226
+chao shi 	超时	c=6 d=0.000144619 t=66148
+chao xi 	抄袭	c=1 d=0.00904991 t=66148
+chao xian 	朝鲜	c=1 d=1 t=50988
+che 	车	c=7 d=0.000113109 t=66148
+che chang 	车厂	c=1 d=1 t=45101
+che di 	彻底	c=16 d=1.38474e-06 t=66148
+che hui 	撤回	c=1 d=9.73786e-12 t=66148
+che liang 	车辆	c=2 d=0.000109301 t=66148
+che xiao 	撤销	c=3 d=0.290931 t=66148
+che zhu 	车主	c=2 d=1.76721 t=45140
+chen xing 	辰星	c=1 d=1 t=46207
+cheng 	成	c=111 d=0.741262 t=66148
+cheng 	称	c=1 d=2.16271e-16 t=66148
+cheng ben 	成本	c=8 d=0.217621 t=66148
+cheng che 	乘车	c=1 d=1 t=55309
+cheng du 	程度	c=27 d=0.762205 t=66148
+cheng gong 	成功	c=103 d=0.441763 t=66148
+cheng gong gan 	成功感	c=2 d=8.5907e-08 t=66148
+cheng guan xiao xue 	城关小学	c=2 d=1.7788 t=54072
+cheng jia 	成家	c=4 d=5.05567e-06 t=66148
+cheng jiao 	成交	c=38 d=0.864109 t=66148
+cheng jiao liang 	成交量	c=5 d=2.63248e-05 t=66148
+cheng se 	橙色	c=6 d=2.43637e-06 t=66148
+cheng shi 	城市	c=1 d=2.22282e-15 t=66148
+cheng xu 	程序	c=14 d=0.000145549 t=66148
+chi 	持	c=2 d=1.85092e-08 t=66148
+chi cang 	持仓	c=38 d=0.158822 t=66148
+chi cun 	尺寸	c=0 d=0.1 t=46127
+chi fan 	吃饭	c=14 d=0.174414 t=66148
+chi gu 	持股	c=3 d=0.210136 t=66148
+chi huan 	迟缓	c=2 d=1.81519e-14 t=66148
+chi jiu 	持久	c=6 d=0.0102037 t=66148
+chi jiu hua 	持久化	c=3 d=0.000498966 t=66148
+chi lun 	齿轮	c=1 d=3.10631e-11 t=66148
+chi you 	持有	c=29 d=0.380764 t=66148
+chi zi 	尺子	c=1 d=6.22414e-11 t=66148
+chong 	充	c=8 d=9.83802e-07 t=66148
+chong 	重	c=2 d=1.75276e-14 t=66148
+chong die 	重叠	c=3 d=9.42247e-07 t=66148
+chong fa 	重发	c=1 d=2.22244e-13 t=66148
+chong fu 	重复	c=30 d=1.54199e-05 t=66148
+chong gou 	重构	c=7 d=4.07054e-15 t=66148
+chong gua 	重挂	c=1 d=3.41646e-13 t=66148
+chong jian 	重建	c=1 d=7.69715e-10 t=66148
+chong jin 	重进	c=1 d=1.97657e-16 t=66148
+chong kai 	重开	c=1 d=2.87638e-18 t=66148
+chong lian 	重连	c=1 d=5.89308e-15 t=66148
+chong qi 	重启	c=53 d=1.14019 t=66148
+chong qi dong 	重启动	c=2 d=5.96262e-06 t=66148
+chong shi 	重试	c=1 d=0.00767337 t=66148
+chong tu 	冲突	c=10 d=1.19626 t=66148
+chong xin 	重新	c=100 d=0.823961 t=66148
+chong yan 	重演	c=1 d=8.48182e-05 t=66148
+chong zhi 	充值	c=18 d=0.227638 t=66148
+chong zhi 	重置	c=5 d=2.65252e-06 t=66148
+chong zhuang 	重装	c=1 d=1 t=65987
+chou 	抽	c=2 d=7.34571e-19 t=66148
+chou 	臭	c=1 d=4.88261e-08 t=66148
+chu 	出	c=96 d=0.869358 t=66148
+chu 	处	c=2 d=1.956 t=50933
+chu 	除	c=1 d=3.63464e-06 t=66148
+chu bei 	储备	c=2 d=0.000852956 t=66148
+chu bu 	初步	c=6 d=2.35906e-09 t=66148
+chu chu 	出处	c=1 d=6.14421e-06 t=66148
+chu cun 	储存	c=3 d=6.01441e-11 t=66148
+chu cuo 	出错	c=55 d=1.28755 t=66148
+chu fa 	出发	c=2 d=4.05934e-12 t=66148
+chu fa 	触发	c=4 d=7.50584e-08 t=66148
+chu ge 	出个	c=1 d=3.82228e-10 t=66148
+chu huo 	出货	c=1 d=1 t=60414
+chu jin 	出金	c=2 d=5.09418e-07 t=66148
+chu jing 	出境	c=1 d=1 t=45134
+chu kou 	出口	c=4 d=2.90984 t=65170
+chu lai 	出来	c=24 d=0.175788 t=66148
+chu le 	除了	c=4 d=1.50759e-06 t=66148
+chu li 	处理	c=99 d=0.441398 t=66148
+chu qin 	出勤	c=1 d=1 t=62228
+chu qu 	出去	c=2 d=2.41254e-08 t=66148
+chu qu 	除去	c=1 d=1 t=55551
+chu shi 	初始	c=2 d=0.00349997 t=66148
+chu shi hua 	初始化	c=3 d=0.0290133 t=66148
+chu shou 	出售	c=2 d=1.4059e-08 t=66148
+chu shu ju 	出数据	c=1 d=2.07254e-15 t=66148
+chu wai 	除外	c=1 d=3.32181e-06 t=66148
+chu wen ti 	出问题	c=1 d=4.72768e-11 t=66148
+chu xian 	出现	c=20 d=0.0116203 t=66148
+chu xian le 	出现了	c=1 d=1 t=51814
+chu xin 	初心	c=0 d=0.1 t=54049
+chu yi fen 	出一份	c=2 d=3.18749e-09 t=66148
+chu zhi 	处置	c=2 d=0.00136719 t=66148
+chuan 	串	c=1 d=2.30638e-08 t=66148
+chuan 	传	c=6 d=0.000533078 t=66148
+chuan bo 	传播	c=1 d=1 t=57063
+chuan dao 	传导	c=1 d=1 t=54527
+chuan jian 	船舰	c=1 d=1.09775e-09 t=66148
+chuan shu 	传输	c=3 d=1.00035 t=52765
+chuan wei 	川味	c=2 d=1.47237 t=64176
+chuang 	创	c=1 d=1 t=61952
+chuang jian 	创建	c=71 d=0.731439 t=66148
+chuang kou 	窗口	c=9 d=0.0165727 t=66148
+chuang li 	创立	c=1 d=1.05744e-10 t=66148
+chuang shou 	创收	c=1 d=6.3193e-13 t=66148
+chuang xin 	创新	c=3 d=7.77185e-06 t=66148
+chui niu 	吹牛	c=1 d=2.13937e-06 t=66148
+chun 	纯	c=2 d=0.000290183 t=66148
+chun jing 	纯净	c=2 d=0.16696 t=66148
+ci 	次	c=21 d=0.527524 t=66148
+ci 	此	c=4 d=1.9972 t=58310
+ci 	词	c=5 d=5.18629e-12 t=66148
+ci ce lve 	此策略	c=1 d=1.57698e-06 t=66148
+ci ci 	此次	c=1 d=1 t=62695
+ci ji 	刺激	c=2 d=0.339596 t=66148
+ci ku 	词库	c=2 d=6.74703e-05 t=66148
+ci pan 	磁盘	c=4 d=6.53992e-05 t=66148
+ci shu 	次数	c=2 d=1 t=49311
+ci yao 	次要	c=1 d=3.92786e-07 t=66148
+cong 	从	c=76 d=0.155201 t=66148
+cong bei fen 	从备份	c=1 d=7.43242e-10 t=66148
+cong er 	从而	c=1 d=1 t=65919
+cong lai 	从来	c=3 d=0.185444 t=66148
+cong mang 	匆忙	c=1 d=0.0374406 t=66148
+cong tou 	从头	c=4 d=0.00775961 t=66148
+cong wang 	从网	c=1 d=0.000754089 t=66148
+cu xiao 	促销	c=1 d=0.00249118 t=66148
+cuan gai 	篡改	c=1 d=1 t=57550
+cun 	存	c=50 d=0.717191 t=66148
+cun cheng 	存成	c=2 d=4.30963e-10 t=66148
+cun chu 	存储	c=42 d=1.12048 t=66148
+cun dao 	存到	c=16 d=0.339596 t=66148
+cun fang 	存放	c=4 d=0.00324708 t=66148
+cun hao 	存好	c=3 d=9.05145e-05 t=66148
+cun le 	存了	c=2 d=7.15824e-09 t=66148
+cun qi lai 	存起来	c=4 d=1.21308e-06 t=66148
+cun ru 	存入	c=14 d=0.227638 t=66148
+cun wei 	存为	c=1 d=1 t=52346
+cun yi xia 	存一下	c=1 d=3.46574e-05 t=66148
+cun yu 	存于	c=1 d=1.0788e-10 t=66148
+cun zai 	存在	c=30 d=0.339059 t=66148
+cuo 	错	c=67 d=0.929826 t=66148
+cuo le 	错了	c=7 d=1.96225e-08 t=66148
+cuo shi 	措施	c=1 d=5.37011e-10 t=66148
+cuo shou bu ji 	措手不及	c=2 d=0.00141589 t=66148
+cuo wu 	错误	c=60 d=0.0933886 t=66148
+da 	大	c=51 d=0.318641 t=66148
+da 	打	c=55 d=0.899838 t=66148
+da 	搭	c=2 d=1.25924e-06 t=66148
+da 	答	c=2 d=1.3238e-06 t=66148
+da 	达	c=2 d=0.744532 t=66148
+da an 	答案	c=1 d=1 t=54284
+da biao 	打标	c=1 d=1 t=59354
+da biao 	达标	c=1 d=1 t=58002
+da bu 	打不	c=1 d=4.26746e-12 t=66148
+da bu fen 	大部分	c=1 d=6.77864e-15 t=66148
+da bu kai 	打不开	c=4 d=0.119433 t=66148
+da chang 	大厂	c=1 d=1.75276e-14 t=66148
+da cheng 	达成	c=1 d=1.66813e-20 t=66148
+da dao 	大道	c=1 d=1 t=45356
+da dao 	达到	c=9 d=1.18898e-07 t=66148
+da dian 	大点	c=2 d=1.39239e-12 t=66148
+da die 	大跌	c=5 d=0.280832 t=66148
+da dui 	大队	c=4 d=0.259251 t=66148
+da fang xiang 	大方向	c=1 d=2.15046e-08 t=66148
+da fu 	大幅	c=7 d=1.8022e-05 t=66148
+da ge 	打个	c=1 d=7.31032e-21 t=66148
+da gou 	打钩	c=2 d=2.54367e-13 t=66148
+da jia 	大家	c=3 d=4.66691e-05 t=66148
+da jia 	打架	c=1 d=3.61651e-06 t=66148
+da jian 	搭建	c=7 d=6.55685e-06 t=66148
+da kai 	打开	c=42 d=0.0790111 t=66148
+da kai shi 	打开时	c=1 d=5.10822e-10 t=66148
+da kuo hao 	大括号	c=1 d=1 t=49119
+da li 	搭理	c=1 d=8.06953e-07 t=66148
+da lu 	大陆	c=2 d=5.80928e-05 t=66148
+da mian ji 	大面积	c=1 d=0.00673795 t=66148
+da nao 	大脑	c=1 d=6.08411e-08 t=66148
+da pan 	大盘	c=13 d=0.802527 t=66148
+da sao 	打扫	c=1 d=7.03946e-18 t=66148
+da shang 	打赏	c=6 d=1.66001e-11 t=66148
+da shen 	大神	c=1 d=1.53486e-11 t=66148
+da shi 	大事	c=1 d=0.408608 t=66148
+da suan 	打算	c=6 d=0.198891 t=66148
+da tong 	打通	c=1 d=1.21279e-05 t=66148
+da tou 	打头	c=1 d=1.30095e-07 t=66148
+da wang 	大王	c=1 d=2.15009e-06 t=66148
+da xiao 	大小	c=4 d=7.963e-09 t=66148
+da xing 	大型	c=2 d=1.74704e-05 t=66148
+da xuan 	大选	c=2 d=6.81679e-14 t=66148
+da yi 	大意	c=1 d=3.09935e-14 t=66148
+da yin 	打印	c=9 d=0.145497 t=66148
+da zhang 	大涨	c=12 d=0.357569 t=66148
+dai 	代	c=2 d=1.15404e-09 t=66148
+dai 	带	c=12 d=7.07228e-06 t=66148
+dai 	待	c=1 d=1 t=54423
+dai biao 	代表	c=5 d=2.90232e-06 t=66148
+dai dong 	带动	c=1 d=3.4945e-14 t=66148
+dai dui 	带队	c=1 d=5.15781e-06 t=66148
+dai er 	戴尔	c=1 d=2.86602e-05 t=66148
+dai kuan 	带宽	c=1 d=2.20985e-05 t=66148
+dai li 	代理	c=34 d=0.184691 t=66148
+dai ling 	带领	c=2 d=1.6005 t=49107
+dai ma 	代码	c=231 d=0.270753 t=66148
+dai qiu 	带球	c=1 d=9.14242e-05 t=66148
+dai zi mu 	带字幕	c=1 d=1 t=46409
+dan 	但	c=7 d=1.65783e-06 t=66148
+dan 	单	c=28 d=0.0581366 t=66148
+dan bao 	担保	c=1 d=2.13493e-11 t=66148
+dan bi 	单笔	c=1 d=0.0337087 t=66148
+dan chun 	单纯	c=1 d=1.58953e-11 t=66148
+dan ci 	单词	c=3 d=2.31157e-05 t=66148
+dan du 	单独	c=9 d=0.00124418 t=66148
+dan ge 	单个	c=1 d=1 t=46487
+dan ge 	耽搁	c=1 d=1 t=55594
+dan kai 	单开	c=1 d=1.87372e-05 t=66148
+dan ling 	单另	c=1 d=1 t=63505
+dan ri 	单日	c=2 d=1.14751e-11 t=66148
+dan shi 	但是	c=26 d=0.232739 t=66148
+dan wei 	单位	c=4 d=4.66776e-06 t=66148
+dan xin 	担心	c=1 d=5.28837e-06 t=66148
+dan zi 	单子	c=21 d=0.129831 t=66148
+dang 	党	c=2 d=1 t=65327
+dang 	当	c=1 d=3.25936e-18 t=66148
+dang qian 	当前	c=164 d=1.53761 t=66148
+dang ri 	当日	c=1 d=1 t=56681
+dang shi 	当时	c=2 d=8.6576e-11 t=66148
+dang tang 	当堂	c=1 d=6.36306e-06 t=66148
+dang tian 	当天	c=4 d=5.44941e-06 t=66148
+dang zhu 	挡住	c=3 d=0.00848038 t=66148
+dao 	倒	c=1 d=1.84168e-08 t=66148
+dao 	到	c=643 d=3.43289 t=66148
+dao 	道	c=2 d=1 t=63640
+dao chu 	导出	c=7 d=0.145148 t=66148
+dao da 	到大	c=1 d=9.33823e-19 t=66148
+dao da 	到达	c=2 d=6.64328e-13 t=66148
+dao di 	到底	c=1 d=1 t=58118
+dao kou 	道口	c=10 d=1.30008e-05 t=66148
+dao le 	到了	c=1 d=3.8434e-16 t=66148
+dao li 	道理	c=3 d=0.0434998 t=66148
+dao qi 	到期	c=78 d=2.13722 t=66148
+dao qi ri 	到期日	c=1 d=3.18332e-05 t=66148
+dao ru 	导入	c=40 d=0.108623 t=66148
+dao shi hou 	到时候	c=1 d=5.76049e-12 t=66148
+dao shu 	倒数	c=2 d=4.63329e-09 t=66148
+dao wei 	到位	c=4 d=1.26229e-05 t=66148
+dao zhi 	倒置	c=1 d=0.00421123 t=66148
+de 	得	c=2 d=2.03047e-09 t=66148
+de 	的	c=3352 d=14.8993 t=66148
+de dao 	得到	c=5 d=6.84094e-05 t=66148
+de o 	的哦	c=2 d=7.79331e-09 t=66148
+deng 	灯	c=2 d=1 t=50931
+deng 	等	c=18 d=0.19205 t=66148
+deng dai 	等待	c=5 d=1.32039e-05 t=66148
+deng deng 	等等	c=3 d=1 t=65573
+deng ji 	登记	c=2 d=0.000112023 t=66148
+deng ji 	等级	c=1 d=0.000668817 t=66148
+deng jiang 	等奖	c=1 d=1 t=54065
+deng lu 	登录	c=150 d=0.285722 t=66148
+deng pao 	灯泡	c=1 d=1 t=60533
+deng yu 	等于	c=1 d=0.00247875 t=66148
+di 	低	c=5 d=0.189938 t=66148
+di 	底	c=1 d=1 t=43861
+di 	第	c=10 d=0.00366107 t=66148
+di bu 	底部	c=3 d=1 t=62203
+di cheng ben 	低成本	c=1 d=1.27233e-10 t=66148
+di dian 	地点	c=2 d=0.00259284 t=66148
+di er 	第二	c=17 d=7.6775e-07 t=66148
+di er ci 	第二次	c=1 d=4.35221e-08 t=66148
+di er ge 	第二个	c=2 d=4.12166e-11 t=66148
+di er zhong 	第二种	c=1 d=6.75885e-10 t=66148
+di fang 	地方	c=21 d=0.022269 t=66148
+di fu 	低负	c=1 d=6.29976e-06 t=66148
+di jiao 	递交	c=2 d=1.78264e-07 t=66148
+di kai 	低开	c=1 d=0.83527 t=66148
+di le 	低了	c=1 d=2.97782e-14 t=66148
+di qiu 	地球	c=1 d=1 t=56012
+di qu 	地区	c=2 d=0.000293099 t=66148
+di san 	第三	c=5 d=0.00408677 t=66148
+di si 	第四	c=4 d=1.29759e-06 t=66148
+di tu 	地图	c=5 d=3.67671 t=64758
+di wei 	地位	c=1 d=0.207008 t=66148
+di yi 	第一	c=27 d=0.0360069 t=66148
+di yi ci 	第一次	c=4 d=0.529935 t=66148
+di yi ge 	第一个	c=6 d=1.25296e-06 t=66148
+di yi hang 	第一行	c=1 d=1 t=55051
+di yi ming 	第一名	c=1 d=2.62613e-06 t=66148
+di yi wei 	第一位	c=1 d=1 t=48414
+di yu 	低于	c=1 d=1 t=49584
+di zhi 	地址	c=26 d=0.65377 t=66148
+di zou 	低走	c=1 d=5.548e-11 t=66148
+dian 	典	c=2 d=1.18806e-05 t=66148
+dian 	店	c=5 d=1.55753 t=61499
+dian 	点	c=75 d=1.71539 t=66148
+dian can 	点餐	c=1 d=1 t=64515
+dian dian 	点点	c=1 d=2.53012e-09 t=66148
+dian fei 	电费	c=3 d=4.55318e-06 t=66148
+dian gan 	电杆	c=1 d=2.83847e-09 t=66148
+dian hua 	电话	c=1 d=1.22265e-12 t=66148
+dian ji 	点击	c=8 d=0.148787 t=66148
+dian nao 	电脑	c=21 d=1.45695 t=66148
+dian ping 	点评	c=1 d=1 t=64360
+dian shi 	电视	c=3 d=6.06417e-05 t=66148
+dian ti jiao 	点提交	c=1 d=0.557106 t=66148
+dian wang 	电网	c=1 d=1.66241e-09 t=66148
+dian wei 	点位	c=1 d=1 t=44230
+dian wo 	点我	c=2 d=1.99501 t=49316
+dian xin 	电信	c=3 d=5.63782e-05 t=66148
+dian xing 	典型	c=1 d=4.96839e-07 t=66148
+dian zhang 	店长	c=1 d=1 t=62207
+dian zi 	电子	c=2 d=0.0117959 t=66148
+diao 	掉	c=18 d=0.0396998 t=66148
+diao cha 	调查	c=1 d=1 t=56370
+diao dian 	掉电	c=1 d=2.30004e-05 t=66148
+diao xian 	掉线	c=7 d=3.70849e-06 t=66148
+diao yong 	调用	c=24 d=0.191673 t=66148
+die 	跌	c=25 d=0.987408 t=66148
+die po 	跌破	c=1 d=4.22285e-06 t=66148
+ding 	定	c=11 d=0.0298969 t=66148
+ding 	盯	c=1 d=1 t=55882
+ding 	订	c=1 d=1 t=61216
+ding 	顶	c=2 d=0.0020601 t=66148
+ding bu 	顶部	c=1 d=2.93958e-09 t=66148
+ding ceng 	顶层	c=1 d=4.37403e-08 t=66148
+ding dan 	订单	c=10 d=1.91371 t=66148
+ding ding 	钉钉	c=1 d=1.14019e-14 t=66148
+ding gou 	订购	c=3 d=8.27812e-15 t=66148
+ding hang 	顶行	c=1 d=1.77405e-09 t=66148
+ding qi 	定期	c=1 d=3.55347e-05 t=66148
+ding shi 	定时	c=42 d=1.49079 t=66148
+ding shi qi 	定时器	c=2 d=1.90484 t=49426
+ding wei 	定位	c=1 d=1 t=60524
+ding yi 	定义	c=2 d=5.47674e-06 t=66148
+ding yue 	订阅	c=55 d=0.294261 t=66148
+ding zhe 	盯着	c=4 d=1.31833e-19 t=66148
+ding zhi 	定制	c=1 d=0.110803 t=66148
+diu 	丢	c=3 d=5.83243e-11 t=66148
+diu shi 	丢失	c=8 d=0.010894 t=66148
+dong 	动	c=37 d=0.501204 t=66148
+dong 	懂	c=17 d=0.00895987 t=66148
+dong fang 	东方	c=1 d=1.99609e-14 t=66148
+dong guo 	动过	c=2 d=1.66034 t=51955
+dong jing 	动静	c=1 d=1 t=49318
+dong le 	懂了	c=1 d=2.31834e-10 t=66148
+dong shou 	动手	c=5 d=0.00471275 t=66148
+dong tai 	动态	c=1 d=4.56664e-15 t=66148
+dong xi 	东西	c=47 d=0.0196118 t=66148
+dong zuo 	动作	c=5 d=5.80039e-05 t=66148
+dou 	都	c=370 d=1.71413 t=66148
+dou di 	兜底	c=1 d=0.740818 t=66148
+dou dong 	抖动	c=1 d=1 t=53410
+dou shi 	都是	c=22 d=0.381504 t=66148
+dou shi hen 	都是很	c=1 d=2.69912e-05 t=66148
+dou yao 	都要	c=1 d=1 t=56228
+dou yin 	抖音	c=14 d=0.822988 t=66148
+dou yong 	都用	c=1 d=1 t=46085
+dou you 	都有	c=3 d=1.41319e-10 t=66148
+dou zou 	都走	c=3 d=0.0461896 t=66148
+du 	度	c=3 d=0.167797 t=66148
+du 	读	c=30 d=1.44473e-05 t=66148
+du 	赌	c=1 d=1 t=45224
+du chu 	读出	c=5 d=1 t=61765
+du dong 	读懂	c=1 d=1 t=48961
+du jia 	独家	c=1 d=5.32031e-18 t=66148
+du jue 	杜绝	c=2 d=5.55952e-06 t=66148
+du li 	独立	c=10 d=2.50218e-05 t=66148
+du ou 	读欧	c=3 d=4.95725e-10 t=66148
+du qu 	读取	c=9 d=0.559898 t=66148
+du ru 	读入	c=1 d=1 t=57724
+du shan qi shen 	独善其身	c=1 d=0.960789 t=66148
+du shu yi zhi 	独树一帜	c=1 d=2.45025e-14 t=66148
+duan 	断	c=5 d=0.000252273 t=66148
+duan 	段	c=50 d=1.05682 t=66148
+duan 	短	c=3 d=1.02541 t=57383
+duan 	端	c=110 d=0.449342 t=66148
+duan ban 	短板	c=1 d=1 t=53530
+duan dian 	断电	c=1 d=1.28801e-07 t=66148
+duan kai 	断开	c=2 d=1.20695e-07 t=66148
+duan kou 	端口	c=70 d=0.807125 t=66148
+duan luo 	段落	c=1 d=8.39886e-07 t=66148
+duan xin 	短信	c=3 d=0.0212797 t=66148
+duan zhang 	段长	c=1 d=1 t=60979
+duan zhou qi 	短周期	c=2 d=1.01145 t=57403
+dui 	对	c=141 d=0.882647 t=66148
+dui 	队	c=10 d=2.31602e-06 t=66148
+dui ba 	对吧	c=6 d=1.79652e-10 t=66148
+dui bi 	对比	c=13 d=0.00848038 t=66148
+dui chong 	对冲	c=5 d=4.43078 t=45857
+dui cuo 	对错	c=1 d=1 t=50596
+dui fang 	堆放	c=1 d=2.82431e-09 t=66148
+dui fang 	对方	c=1 d=1.98546e-10 t=66148
+dui hua 	对话	c=5 d=0.0291588 t=66148
+dui jiao 	对角	c=1 d=1 t=45237
+dui jie 	对接	c=6 d=1.50667 t=53090
+dui le 	对了	c=4 d=0.00660453 t=66148
+dui ma 	对吗	c=5 d=0.00116935 t=66148
+dui qi 	对齐	c=12 d=0.000237581 t=66148
+dui wai 	对外	c=3 d=1.8603e-10 t=66148
+dui wo 	对我	c=2 d=6.31606e-07 t=66148
+dui ying 	对应	c=5 d=1.56154 t=66148
+dui zhang 	对账	c=4 d=3.14713 t=54896
+dui zhao 	对照	c=6 d=0.00141589 t=66148
+dui zhe 	对着	c=1 d=2.72106e-12 t=66148
+duo 	多	c=85 d=0.650955 t=66148
+duo da 	多大	c=1 d=6.00801e-07 t=66148
+duo dan 	多单	c=1 d=1 t=45010
+duo ge 	多个	c=1 d=2.9768e-10 t=66148
+duo hui 	多会	c=11 d=0.0110536 t=66148
+duo jiu 	多久	c=7 d=0.285895 t=66148
+duo kui 	多亏	c=1 d=9.47454e-13 t=66148
+duo nian 	多年	c=1 d=1 t=55892
+duo shao 	多少	c=43 d=0.290593 t=66148
+duo tu 	多图	c=1 d=8.36125e-13 t=66148
+duo yong hu 	多用户	c=1 d=1 t=53003
+e 	额	c=1 d=1 t=63340
+e 	饿	c=3 d=1.69161e-08 t=66148
+e du 	额度	c=35 d=0.034869 t=66148
+e le 	饿了	c=4 d=0.524663 t=66148
+e luo si 	俄罗斯	c=1 d=1 t=45148
+e o 	饿哦	c=5 d=1.68696e-05 t=66148
+er 	二	c=8 d=0.00357068 t=66148
+er 	尔	c=1 d=4.71388e-06 t=66148
+er 	而	c=3 d=0.000262568 t=66148
+er ci 	二次	c=4 d=4.08816e-07 t=66148
+er ge 	二个	c=1 d=1 t=60802
+er ji 	二级	c=1 d=2.52445e-12 t=66148
+er ji 	耳机	c=1 d=1 t=60732
+er kai 	二开	c=1 d=3.11488e-14 t=66148
+er qie 	而且	c=2 d=1 t=60071
+er wei ma 	二维码	c=8 d=0.00109474 t=66148
+er xing 	二星	c=1 d=6.77287e-05 t=66148
+er yi 	而已	c=1 d=3.8607e-10 t=66148
+fa 	发	c=84 d=0.454085 t=66148
+fa 	法	c=11 d=4.94907e-05 t=66148
+fa an 	发暗	c=1 d=1 t=52223
+fa bi 	法币	c=1 d=5.06875e-07 t=66148
+fa bu 	发布	c=10 d=0.447088 t=66148
+fa cuo 	发错	c=1 d=1.50887e-16 t=66148
+fa dian 	法典	c=1 d=0.241714 t=66148
+fa ge 	发个	c=9 d=5.27899e-05 t=66148
+fa gei 	发给	c=6 d=4.48924e-05 t=66148
+fa hui 	发挥	c=8 d=0.221135 t=66148
+fa lai 	发来	c=1 d=3.45856e-10 t=66148
+fa lv 	法律	c=1 d=1 t=45084
+fa ni 	发你	c=1 d=2.43679e-08 t=66148
+fa o 	发哦	c=1 d=3.71059e-14 t=66148
+fa ren 	法人	c=2 d=5.5175e-05 t=66148
+fa san 	发散	c=1 d=1.01387e-15 t=66148
+fa sheng 	发生	c=6 d=0.0365162 t=66148
+fa song 	发送	c=9 d=2.18997e-05 t=66148
+fa song gei 	发送给	c=1 d=8.37718e-06 t=66148
+fa wo 	发我	c=7 d=5.14449e-05 t=66148
+fa xian 	发现	c=11 d=0.0136366 t=66148
+fa xing 	发行	c=6 d=4.49058e-12 t=66148
+fa yi fen 	发一份	c=2 d=2.13385e-05 t=66148
+fa yi xia 	发一下	c=1 d=2.64154e-16 t=66148
+fa you jian 	发邮件	c=4 d=9.85447e-05 t=66148
+fa zhan 	发展	c=1 d=6.29976e-06 t=66148
+fa zhi 	法治	c=1 d=6.82443e-06 t=66148
+fa zhi 	阈值	c=2 d=1.01563e-06 t=66148
+fa zhi ling 	发指令	c=1 d=0.000497955 t=66148
+fan 	翻	c=1 d=7.24644e-06 t=66148
+fan bei 	翻倍	c=1 d=5.46446e-09 t=66148
+fan dai 	反代	c=1 d=7.15947e-11 t=66148
+fan fu 	反复	c=2 d=8.36551e-19 t=66148
+fan hou 	饭后	c=1 d=7.79728e-15 t=66148
+fan hui 	返回	c=11 d=0.161329 t=66148
+fan kan 	翻看	c=1 d=1.77128e-20 t=66148
+fan kui 	反馈	c=3 d=0.302704 t=66148
+fan li 	返利	c=1 d=1 t=57023
+fan qiang 	翻墙	c=1 d=1 t=43844
+fan si 	反思	c=1 d=3.55589e-13 t=66148
+fan si le 	烦死了	c=1 d=1 t=52763
+fan tan 	反弹	c=3 d=1 t=65422
+fan ti zi 	繁体字	c=1 d=1.6102e-16 t=66148
+fan tie 	饭贴	c=1 d=1 t=44141
+fan wei 	范围	c=2 d=1.47774e-06 t=66148
+fan ye 	翻页	c=1 d=6.4148e-13 t=66148
+fan yi 	翻译	c=28 d=0.0411719 t=66148
+fan ying 	反应	c=6 d=0.535261 t=66148
+fang 	放	c=15 d=0.00527382 t=66148
+fang 	方	c=2 d=9.80532e-05 t=66148
+fang 	防	c=2 d=1 t=56035
+fang an 	方案	c=105 d=0.0984387 t=66148
+fang bian 	方便	c=3 d=0.00129056 t=66148
+fang chu 	放出	c=2 d=1.00009 t=60757
+fang da 	放大	c=5 d=4.27e-09 t=66148
+fang dao 	放到	c=12 d=0.0813231 t=66148
+fang fa 	方法	c=82 d=0.729398 t=66148
+fang ge 	方格	c=3 d=2.11511 t=48193
+fang hao 	房号	c=1 d=1 t=50556
+fang hao 	放好	c=1 d=1 t=50557
+fang hu 	防护	c=2 d=0.00839633 t=66148
+fang huo 	防火	c=11 d=0.00873636 t=66148
+fang huo qiang 	防火墙	c=37 d=0.597501 t=66148
+fang kai 	放开	c=1 d=2.15529e-05 t=66148
+fang kuan 	放宽	c=1 d=1 t=62244
+fang le 	放了	c=1 d=5.05569e-06 t=66148
+fang mian 	方面	c=8 d=0.339596 t=66148
+fang qi 	放弃	c=8 d=0.67368 t=66148
+fang shi 	方式	c=41 d=0.200875 t=66148
+fang song 	仿宋	c=1 d=2.12392e-09 t=66148
+fang wei 	方位	c=1 d=1 t=56039
+fang wen 	访问	c=31 d=0.00662499 t=66148
+fang xiang 	方向	c=25 d=0.429915 t=66148
+fang xing 	放行	c=6 d=0.795045 t=66148
+fang zai 	放在	c=3 d=0.946485 t=66148
+fang zhao 	仿照	c=8 d=0.494403 t=66148
+fang zhe 	放着	c=2 d=1.1377e-14 t=66148
+fang zhi 	防止	c=1 d=0.000769323 t=66148
+fang zhuang 	防撞	c=2 d=1.97531 t=61943
+fei 	废	c=4 d=0.0056897 t=66148
+fei 	费	c=5 d=1.45573e-06 t=66148
+fei 	非	c=14 d=0.343009 t=66148
+fei 	飞	c=3 d=6.68929e-06 t=66148
+fei bo na qi 	斐波那契	c=3 d=1.91395 t=54452
+fei chang 	非常	c=13 d=5.73742e-05 t=66148
+fei chang gui 	非常规	c=1 d=1.76274e-22 t=66148
+fei jin 	费劲	c=4 d=9.80699e-07 t=66148
+fei le 	废了	c=1 d=1.64956e-06 t=66148
+fei mei 	肥美	c=1 d=9.96538e-19 t=66148
+fei nong 	非农	c=3 d=0.320239 t=66148
+fei qi 	废弃	c=1 d=9.26451e-14 t=66148
+fei xing 	飞行	c=1 d=1.17491e-14 t=66148
+fei yao 	非要	c=1 d=9.75808e-07 t=66148
+fei yong 	费用	c=12 d=7.78326e-09 t=66148
+fen 	份	c=2 d=6.16117e-09 t=66148
+fen 	分	c=19 d=0.00678594 t=66148
+fen bian 	分辨	c=1 d=1 t=57427
+fen bie 	分别	c=14 d=0.00613117 t=66148
+fen bu 	分步	c=9 d=0.0142642 t=66148
+fen cheng 	分成	c=4 d=6.77056e-08 t=66148
+fen dan 	分担	c=1 d=2.81654e-06 t=66148
+fen gong 	分工	c=1 d=7.06753e-06 t=66148
+fen hang 	分行	c=1 d=1.36482e-12 t=66148
+fen hong se 	粉红色	c=1 d=1 t=55728
+fen jiu 	汾酒	c=1 d=1 t=61223
+fen kai 	分开	c=3 d=2.89581e-09 t=66148
+fen lei 	分类	c=2 d=5.1875e-07 t=66148
+fen liu 	分流	c=3 d=0.0862936 t=66148
+fen pai 	分派	c=1 d=1.79652e-10 t=66148
+fen pei 	分配	c=2 d=0.0323675 t=66148
+fen ping 	分屏	c=8 d=1.00002 t=50788
+fen qu 	分区	c=1 d=1 t=52959
+fen si 	粉丝	c=2 d=3.88006e-10 t=66148
+fen xi 	分析	c=167 d=1.43739 t=66148
+fen xi fen xi 	分析分析	c=1 d=1 t=52782
+fen zhi 	分支	c=180 d=2.38543 t=66148
+fen zhong 	分钟	c=45 d=6.17501e-06 t=66148
+fen zu 	分组	c=19 d=0.225753 t=66148
+feng 	封	c=7 d=0.0120946 t=66148
+feng 	锋	c=2 d=6.64672e-07 t=66148
+feng 	风	c=2 d=1.99005 t=62108
+feng fu 	丰富	c=7 d=0.0884781 t=66148
+feng ge 	风格	c=4 d=3.01843e-11 t=66148
+feng hao 	封号	c=5 d=0.145876 t=66148
+feng jin 	封禁	c=5 d=1.80893e-05 t=66148
+feng mi 	风靡	c=1 d=1.38568e-14 t=66148
+feng sha 	封杀	c=1 d=1 t=64485
+feng shan 	风扇	c=1 d=1 t=65955
+feng suo 	封锁	c=1 d=3.72083e-17 t=66148
+feng xian 	风险	c=9 d=0.182684 t=66148
+feng zhuang 	封装	c=1 d=1 t=65572
+fo de jiao 	佛得角	c=2 d=9.99029e-09 t=66148
+fou 	否	c=18 d=0.405938 t=66148
+fou le 	否了	c=1 d=6.39714e-10 t=66148
+fou ze 	否则	c=1 d=5.1578e-06 t=66148
+fu 	付	c=3 d=2.05232e-06 t=66148
+fu 	复	c=1 d=1 t=59860
+fu 	富	c=2 d=1.97477 t=61522
+fu 	服	c=1 d=7.19537e-11 t=66148
+fu dao 	辅导	c=1 d=2.53055e-11 t=66148
+fu du 	幅度	c=1 d=1 t=45230
+fu fei 	付费	c=18 d=0.0329721 t=66148
+fu fen 	负分	c=1 d=2.27166e-06 t=66148
+fu gai 	覆盖	c=6 d=2.03537e-08 t=66148
+fu hao 	符号	c=3 d=2.90983e-07 t=66148
+fu he 	复核	c=8 d=0.386741 t=66148
+fu he 	符合	c=7 d=2.42127e-05 t=66148
+fu jian 	附件	c=1 d=9.54177e-08 t=66148
+fu ke 	复刻	c=3 d=0.67032 t=66148
+fu kuan 	付款	c=10 d=0.938393 t=66148
+fu li 	福利	c=3 d=4.87281e-06 t=66148
+fu pan 	复盘	c=2 d=0.034562 t=66148
+fu ren 	夫人	c=1 d=1 t=61695
+fu shan 	浮山	c=40 d=0.81091 t=66148
+fu shan xian 	浮山县	c=3 d=1.78756e-10 t=66148
+fu shang 	附上	c=1 d=1 t=55007
+fu shu 	附属	c=1 d=1 t=61936
+fu tu 	富途	c=202 d=0.469595 t=66148
+fu tu niu niu 	富途牛牛	c=1 d=5.91033e-20 t=66148
+fu weng 	富翁	c=1 d=1.42788e-14 t=66148
+fu wu 	服务	c=175 d=0.972276 t=66148
+fu wu qi 	服务器	c=83 d=0.472367 t=66148
+fu wu qi duan 	服务器端	c=1 d=1 t=47015
+fu wu qu 	服务区	c=1 d=1 t=55317
+fu xi 	复习	c=2 d=0.00909528 t=66148
+fu xie 	覆写	c=8 d=8.20533e-07 t=66148
+fu yong 	复用	c=1 d=1 t=60872
+fu za 	复杂	c=4 d=2.80975e-07 t=66148
+fu zai 	负载	c=5 d=0.0409755 t=66148
+fu ze 	负责	c=10 d=1.26402e-05 t=66148
+fu zhang gui 	富掌柜	c=2 d=1.04221 t=61528
+fu zhi 	复制	c=59 d=0.178731 t=66148
+fu zhi 	赋值	c=1 d=1 t=55361
+gai 	改	c=197 d=1.61993 t=66148
+gai 	该	c=50 d=0.0572688 t=66148
+gai ban 	改版	c=2 d=1 t=49547
+gai bian 	改变	c=3 d=2.13973e-08 t=66148
+gai cheng 	改成	c=12 d=0.000555857 t=66148
+gai dong 	改动	c=8 d=1.10592e-08 t=66148
+gai gei 	该给	c=0 d=0.0231078 t=66148
+gai gei wo 	该给我	c=1 d=0.232236 t=66148
+gai hou 	改后	c=1 d=1 t=62871
+gai hui 	改回	c=1 d=8.91973e-09 t=66148
+gai jin 	改进	c=4 d=0.00027603 t=66148
+gai le 	改了	c=2 d=1.59804e-15 t=66148
+gai lun 	概论	c=1 d=5.45221e-12 t=66148
+gai lv 	概率	c=2 d=1 t=62737
+gai ming 	改名	c=1 d=1 t=47637
+gai nian 	概念	c=1 d=0.0114473 t=66148
+gai xie 	改写	c=2 d=3.48366e-10 t=66148
+gai yi xia 	改一下	c=1 d=1 t=50710
+gai yong 	改用	c=3 d=7.96997e-08 t=66148
+gai zao 	改造	c=12 d=1.50947e-05 t=66148
+gai zheng 	改正	c=2 d=3.31436e-09 t=66148
+gan 	干	c=13 d=0.0038549 t=66148
+gan 	感	c=3 d=0.247833 t=66148
+gan 	敢	c=10 d=0.822835 t=66148
+gan 	杆	c=2 d=5.44117e-09 t=66148
+gan de 	干的	c=2 d=9.05608e-11 t=66148
+gan dian 	干点	c=1 d=2.99896e-09 t=66148
+gan jing 	干净	c=11 d=0.00700335 t=66148
+gan jue 	感觉	c=11 d=4.65492e-05 t=66148
+gan kuai 	赶快	c=3 d=3.69744e-11 t=66148
+gan ma 	干嘛	c=8 d=0.00282287 t=66148
+gan mai 	敢卖	c=1 d=6.08514e-10 t=66148
+gan wan 	干完	c=1 d=0.00946646 t=66148
+gan xie 	感谢	c=7 d=9.16608e-06 t=66148
+gan zhi 	感知	c=2 d=6.85865e-06 t=66148
+gang 	刚	c=16 d=0.00019549 t=66148
+gang 	岗	c=1 d=1 t=53607
+gang 	港	c=1 d=3.46751e-11 t=66148
+gang 	钢	c=2 d=4.55379e-14 t=66148
+gang ao 	港澳	c=1 d=2.96811e-05 t=66148
+gang bi 	港币	c=2 d=1.08927e-06 t=66148
+gang cai 	刚才	c=38 d=0.134014 t=66148
+gang gang 	刚刚	c=2 d=3.99664e-14 t=66148
+gang gu 	港股	c=2 d=3.69204e-06 t=66148
+gang jin hun ning tu 	钢筋混凝土	c=1 d=1 t=61336
+gang qu 	港区	c=2 d=1.93707 t=62522
+gao 	搞	c=3 d=0.00353515 t=66148
+gao 	稿	c=1 d=1 t=50101
+gao 	高	c=31 d=1.0512 t=66148
+gao de 	高德	c=1 d=1 t=61537
+gao de 	高的	c=1 d=4.77276e-05 t=66148
+gao dian 	高点	c=1 d=0.0523397 t=66148
+gao ding 	搞定	c=1 d=1.89416e-15 t=66148
+gao dong 	搞懂	c=2 d=1.00051e-06 t=66148
+gao fei 	稿费	c=1 d=9.16766e-08 t=66148
+gao feng 	高峰	c=2 d=3.65286e-06 t=66148
+gao ji 	高级	c=14 d=0.329559 t=66148
+gao ji ban 	高级班	c=1 d=1 t=56321
+gao jia 	高价	c=1 d=1 t=60129
+gao jian 	稿件	c=1 d=5.84454e-06 t=66148
+gao kai 	高开	c=1 d=5.52033e-11 t=66148
+gao pan 	高攀	c=1 d=4.00926e-13 t=66148
+gao qing 	高清	c=1 d=1 t=44793
+gao su 	告诉	c=31 d=0.0172897 t=66148
+gao tong 	高通	c=14 d=0.000338802 t=66148
+gao xiao 	高效	c=1 d=1.37544e-15 t=66148
+gao zhi 	告知	c=1 d=0.0308074 t=66148
+gao zhuang 	告状	c=1 d=9.17233e-14 t=66148
+ge 	个	c=184 d=0.319722 t=66148
+ge 	各	c=9 d=3.45914e-12 t=66148
+ge 	格	c=3 d=4.12839e-09 t=66148
+ge 	歌	c=7 d=5.05182e-05 t=66148
+ge chang 	歌唱	c=2 d=1.48331e-05 t=66148
+ge ge 	各个	c=10 d=3.33018e-05 t=66148
+ge gu 	个股	c=10 d=4.16073e-08 t=66148
+ge kai 	隔开	c=1 d=3.26446e-07 t=66148
+ge li 	隔离	c=5 d=8.05283e-12 t=66148
+ge ren 	个人	c=6 d=9.19287e-05 t=66148
+ge shi 	格式	c=28 d=0.000904347 t=66148
+ge shi hua 	格式化	c=3 d=1.46421e-06 t=66148
+ge xiang 	各项	c=2 d=0.000675539 t=66148
+ge ye 	隔夜	c=1 d=1 t=56259
+ge zhi 	搁置	c=2 d=3.99687e-06 t=66148
+ge zhong 	各种	c=1 d=1 t=54526
+ge zi 	各自	c=2 d=3.49391e-12 t=66148
+gei 	给	c=182 d=0.896959 t=66148
+gei chu 	给出	c=1 d=1 t=54752
+gei le 	给了	c=1 d=9.49257e-06 t=66148
+gei ni 	给你	c=9 d=0.0247235 t=66148
+gei o 	给哦	c=1 d=6.63876e-05 t=66148
+gei wo 	给我	c=76 d=0.259284 t=66148
+gei wo men 	给我们	c=2 d=1 t=56374
+gen 	根	c=10 d=8.32114e-09 t=66148
+gen 	跟	c=1 d=9.08261e-16 t=66148
+gen ben 	根本	c=1 d=4.85744e-06 t=66148
+gen bu shang 	跟不上	c=1 d=1 t=58527
+gen jin 	跟进	c=1 d=4.88427e-12 t=66148
+gen ju 	根据	c=18 d=0.0990536 t=66148
+gen mu 	根目	c=3 d=2.79526e-05 t=66148
+gen mu lu 	根目录	c=3 d=5.08108e-06 t=66148
+gen shang 	跟上	c=2 d=1 t=62438
+gen sui 	跟随	c=3 d=0.00817133 t=66148
+gen zong 	跟踪	c=4 d=1.76064e-08 t=66148
+geng 	更	c=26 d=0.806582 t=66148
+geng duo 	更多	c=1 d=1 t=45905
+geng gai 	更改	c=18 d=0.00159641 t=66148
+geng hao 	更好	c=1 d=1 t=60416
+geng huan 	更换	c=6 d=2.04859e-07 t=66148
+geng ming 	更名	c=3 d=1.97657e-16 t=66148
+geng xin 	更新	c=217 d=1.48146 t=66148
+geng you 	更优	c=1 d=0.00267181 t=66148
+geng zheng 	更正	c=4 d=8.3786e-08 t=66148
+gong 	公	c=5 d=1.28785e-06 t=66148
+gong 	共	c=5 d=0.207193 t=66148
+gong 	功	c=1 d=4.94361e-07 t=66148
+gong an 	公安	c=2 d=0.000103081 t=66148
+gong bu 	公布	c=3 d=0.165868 t=66148
+gong cheng 	工程	c=1 d=1 t=51448
+gong dian 	供电	c=3 d=5.47801e-09 t=66148
+gong gong 	公共	c=3 d=3.41835e-06 t=66148
+gong ji 	攻击	c=4 d=9.68434e-06 t=66148
+gong jian 	共建	c=1 d=1.41295e-08 t=66148
+gong ju 	工具	c=6 d=3.57132e-05 t=66148
+gong kai 	公开	c=4 d=0.0417941 t=66148
+gong lu 	公路	c=24 d=0.254205 t=66148
+gong neng 	功能	c=131 d=0.218159 t=66148
+gong shi 	共识	c=1 d=1.67649e-20 t=66148
+gong si 	公司	c=35 d=0.056387 t=66148
+gong tong 	共同	c=2 d=5.62992e-07 t=66148
+gong xing 	共性	c=1 d=2.28896e-07 t=66148
+gong ye 	工业	c=1 d=1 t=51472
+gong ying 	供应	c=24 d=0.00173804 t=66148
+gong ying gei 	供应给	c=1 d=1 t=56159
+gong yong 	公用	c=1 d=4.99585e-13 t=66148
+gong yue shu 	公约数	c=2 d=1.97045 t=45287
+gong zhong 	公众	c=5 d=1.05964e-05 t=66148
+gong zhong hao 	公众号	c=1 d=1 t=60926
+gong zuo 	工作	c=61 d=0.282778 t=66148
+gou 	够	c=9 d=0.171187 t=66148
+gou 	购	c=2 d=1 t=65525
+gou jian 	构建	c=17 d=0.0744644 t=66148
+gou jian a 	构建啊	c=1 d=0.0593087 t=66148
+gou le 	够了	c=1 d=1 t=59826
+gou mai 	购买	c=17 d=0.00379751 t=66148
+gou tong 	沟通	c=1 d=8.67704e-08 t=66148
+gou xuan 	勾选	c=1 d=1.96979e-05 t=66148
+gou yong 	够用	c=1 d=1 t=62164
+gu 	固	c=3 d=0.0043831 t=66148
+gu 	股	c=62 d=0.307079 t=66148
+gu ao 	孤傲	c=0 d=0.1 t=51152
+gu ding 	固定	c=3 d=1.38085e-06 t=66148
+gu dong 	股东	c=1 d=1.58079e-05 t=66148
+gu dong hui 	股东会	c=1 d=2.46723e-07 t=66148
+gu fen 	股份	c=1 d=1.78264e-07 t=66148
+gu ge 	谷歌	c=25 d=0.16284 t=66148
+gu guo 	古国	c=1 d=8.01401e-14 t=66148
+gu ji 	估计	c=1 d=5.95126e-13 t=66148
+gu jia 	股价	c=10 d=5.47685e-06 t=66148
+gu luo ma 	古罗马	c=2 d=1.956 t=55772
+gu ou 	古偶	c=1 d=1 t=49534
+gu piao 	股票	c=81 d=0.475038 t=66148
+gu shi 	股市	c=7 d=3.91173 t=64944
+gu shu 	股数	c=1 d=1 t=49049
+gu suan 	估算	c=1 d=5.45129e-10 t=66148
+gu xi 	股息	c=1 d=4.12923e-07 t=66148
+gu yi 	故意	c=1 d=1.57832e-16 t=66148
+gu zhang 	故障	c=2 d=3.07436e-07 t=66148
+gua 	挂	c=13 d=1.04049 t=66148
+gua zai 	挂载	c=4 d=9.86349e-07 t=66148
+gua zhe 	挂着	c=1 d=0.0639279 t=66148
+guan 	关	c=15 d=0.0486453 t=66148
+guan 	管	c=2 d=1.65355e-05 t=66148
+guan 	罐	c=1 d=1.87404e-07 t=66148
+guan bi 	关闭	c=15 d=0.22872 t=66148
+guan cha 	观察	c=29 d=1.53357 t=66148
+guan dian 	观点	c=10 d=0.000428594 t=66148
+guan diao 	关掉	c=8 d=0.0992613 t=66148
+guan fang 	官方	c=78 d=0.677082 t=66148
+guan hu 	关户	c=1 d=5.35535e-07 t=66148
+guan ji 	关机	c=4 d=0.0241131 t=66148
+guan jian 	关键	c=4 d=1.80025e-05 t=66148
+guan jian ci 	关键词	c=1 d=7.62057e-10 t=66148
+guan jian zi 	关键字	c=1 d=5.87486e-08 t=66148
+guan kan 	观看	c=1 d=3.13593e-05 t=66148
+guan li 	管理	c=79 d=1.55446 t=66148
+guan lian 	关联	c=1 d=1 t=50783
+guan nian 	观念	c=1 d=4.88178e-06 t=66148
+guan wang 	官网	c=7 d=4.75488e-09 t=66148
+guan wang 	观望	c=2 d=5.20084e-07 t=66148
+guan xi 	关系	c=7 d=5.28656e-06 t=66148
+guan xin 	关心	c=1 d=1.2435e-05 t=66148
+guan yu 	关于	c=24 d=0.0614243 t=66148
+guan zhu 	关注	c=11 d=1.03853e-07 t=66148
+guang 	光	c=2 d=5.57674e-13 t=66148
+guang 	广	c=1 d=8.94586e-14 t=66148
+guang biao 	光标	c=6 d=1 t=61151
+guang chang 	广场	c=1 d=5.47676e-06 t=66148
+guang fan 	广泛	c=1 d=4.42941e-09 t=66148
+guang gao 	广告	c=1 d=4.00856e-11 t=66148
+guang lin 	光临	c=2 d=1.92312 t=60920
+gui 	归	c=1 d=1 t=60318
+gui 	规	c=2 d=9.76305e-13 t=66148
+gui 	贵	c=7 d=0.00017956 t=66148
+gui dang 	归档	c=2 d=2.12487e-06 t=66148
+gui fan 	规范	c=14 d=0.000401256 t=66148
+gui ji 	轨迹	c=2 d=1 t=58225
+gui lei 	归类	c=1 d=3.51142e-12 t=66148
+gui mo 	规模	c=1 d=4.02935e-13 t=66148
+gui ze 	规则	c=106 d=1.577 t=66148
+guo 	国	c=7 d=0.0934891 t=66148
+guo 	果	c=1 d=9.14554e-09 t=66148
+guo 	过	c=60 d=0.619448 t=66148
+guo 	郭	c=1 d=1 t=60992
+guo cheng 	过程	c=5 d=0.0739031 t=66148
+guo da 	过大	c=2 d=4.19308e-11 t=66148
+guo dao 	国道	c=4 d=9.89005e-09 t=66148
+guo duo 	过多	c=1 d=3.06111e-15 t=66148
+guo guan 	过关	c=1 d=1 t=61061
+guo ji 	国际	c=2 d=4.56352e-07 t=66148
+guo jia 	国家	c=4 d=1.65411e-09 t=66148
+guo lai 	过来	c=33 d=0.0359492 t=66148
+guo le 	过了	c=1 d=2.39513e-11 t=66148
+guo lv qi 	过滤器	c=1 d=0.00133343 t=66148
+guo nei 	国内	c=2 d=3.58114e-08 t=66148
+guo qi 	国旗	c=4 d=1.62751e-16 t=66148
+guo qi 	过期	c=2 d=1.07047e-07 t=66148
+guo qiang 	郭强	c=1 d=1 t=60994
+guo qu 	过去	c=2 d=1 t=62324
+guo sheng dao 	国省道	c=1 d=1.37096e-06 t=66148
+ha ha 	哈哈	c=3 d=0.198891 t=66148
+ha xi 	哈希	c=4 d=0.00860854 t=66148
+hai 	海	c=3 d=5.91757e-05 t=66148
+hai 	还	c=178 d=1.11059 t=66148
+hai gei 	还给	c=1 d=8.7446e-11 t=66148
+hai hui 	还会	c=1 d=1 t=56974
+hai mei 	还没	c=6 d=8.83411e-06 t=66148
+hai neng 	还能	c=8 d=0.0131034 t=66148
+hai shi 	还是	c=151 d=1.23682 t=66148
+hai shi hen 	还是很	c=5 d=4.87032e-06 t=66148
+hai xiang 	还想	c=1 d=1.81081e-15 t=66148
+hai xing 	还行	c=2 d=2.4059e-05 t=66148
+hai xu yao 	还需要	c=1 d=6.87639e-07 t=66148
+hai yao 	还要	c=4 d=0.0231676 t=66148
+hai yong 	还用	c=4 d=0.00283702 t=66148
+hai you 	还有	c=65 d=0.799135 t=66148
+hai yu 	海域	c=1 d=1 t=45839
+hai zai 	还在	c=7 d=0.77136 t=66148
+han 	涵	c=2 d=4.0712e-09 t=66148
+han guo 	韩国	c=1 d=1 t=50985
+han shu 	函数	c=1 d=1 t=48918
+han yuan 	韩元	c=1 d=0.0645703 t=66148
+hang 	行	c=31 d=0.0521308 t=66148
+hang hao 	行号	c=1 d=1 t=64075
+hang qing 	行情	c=76 d=0.566471 t=66148
+hang ye 	行业	c=3 d=8.25245e-06 t=66148
+hao 	号	c=29 d=0.0371846 t=66148
+hao 	好	c=284 d=1.32887 t=66148
+hao 	毫	c=2 d=5.68001e-13 t=66148
+hao bu you yu 	毫不犹豫	c=1 d=5.60375e-11 t=66148
+hao chu 	好处	c=6 d=6.75645e-05 t=66148
+hao de 	好的	c=19 d=1.09499e-05 t=66148
+hao duo 	好多	c=4 d=7.13856e-06 t=66148
+hao hao 	好好	c=1 d=3.02179e-10 t=66148
+hao kan 	好看	c=2 d=3.11276e-06 t=66148
+hao le 	好了	c=5 d=1.36446e-06 t=66148
+hao ma 	号码	c=1 d=1.22878e-12 t=66148
+hao ping 	好评	c=1 d=1 t=64399
+hao ting 	好听	c=1 d=1 t=62170
+hao xiang 	好像	c=15 d=0.546074 t=66148
+hao yong 	好用	c=4 d=0.00329615 t=66148
+he 	合	c=2 d=8.00855e-06 t=66148
+he 	和	c=378 d=2.34337 t=66148
+he 	核	c=3 d=1.7042e-07 t=66148
+he bing 	合并	c=57 d=0.00317268 t=66148
+he cha 	核查	c=25 d=1.62659 t=66148
+he cheng 	合成	c=14 d=3.03642e-08 t=66148
+he dui 	核对	c=16 d=1.86469e-07 t=66148
+he gui 	合规	c=5 d=0.105928 t=66148
+he ji 	合集	c=2 d=2.91304e-10 t=66148
+he lan 	荷兰	c=2 d=5.54019e-08 t=66148
+he li 	合理	c=10 d=0.21014 t=66148
+he shi 	合适	c=22 d=0.226502 t=66148
+he shi 	核实	c=1 d=1 t=45300
+he wo 	和我	c=3 d=3.71766e-07 t=66148
+he xiao 	核销	c=1 d=1 t=61530
+he yue 	合约	c=5 d=3.08284e-10 t=66148
+he zhun 	核准	c=3 d=5.04493e-05 t=66148
+he zi 	合资	c=1 d=1 t=46761
+he zu 	合租	c=3 d=2.97004e-05 t=66148
+he zuo 	合作	c=2 d=1.353e-05 t=66148
+hei 	黑	c=3 d=2.78179e-07 t=66148
+hei ping 	黑屏	c=10 d=0.00267541 t=66148
+hei se 	黑色	c=2 d=0.00335677 t=66148
+hei tian e 	黑天鹅	c=1 d=1 t=44885
+hei yun 	黑云	c=1 d=3.28474e-21 t=66148
+hen 	很	c=82 d=0.501134 t=66148
+hen da 	很大	c=2 d=2.30121e-11 t=66148
+hen duo 	很多	c=2 d=7.65615e-06 t=66148
+hen hao 	很好	c=5 d=3.5898e-07 t=66148
+hen ji 	痕迹	c=2 d=7.84998e-06 t=66148
+hen li hai 	很厉害	c=1 d=2.99173e-10 t=66148
+hen xiao 	很小	c=1 d=1 t=44948
+hong 	红	c=2 d=1.97531 t=60987
+hong da 	宏大	c=1 d=6.28456e-07 t=66148
+hong pai 	红牌	c=1 d=2.32917e-06 t=66148
+hong tou 	红头	c=2 d=0.151072 t=66148
+hou 	后	c=127 d=0.336975 t=66148
+hou chu 	后厨	c=1 d=1 t=61215
+hou duan 	后端	c=73 d=1.91656 t=66148
+hou jin 	后劲	c=1 d=0.00386807 t=66148
+hou lai 	后来	c=4 d=0.000217133 t=66148
+hou mian 	后面	c=7 d=2.26344e-05 t=66148
+hou qi 	后期	c=4 d=0.264477 t=66148
+hou tai 	后台	c=22 d=0.0262523 t=66148
+hou zhui 	后缀	c=1 d=1 t=62442
+hu 	呼	c=1 d=2.17355e-16 t=66148
+hu 	护	c=1 d=6.36306e-06 t=66148
+hu cheng he 	护城河	c=1 d=0.00975476 t=66148
+hu lve 	忽略	c=1 d=1 t=64715
+hu shuo ba dao 	胡说八道	c=1 d=1 t=63135
+hu wei 	互为	c=1 d=2.03572e-10 t=66148
+hu xiang 	互相	c=1 d=1.9657e-10 t=66148
+hua 	化	c=26 d=0.0102549 t=66148
+hua 	华	c=5 d=1.02111e-07 t=66148
+hua 	画	c=21 d=0.00167826 t=66148
+hua 	话	c=17 d=0.0405589 t=66148
+hua er jie 	华尔街	c=1 d=1 t=62082
+hua fei 	花费	c=2 d=8.42204e-10 t=66148
+hua mei 	华美	c=1 d=3.58297e-14 t=66148
+hua na 	华纳	c=1 d=4.31857e-05 t=66148
+hua na yun 	华纳云	c=2 d=5.82947e-05 t=66148
+hua qian 	花钱	c=3 d=0.000162473 t=66148
+hua shao 	花哨	c=1 d=9.12504e-12 t=66148
+hua she tian zu 	画蛇添足	c=1 d=0.0655462 t=66148
+hua suan 	划算	c=3 d=7.71662e-10 t=66148
+hua xian 	画线	c=9 d=0.00198925 t=66148
+hua yu 	话语	c=1 d=1.14236e-07 t=66148
+huai 	坏	c=1 d=3.03643e-08 t=66148
+huai 	淮	c=1 d=1 t=62057
+huan 	换	c=52 d=0.475252 t=66148
+huan bi 	环比	c=1 d=5.42779e-18 t=66148
+huan cheng 	换成	c=22 d=0.968334 t=66148
+huan cun 	缓存	c=7 d=2.44672e-06 t=66148
+huan dao 	换到	c=1 d=1.70391e-05 t=66148
+huan hang 	换行	c=1 d=6.87992e-13 t=66148
+huan hui lai 	换回来	c=1 d=0.000291637 t=66148
+huan jing 	环境	c=21 d=0.00514361 t=66148
+huan shang 	换上	c=1 d=6.20596e-06 t=66148
+huan ying 	欢迎	c=2 d=1.92312 t=60919
+huan yuan 	换源	c=1 d=4.49558e-07 t=66148
+huan yuan 	还原	c=3 d=0.1764 t=66148
+huang 	黄	c=1 d=1 t=61580
+huang ren xun 	黄仁勋	c=1 d=1 t=61649
+hui 	会	c=87 d=0.642104 t=66148
+hui 	回	c=9 d=0.0768034 t=66148
+hui 	灰	c=1 d=1.12321e-14 t=66148
+hui 	辉	c=1 d=1 t=65560
+hui bao 	汇报	c=8 d=0.0143357 t=66148
+hui bi 	回避	c=1 d=2.59373e-07 t=66148
+hui cai 	回踩	c=5 d=0.260405 t=66148
+hui che 	回撤	c=1 d=3.23308e-11 t=66148
+hui che 	回车	c=1 d=1 t=55486
+hui da 	回答	c=1 d=3.2398e-06 t=66148
+hui dao 	回到	c=8 d=0.249023 t=66148
+hui feng 	汇丰	c=5 d=4.23713e-09 t=66148
+hui fu 	回复	c=21 d=0.81522 t=66148
+hui fu 	恢复	c=23 d=0.151872 t=66148
+hui gun 	回滚	c=3 d=1.34798e-13 t=66148
+hui hua 	会话	c=10 d=0.250324 t=66148
+hui jia 	回家	c=3 d=0.0753961 t=66148
+hui lai 	回来	c=34 d=0.0480747 t=66148
+hui luo 	回落	c=1 d=5.45499e-18 t=66148
+hui lv 	汇率	c=1 d=1 t=61087
+hui pu 	惠普	c=1 d=0.00909528 t=66148
+hui qu 	回去	c=1 d=9.37706e-09 t=66148
+hui se 	灰色	c=1 d=2.4001e-06 t=66148
+hui shi 	回事	c=52 d=0.923366 t=66148
+hui tiao 	回调	c=8 d=0.169483 t=66148
+hui tou 	回头	c=3 d=0.000119762 t=66148
+hui tu 	绘图	c=2 d=5.43319e-09 t=66148
+hui tui 	回退	c=41 d=0.47951 t=66148
+hui xiang 	回想	c=2 d=0.540641 t=66148
+hui yi 	回忆	c=2 d=3.36727e-07 t=66148
+hui ying 	回应	c=1 d=5.05569e-06 t=66148
+hui you 	会有	c=1 d=1 t=45428
+hui zong 	汇总	c=10 d=0.00243056 t=66148
+hun 	混	c=2 d=1 t=53271
+hun luan 	混乱	c=5 d=0.00246639 t=66148
+hun ning tu 	混凝土	c=1 d=1 t=61332
+huo 	或	c=3 d=8.39743e-05 t=66148
+huo 	活	c=1 d=3.01399e-09 t=66148
+huo 	获	c=1 d=1 t=54062
+huo de 	获得	c=11 d=0.260098 t=66148
+huo dong 	活动	c=10 d=1.60927 t=66148
+huo dong zhong 	活动中	c=1 d=1.00937 t=54055
+huo guo 	火锅	c=14 d=1.47518 t=64177
+huo hou 	火候	c=1 d=0.369723 t=66148
+huo ping 	获评	c=2 d=1.97045 t=54066
+huo qu 	获取	c=5 d=2.75458e-09 t=66148
+huo zhe 	或者	c=9 d=0.000426457 t=66148
+ji 	几	c=8 d=0.402524 t=66148
+ji 	及	c=5 d=0.0214936 t=66148
+ji 	季	c=3 d=1.44203 t=59820
+ji 	机	c=2 d=1.24092e-10 t=66148
+ji 	级	c=3 d=2.96146e-08 t=66148
+ji 	计	c=1 d=1.08927e-06 t=66148
+ji 	集	c=1 d=1 t=43828
+ji ben 	基本	c=9 d=8.31529e-07 t=66148
+ji ben bao e 	基本保额	c=0 d=5.36831e-07 t=66148
+ji ben bao e neng 	基本保额能	c=1 d=5.39521e-06 t=66148
+ji bie 	级别	c=4 d=8.48182e-05 t=66148
+ji chang 	几场	c=1 d=1.13099e-07 t=66148
+ji chang 	机场	c=70 d=0.365756 t=66148
+ji cheng 	集成	c=1 d=5.15869e-08 t=66148
+ji chu 	基础	c=5 d=2.77461e-06 t=66148
+ji de 	记得	c=12 d=0.0114473 t=66148
+ji dian 	几点	c=5 d=0.165041 t=66148
+ji ding 	既定	c=1 d=5.1197e-07 t=66148
+ji fang 	机房	c=3 d=7.51638e-05 t=66148
+ji fei 	计费	c=1 d=1 t=52246
+ji fen zhong 	几分钟	c=1 d=1 t=51263
+ji ge 	几个	c=21 d=0.737123 t=66148
+ji gou 	机构	c=2 d=0.000642592 t=66148
+ji hao 	几号	c=1 d=5.2411e-18 t=66148
+ji hu 	几乎	c=1 d=7.28278e-06 t=66148
+ji hua 	计划	c=36 d=0.0294527 t=66148
+ji hui 	机会	c=16 d=0.0629761 t=66148
+ji huo 	激活	c=6 d=2.03995e-05 t=66148
+ji jiang dao qi 	即将到期	c=1 d=4.4279e-05 t=66148
+ji jin 	激进	c=1 d=2.64199e-18 t=66148
+ji ke 	即可	c=5 d=0.000150736 t=66148
+ji ke 	极氪	c=2 d=1.89583 t=45139
+ji lu 	纪录	c=2 d=5.52412e-07 t=66148
+ji lu 	记录	c=76 d=0.581173 t=66148
+ji neng 	技能	c=5 d=2.50366e-11 t=66148
+ji nian 	几年	c=2 d=1 t=63889
+ji qi ren 	机器人	c=2 d=3.49479e-05 t=66148
+ji ran 	既然	c=1 d=1.77834e-08 t=66148
+ji ri 	几日	c=1 d=1.81927e-11 t=66148
+ji shi 	即使	c=1 d=0.0206508 t=66148
+ji shi 	及时	c=2 d=3.94004e-09 t=66148
+ji shu 	技术	c=14 d=0.0109714 t=66148
+ji suan 	计算	c=22 d=0.182684 t=66148
+ji suan ji 	计算机	c=1 d=1 t=48990
+ji suan qi 	计算器	c=1 d=2.18861e-09 t=66148
+ji tian 	几天	c=4 d=9.49258e-06 t=66148
+ji wei 	几位	c=1 d=1.53433e-07 t=66148
+ji xia 	记下	c=1 d=1 t=44180
+ji xia lai 	记下来	c=2 d=3.4753e-08 t=66148
+ji xian 	极限	c=1 d=0.0338776 t=66148
+ji xiang 	几项	c=1 d=1 t=45249
+ji xie 	机械	c=1 d=4.93086e-06 t=66148
+ji xu 	继续	c=149 d=0.687273 t=66148
+ji yi 	记忆	c=49 d=0.687289 t=66148
+ji you 	既有	c=1 d=1.04656e-06 t=66148
+ji yu 	基于	c=1 d=1 t=44880
+ji yue 	几月	c=1 d=1.8102e-11 t=66148
+ji zhi 	机制	c=11 d=6.58971e-06 t=66148
+ji zhong 	几种	c=2 d=2.61303e-06 t=66148
+ji zhong 	集中	c=1 d=0.0141223 t=66148
+ji zhu 	记住	c=5 d=3.8416e-06 t=66148
+ji zhun 	基准	c=1 d=1 t=51014
+jia 	价	c=26 d=0.0950429 t=66148
+jia 	佳	c=6 d=0.29523 t=66148
+jia 	假	c=1 d=1 t=60550
+jia 	加	c=111 d=0.496289 t=66148
+jia 	嘉	c=2 d=1.28916e-09 t=66148
+jia 	夹	c=1 d=2.54237e-07 t=66148
+jia 	家	c=11 d=0.316613 t=66148
+jia 	贾	c=3 d=0.199888 t=66148
+jia cang 	加仓	c=4 d=1.05843e-10 t=66148
+jia cha 	价差	c=44 d=0.107114 t=66148
+jia da 	加大	c=2 d=1 t=65918
+jia dao 	加到	c=12 d=8.15064e-07 t=66148
+jia de 	假的	c=1 d=1 t=45292
+jia ge 	价格	c=55 d=0.584435 t=66148
+jia ge 	加个	c=2 d=1.39865e-06 t=66148
+jia gong 	加工	c=1 d=1 t=63886
+jia gou 	架构	c=1 d=1.25015e-09 t=66148
+jia gu 	加固	c=26 d=0.135782 t=66148
+jia gu wen 	甲骨文	c=5 d=0.0554854 t=66148
+jia hao 	加号	c=1 d=1 t=53050
+jia hao 	加好	c=1 d=5.78934e-12 t=66148
+jia jin 	加进	c=2 d=0.0278757 t=66148
+jia jin qu 	加进去	c=3 d=5.23663e-08 t=66148
+jia jun feng 	贾俊锋	c=3 d=0.00136719 t=66148
+jia kuai 	加快	c=1 d=6.16326e-13 t=66148
+jia kuan 	加宽	c=1 d=7.4529e-13 t=66148
+jia le 	加了	c=6 d=0.0376283 t=66148
+jia li 	家里	c=1 d=1.49259e-06 t=66148
+jia mi 	加密	c=9 d=0.146702 t=66148
+jia mi 	甲醚	c=1 d=3.32294e-10 t=66148
+jia mu lu 	家目录	c=10 d=0.0405589 t=66148
+jia na da 	加拿大	c=1 d=3.50963e-06 t=66148
+jia ru 	假如	c=1 d=1.53433e-07 t=66148
+jia ru 	加入	c=42 d=0.0599047 t=66148
+jia shang 	加上	c=19 d=0.718924 t=66148
+jia she 	架设	c=2 d=0.00644146 t=66148
+jia shi 	驾驶	c=1 d=1 t=44381
+jia su 	加速	c=6 d=0.018554 t=66148
+jia ti zi 	架梯子	c=1 d=1.83818e-15 t=66148
+jia xi 	加息	c=2 d=7.17434e-06 t=66148
+jia xin li cai 	嘉信理财	c=6 d=0.251579 t=66148
+jia yi ge 	加一个	c=2 d=3.96666e-05 t=66148
+jia yi ju 	加一句	c=1 d=2.72717e-09 t=66148
+jia you 	加油	c=1 d=1 t=60810
+jia zai 	加在	c=1 d=2.86155e-16 t=66148
+jia zai 	加载	c=8 d=7.11053e-10 t=66148
+jia zhe ge 	加这个	c=1 d=8.27521e-09 t=66148
+jia zhi 	价值	c=2 d=2.11261e-05 t=66148
+jia zhong 	家中	c=1 d=1.82305e-06 t=66148
+jian 	件	c=3 d=2.88308e-06 t=66148
+jian 	减	c=1 d=1 t=53227
+jian 	建	c=38 d=0.00191819 t=66148
+jian 	简	c=1 d=2.16683e-09 t=66148
+jian 	见	c=3 d=5.23575e-06 t=66148
+jian 	键	c=6 d=9.6128e-07 t=66148
+jian ao 	煎熬	c=1 d=3.34938e-15 t=66148
+jian bao 	简报	c=1 d=4.90624e-06 t=66148
+jian cang 	建仓	c=3 d=0.00290884 t=66148
+jian ce 	检测	c=9 d=0.00201931 t=66148
+jian ce 	监测	c=1 d=1 t=55930
+jian cha 	检查	c=202 d=1.49638 t=66148
+jian cheng 	建成	c=2 d=1.0728 t=50763
+jian chi 	坚持	c=4 d=0.205975 t=66148
+jian dan 	简单	c=2 d=1.10447e-12 t=66148
+jian di 	减低	c=1 d=1.50007e-06 t=66148
+jian duan 	简短	c=1 d=1.24113e-12 t=66148
+jian ge 	建个	c=2 d=4.93251e-10 t=66148
+jian gu 	兼顾	c=2 d=5.15781e-06 t=66148
+jian guan 	监管	c=1 d=5.42594e-14 t=66148
+jian guo 	见过	c=2 d=1 t=55732
+jian hang 	建行	c=1 d=1 t=60677
+jian hao 	减号	c=1 d=1 t=53052
+jian hao 	建好	c=5 d=1.64161e-08 t=66148
+jian jie 	简捷	c=1 d=0.0156076 t=66148
+jian jue 	坚决	c=3 d=1.75347e-11 t=66148
+jian kang 	健康	c=32 d=0.758403 t=66148
+jian kong 	监控	c=7 d=1.64189e-10 t=66148
+jian ku 	建库	c=6 d=0.351692 t=66148
+jian li 	建立	c=12 d=0.410656 t=66148
+jian lou 	简陋	c=1 d=2.91687e-06 t=66148
+jian rong 	兼容	c=2 d=3.22474e-10 t=66148
+jian shao 	减少	c=4 d=1.523e-08 t=66148
+jian she 	建设	c=3 d=3.40591e-06 t=66148
+jian ti 	简体	c=3 d=9.44204e-09 t=66148
+jian ting 	监听	c=2 d=1.15742e-14 t=66148
+jian tou 	箭头	c=1 d=1 t=63475
+jian xiao 	减小	c=5 d=2.11329e-07 t=66148
+jian xie 	简写	c=3 d=4.21336e-05 t=66148
+jian yan 	检验	c=2 d=1.92774 t=54569
+jian yi 	建议	c=19 d=0.0880368 t=66148
+jian zai 	建在	c=2 d=4.70568e-07 t=66148
+jiang 	将	c=1 d=8.43952e-05 t=66148
+jiang 	讲	c=9 d=4.41175e-05 t=66148
+jiang 	降	c=3 d=4.48398e-06 t=66148
+jiang chi cun 	降尺寸	c=1 d=1 t=46128
+jiang di 	降低	c=1 d=0.216536 t=66148
+jiang hua 	讲话	c=3 d=3.34654e-05 t=66148
+jiang ji 	降级	c=2 d=1.79057 t=62928
+jiang jia 	降价	c=1 d=1 t=60733
+jiang jiang 	讲讲	c=18 d=0.438301 t=66148
+jiang jie 	讲解	c=1 d=1 t=44382
+jiang jun 	将军	c=1 d=1 t=55781
+jiang le 	讲了	c=1 d=3.77514e-11 t=66148
+jiang qi 	讲起	c=1 d=1 t=48976
+jiang yi 	讲义	c=1 d=1.14551e-10 t=66148
+jiang yi xia 	讲一下	c=2 d=1 t=53508
+jiang zuo 	讲座	c=4 d=8.78751e-05 t=66148
+jiao 	交	c=2 d=5.10174e-14 t=66148
+jiao 	叫	c=16 d=2.20985e-05 t=66148
+jiao 	教	c=3 d=5.60184e-07 t=66148
+jiao 	角	c=5 d=3.46692e-09 t=66148
+jiao an 	教案	c=0 d=0.1 t=48227
+jiao ben 	脚本	c=28 d=0.223376 t=66148
+jiao cheng 	教程	c=1 d=6.6766e-13 t=66148
+jiao dou shi 	角斗士	c=2 d=1.98511 t=55773
+jiao dui 	校对	c=2 d=7.12483e-09 t=66148
+jiao fa 	叫法	c=1 d=1 t=66098
+jiao fu 	交付	c=4 d=6.56467e-20 t=66148
+jiao ge 	交割	c=1 d=1 t=61310
+jiao hu 	交互	c=4 d=0.00096827 t=66148
+jiao hui 	教会	c=1 d=6.50842e-07 t=66148
+jiao liu 	交流	c=3 d=3.33289e-07 t=66148
+jiao lv 	焦虑	c=1 d=0.161218 t=66148
+jiao shi 	教师	c=3 d=1.25854e-05 t=66148
+jiao shou 	教授	c=1 d=1 t=54029
+jiao shou jia 	脚手架	c=1 d=1 t=47569
+jiao ti 	交替	c=1 d=1 t=58730
+jiao tong 	交通	c=2 d=2.52051e-06 t=66148
+jiao wo 	教我	c=2 d=1.52668e-07 t=66148
+jiao xue an 	教学案	c=0 d=0.1 t=54054
+jiao xue an lie 	教学案列	c=1 d=1 t=54055
+jiao xun 	教训	c=2 d=1 t=46775
+jiao yan 	教研	c=1 d=1 t=54069
+jiao yan 	校验	c=9 d=1.16292 t=59724
+jiao yan tuan dui 	教研团队	c=1 d=1 t=54034
+jiao yi 	交易	c=79 d=0.402577 t=66148
+jiao yi suo 	交易所	c=2 d=1.97531 t=54971
+jiao zi 	饺子	c=1 d=5.20061e-15 t=66148
+jiao zi guan 	饺子馆	c=1 d=4.70571e-15 t=66148
+jie 	接	c=5 d=0.0357931 t=66148
+jie 	解	c=1 d=1 t=48521
+jie bu dao 	接不到	c=1 d=1 t=45337
+jie chu 	接触	c=1 d=1 t=50326
+jie dan 	接单	c=1 d=1 t=44174
+jie dao 	接到	c=2 d=0.000161662 t=66148
+jie dian 	节点	c=227 d=1.0576 t=66148
+jie du 	解读	c=1 d=6.14421e-06 t=66148
+jie duan 	阶段	c=3 d=1 t=49385
+jie feng 	解封	c=1 d=5.67184e-06 t=66148
+jie gou 	结构	c=7 d=3.14405e-06 t=66148
+jie gou xing 	结构性	c=1 d=1 t=44883
+jie guo 	结果	c=25 d=0.351695 t=66148
+jie hao 	接好	c=1 d=1 t=48021
+jie he 	结合	c=5 d=4.18635e-07 t=66148
+jie huo 	接货	c=2 d=3.67193e-05 t=66148
+jie ji 	借记	c=1 d=2.08761e-12 t=66148
+jie ji ka 	借记卡	c=1 d=2.03607e-12 t=66148
+jie jian 	借鉴	c=4 d=1.05217e-10 t=66148
+jie jue 	解决	c=73 d=1.15858 t=66148
+jie kou 	接口	c=7 d=0.155105 t=66148
+jie ma 	解码	c=1 d=3.27347e-10 t=66148
+jie mi 	解密	c=3 d=0.106459 t=66148
+jie mian 	界面	c=11 d=0.0312228 t=66148
+jie ping 	截屏	c=2 d=1.08104e-05 t=66148
+jie ru 	介入	c=4 d=1.34039e-06 t=66148
+jie ru 	接入	c=9 d=2.38197e-05 t=66148
+jie rui 	杰瑞	c=1 d=2.26225e-16 t=66148
+jie shao 	介绍	c=15 d=0.0539337 t=66148
+jie sheng 	节省	c=1 d=2.72624e-05 t=66148
+jie shi 	解释	c=8 d=0.00110094 t=66148
+jie shou 	接受	c=4 d=3.28083e-07 t=66148
+jie shou 	接手	c=1 d=1 t=46755
+jie shou 	接收	c=5 d=0.00153041 t=66148
+jie shu 	结束	c=6 d=8.23115e-05 t=66148
+jie suan 	结算	c=1 d=5.31579e-08 t=66148
+jie suo 	解锁	c=13 d=0.338249 t=66148
+jie tong 	接通	c=2 d=0.00474815 t=66148
+jie tu 	截图	c=4 d=0.484325 t=66148
+jie xi 	解析	c=8 d=0.00168667 t=66148
+jie xia lai 	接下来	c=5 d=8.76572e-10 t=66148
+jie yue 	节约	c=1 d=2.01478e-06 t=66148
+jie zhang 	结账	c=1 d=0.264477 t=66148
+jie zhe 	接着	c=9 d=0.341298 t=66148
+jie zhi 	截止	c=2 d=0.000410148 t=66148
+jie zou 	节奏	c=3 d=6.89302e-06 t=66148
+jin 	仅	c=1 d=1 t=60037
+jin 	今	c=2 d=2.1873e-05 t=66148
+jin 	尽	c=1 d=7.06753e-06 t=66148
+jin 	晋	c=1 d=1 t=61019
+jin 	禁	c=2 d=3.40249e-07 t=66148
+jin 	进	c=25 d=0.826984 t=66148
+jin 	金	c=45 d=2.10208 t=66148
+jin bu 	进步	c=6 d=4.75124e-05 t=66148
+jin chang 	进场	c=2 d=0.208045 t=66148
+jin dao 	进到	c=1 d=2.19427e-10 t=66148
+jin dian 	近点	c=1 d=3.75567e-09 t=66148
+jin du 	进度	c=4 d=4.55483e-14 t=66148
+jin gong 	进攻	c=1 d=9.75642e-05 t=66148
+jin huo 	进货	c=2 d=1.99005 t=61222
+jin ji 	紧急	c=2 d=8.50669e-10 t=66148
+jin jin 	紧紧	c=1 d=1 t=61037
+jin lai 	进来	c=7 d=1.7646e-05 t=66148
+jin le 	进了	c=1 d=2.4989e-10 t=66148
+jin liang 	尽量	c=7 d=2.35829e-05 t=66148
+jin ming 	今明	c=1 d=4.72768e-11 t=66148
+jin nian 	今年	c=1 d=3.69912e-07 t=66148
+jin qu 	进去	c=5 d=1.81396e-06 t=66148
+jin ri 	今日	c=3 d=0.0596059 t=66148
+jin rong 	金融	c=23 d=0.129421 t=66148
+jin ru 	进入	c=7 d=1.09738e-05 t=66148
+jin shen 	谨慎	c=3 d=0.044379 t=66148
+jin tian 	今天	c=78 d=0.869338 t=66148
+jin wan 	今晚	c=3 d=6.30083e-08 t=66148
+jin xin 	尽心	c=1 d=1.10344e-11 t=66148
+jin xing 	进行	c=48 d=0.437749 t=66148
+jin yi bu 	进一步	c=5 d=0.0352602 t=66148
+jin yi ge 	进一个	c=1 d=3.18549e-13 t=66148
+jin yong 	仅用	c=1 d=0.00316691 t=66148
+jin yong 	禁用	c=4 d=1.15455e-06 t=66148
+jin zai zhi chi 	近在咫尺	c=2 d=0.00188279 t=66148
+jin zao 	今早	c=3 d=0.323033 t=66148
+jin zhan 	进展	c=3 d=6.93106e-11 t=66148
+jin zhi 	禁止	c=11 d=0.144436 t=66148
+jing 	境	c=1 d=1 t=45107
+jing 	经	c=2 d=0.000189713 t=66148
+jing 	静	c=1 d=1 t=60938
+jing cai 	精彩	c=1 d=2.32956e-08 t=66148
+jing chang 	经常	c=1 d=4.68304e-17 t=66148
+jing dian 	经典	c=7 d=0.268474 t=66148
+jing gao 	警告	c=6 d=0.000394444 t=66148
+jing guo 	经过	c=1 d=1 t=45147
+jing ji shi 	经济师	c=1 d=1 t=55905
+jing jian 	精简	c=4 d=1.12535e-07 t=66148
+jing li 	经历	c=1 d=5.75754e-06 t=66148
+jing li 	经理	c=2 d=1.09473e-06 t=66148
+jing nei 	境内	c=1 d=0.00775048 t=66148
+jing pin 	精品	c=2 d=0.000110629 t=66148
+jing shi 	警示	c=1 d=1 t=44281
+jing tai 	静态	c=1 d=1 t=58831
+jing wai 	境外	c=1 d=0.0086517 t=66148
+jing xiang 	镜像	c=34 d=0.33646 t=66148
+jing xuan 	精选	c=1 d=1.66382e-19 t=66148
+jing yan 	经验	c=9 d=0.098783 t=66148
+jing ying 	经营	c=2 d=0.00904991 t=66148
+jing zheng 	竞争	c=1 d=1 t=63809
+jing zhun 	精准	c=2 d=1.74342e-10 t=66148
+jiong 	炯	c=1 d=2.83847e-09 t=66148
+jiu 	久	c=1 d=1 t=56648
+jiu 	就	c=179 d=0.825237 t=66148
+jiu 	旧	c=18 d=1.34468 t=66148
+jiu cuo 	纠错	c=1 d=1.00937 t=58669
+jiu de 	旧的	c=1 d=1.46e-11 t=66148
+jiu hao 	就好	c=2 d=6.87757e-09 t=66148
+jiu ke yi 	就可以	c=1 d=4.98208e-10 t=66148
+jiu shi 	就是	c=28 d=1.43945 t=66148
+jiu shi hao 	就是好	c=1 d=2.28857e-05 t=66148
+jiu yi ge 	就一个	c=1 d=4.32976e-06 t=66148
+jiu yong 	就用	c=1 d=1 t=62631
+jiu zai 	就在	c=1 d=1.76917e-06 t=66148
+jiu zhe yang 	就这样	c=1 d=0.0223708 t=66148
+jiu zheng 	纠正	c=1 d=1.29112e-06 t=66148
+jiu zhuan 	九转	c=1 d=3.85139e-11 t=66148
+ju 	剧	c=1 d=1 t=55908
+ju 	局	c=4 d=1.48514e-06 t=66148
+ju 	居	c=12 d=1.09931 t=62988
+ju 	菊	c=1 d=1 t=62110
+ju fu 	拒付	c=1 d=1.08384e-06 t=66148
+ju he 	聚合	c=1 d=1 t=59816
+ju hui 	聚会	c=1 d=2.75364e-05 t=66148
+ju jia 	居家	c=1 d=6.20596e-06 t=66148
+ju jue 	拒绝	c=4 d=2.1616e-10 t=66148
+ju li 	举例	c=4 d=0.0266491 t=66148
+ju li 	距离	c=9 d=5.92955e-05 t=66148
+ju lie 	剧烈	c=1 d=5.7744e-11 t=66148
+ju ti 	具体	c=13 d=0.00164502 t=66148
+ju xian 	局限	c=1 d=3.63588e-10 t=66148
+ju you 	具有	c=1 d=5.41007e-09 t=66148
+ju yu wang 	局域网	c=1 d=1 t=63731
+ju zhong 	居中	c=1 d=1.06018e-11 t=66148
+jue 	觉	c=10 d=0.748806 t=66148
+jue ce 	决策	c=8 d=4.42865e-07 t=66148
+jue de 	觉得	c=8 d=1 t=66104
+jue ding 	决定	c=13 d=0.0277367 t=66148
+jue dui 	绝对	c=2 d=1.06495e-05 t=66148
+jun 	俊	c=2 d=6.61356e-07 t=66148
+jun feng 	俊锋	c=1 d=1 t=65827
+jun jia 	均价	c=5 d=9.54015e-06 t=66148
+jun xian 	均线	c=15 d=1.24477 t=66148
+ka 	卡	c=48 d=0.0328958 t=66148
+ka fei 	咖啡	c=7 d=3.43184e-07 t=66148
+ka si 	卡死	c=1 d=1 t=61924
+ka ta er 	卡塔尔	c=2 d=7.21609e-06 t=66148
+ka zhu 	卡住	c=8 d=0.0632918 t=66148
+kai 	凯	c=2 d=6.65595e-06 t=66148
+kai 	开	c=63 d=0.133054 t=66148
+kai cang 	开仓	c=13 d=7.42998e-06 t=66148
+kai che 	开车	c=1 d=1 t=45150
+kai fa 	开发	c=20 d=0.000102566 t=66148
+kai fang 	开放	c=1 d=3.4153e-09 t=66148
+kai guan 	开关	c=5 d=1.86501e-09 t=66148
+kai hu 	开户	c=2 d=1.35801e-12 t=66148
+kai ji 	开机	c=1 d=3.56388e-10 t=66148
+kai pan 	开盘	c=15 d=0.352639 t=66148
+kai pao 	开跑	c=1 d=6.75885e-10 t=66148
+kai piao 	开票	c=1 d=9.02962e-06 t=66148
+kai qi 	开启	c=17 d=0.0699482 t=66148
+kai shi 	开始	c=49 d=0.0596131 t=66148
+kai shi hou 	开始后	c=2 d=1.8506e-06 t=66148
+kai tong 	开通	c=13 d=0.00603387 t=66148
+kai tou 	开头	c=1 d=0.612626 t=66148
+kai xiao 	开销	c=1 d=1 t=53285
+kai yuan 	开源	c=6 d=0.0343896 t=66148
+kai zhan 	开展	c=1 d=5.50421e-06 t=66148
+kai zhe 	开着	c=3 d=1.47417e-07 t=66148
+kai zhi 	开支	c=1 d=6.59196e-10 t=66148
+kan 	看	c=425 d=3.24734 t=66148
+kan cha 	勘察	c=1 d=2.59417e-09 t=66148
+kan chu 	看出	c=3 d=0.463013 t=66148
+kan cuo 	看错	c=1 d=1 t=49896
+kan dao 	看到	c=14 d=0.0997807 t=66148
+kan die 	看跌	c=10 d=1.93277e-05 t=66148
+kan fa 	看法	c=4 d=1.32746e-09 t=66148
+kan jian 	看见	c=1 d=1.74704e-05 t=66148
+kan ka 	看卡	c=3 d=0.798516 t=66148
+kan kan 	看看	c=292 d=3.26642 t=66148
+kan kan ka 	看看卡	c=3 d=0.00275725 t=66148
+kan pan 	看盘	c=1 d=1 t=65906
+kan qing 	看清	c=3 d=0.22313 t=66148
+kan ri zhi 	看日志	c=1 d=3.17673e-10 t=66148
+kan si 	看似	c=1 d=0.000934966 t=66148
+kan xia 	看下	c=5 d=0.0196576 t=66148
+kan yi xia 	看一下	c=8 d=3.16745e-05 t=66148
+kan zhang 	看涨	c=2 d=1 t=64592
+kan zhe ge 	看这个	c=1 d=1 t=45537
+kang 	扛	c=1 d=0.166127 t=66148
+kang 	抗	c=1 d=1.69305e-18 t=66148
+kang xi 	康熙	c=1 d=1 t=44392
+kao 	考	c=1 d=1.12088e-19 t=66148
+kao 	靠	c=1 d=1 t=52730
+kao jin 	靠近	c=1 d=3.42531e-14 t=66148
+kao lv 	考虑	c=18 d=0.444858 t=66148
+kao qin 	考勤	c=6 d=1.00001 t=64697
+kao shi 	考试	c=2 d=1.9802 t=63991
+ke 	可	c=27 d=0.447012 t=66148
+ke 	壳	c=2 d=1.97589e-12 t=66148
+ke 	客	c=4 d=0.00151098 t=66148
+ke 	科	c=1 d=5.88805e-05 t=66148
+ke 	课	c=2 d=4.83323e-06 t=66148
+ke 	颗	c=1 d=1 t=61633
+ke fa 	可发	c=1 d=1.47087e-10 t=66148
+ke fou 	可否	c=6 d=0.479505 t=66148
+ke fu 	客服	c=1 d=5.43536e-05 t=66148
+ke hao 	可好	c=1 d=1 t=48499
+ke hu 	客户	c=22 d=0.00392653 t=66148
+ke hu duan 	客户端	c=5 d=2.84776e-18 t=66148
+ke ji 	科技	c=2 d=1.7558e-05 t=66148
+ke kong 	可控	c=1 d=5.30475e-13 t=66148
+ke le 	可乐	c=1 d=1 t=45254
+ke long 	克隆	c=10 d=0.0773857 t=66148
+ke neng 	可能	c=14 d=0.897589 t=66148
+ke pa 	可怕	c=1 d=1 t=49736
+ke qi 	客气	c=1 d=6.52748e-12 t=66148
+ke qian 	课前	c=1 d=6.11355e-06 t=66148
+ke shi 	可是	c=1 d=1.51515e-06 t=66148
+ke xing 	可行	c=13 d=0.244143 t=66148
+ke xing xing 	可行性	c=1 d=1.46478e-20 t=66148
+ke xuan 	可选	c=3 d=0.0275941 t=66148
+ke xue 	科学	c=4 d=0.794534 t=66148
+ke yi 	可以	c=171 d=1.57766 t=66148
+ke yi le 	可以了	c=2 d=2.449e-08 t=66148
+ke yi yong 	可以用	c=1 d=1 t=59272
+ke yong 	可用	c=4 d=0.0019019 t=66148
+ke zuo 	可作	c=1 d=1.95019e-05 t=66148
+ken 	肯	c=1 d=1 t=51685
+ken ding 	肯定	c=3 d=0.0127784 t=66148
+kong 	空	c=13 d=0.254107 t=66148
+kong bai 	空白	c=1 d=0.000633025 t=66148
+kong bu 	恐怖	c=1 d=6.82678e-10 t=66148
+kong cang 	空仓	c=4 d=0.189191 t=66148
+kong dong 	空洞	c=1 d=2.3844e-17 t=66148
+kong ge 	空格	c=2 d=4.91978e-09 t=66148
+kong huang 	恐慌	c=3 d=1 t=66148
+kong jian 	空间	c=21 d=0.569153 t=66148
+kong tou 	空头	c=1 d=3.27459e-14 t=66148
+kong xia 	空下	c=1 d=1 t=56073
+kong xian 	空闲	c=2 d=4.32004e-09 t=66148
+kong xin 	空心	c=1 d=1 t=57224
+kong zhi 	控制	c=14 d=0.00496849 t=66148
+kou 	口	c=3 d=7.13855e-06 t=66148
+kou 	扣	c=3 d=7.69585e-08 t=66148
+kou kuan 	扣款	c=2 d=0.968698 t=66148
+ku 	库	c=298 d=2.39115 t=66148
+ku li 	库里	c=6 d=0.0413782 t=66148
+kua 	跨	c=1 d=1 t=45106
+kua jing 	跨境	c=1 d=1 t=45114
+kuai 	块	c=1 d=5.69134e-17 t=66148
+kuai 	快	c=50 d=0.588053 t=66148
+kuai dian 	快点	c=1 d=1 t=54266
+kuai jie 	快捷	c=11 d=9.60658e-07 t=66148
+kuai jie jian 	快捷键	c=1 d=7.91648e-17 t=66148
+kuai su 	快速	c=6 d=1.93078e-05 t=66148
+kuai zhao 	快照	c=1 d=1.14809e-07 t=66148
+kuan 	宽	c=3 d=0.0466538 t=66148
+kuan 	款	c=3 d=0.375311 t=66148
+kuan du 	宽度	c=1 d=1.2949e-11 t=66148
+kuang 	狂	c=1 d=1 t=58733
+kuang jia 	框架	c=12 d=1.46303e-06 t=66148
+kui 	亏	c=9 d=1.03347e-05 t=66148
+kui le 	亏了	c=3 d=7.07114e-12 t=66148
+kui sun 	亏损	c=7 d=0.247833 t=66148
+kun 	困	c=4 d=0.000534061 t=66148
+kun nan 	困难	c=1 d=1 t=64422
+kuo hao 	括号	c=1 d=1 t=49167
+kuo zhan 	扩展	c=2 d=1.00142 t=59026
+la 	拉	c=61 d=0.224345 t=66148
+la hei 	拉黑	c=2 d=2.15691e-12 t=66148
+la ji 	垃圾	c=6 d=2.27365e-05 t=66148
+la qi 	拉起	c=1 d=5.18364e-06 t=66148
+la qu 	拉取	c=64 d=3.04485 t=66148
+lai 	来	c=135 d=1.14577 t=66148
+lai de 	来的	c=1 d=0.000792752 t=66148
+lai ge 	来个	c=1 d=2.38935e-12 t=66148
+lai ke 	来客	c=2 d=1.00767 t=61656
+lai zhe li 	来这里	c=1 d=1 t=47842
+lai zi 	来自	c=5 d=1.23771e-09 t=66148
+lan 	栏	c=8 d=0.00418268 t=66148
+lan 	览	c=1 d=9.73453e-08 t=66148
+lan jie 	拦截	c=2 d=1.44847e-06 t=66148
+lan mu 	栏目	c=1 d=2.95431e-09 t=66148
+lang 	狼	c=1 d=2.76933e-13 t=66148
+lang fei 	浪费	c=1 d=6.64894e-23 t=66148
+lang hao 	狼毫	c=1 d=2.94058e-13 t=66148
+lang song 	朗诵	c=1 d=7.65615e-06 t=66148
+lang xian ping 	郎咸平	c=2 d=0.000169277 t=66148
+lao 	老	c=22 d=0.71906 t=66148
+lao da 	老大	c=1 d=1 t=63808
+lao di fang 	老地方	c=1 d=2.95381e-07 t=66148
+lao hu 	老虎	c=1 d=7.43495e-14 t=66148
+lao shi 	老师	c=74 d=0.152885 t=66148
+lao shi 	老是	c=14 d=0.0475307 t=66148
+le 	了	c=2318 d=10.3478 t=66148
+lei 	类	c=15 d=0.0841388 t=66148
+lei bie 	类别	c=1 d=1.13999e-12 t=66148
+lei ji 	累计	c=1 d=7.23142e-11 t=66148
+lei tong 	雷同	c=2 d=0.00491728 t=66148
+lei xing 	类型	c=7 d=0.995012 t=66148
+leng 	冷	c=1 d=1.44572e-13 t=66148
+leng lian 	冷链	c=2 d=1.95123 t=62340
+li 	丽	c=3 d=7.11132e-07 t=66148
+li 	力	c=9 d=8.76295e-05 t=66148
+li 	李	c=5 d=2.29195 t=62345
+li 	理	c=1 d=1.15982e-09 t=66148
+li 	离	c=1 d=0.0317456 t=66148
+li 	立	c=1 d=1 t=64424
+li 	里	c=542 d=3.00503 t=66148
+li cheng 	里程	c=1 d=1 t=61926
+li dang 	立党	c=5 d=1.62166e-06 t=66148
+li dang wei gong 	立党为公	c=1 d=3.36388e-07 t=66148
+li fang mi 	立方米	c=1 d=1 t=61338
+li hai 	厉害	c=8 d=0.162026 t=66148
+li hao 	利好	c=3 d=1.49908 t=65329
+li hui 	理会	c=1 d=1 t=61618
+li ji 	立即	c=3 d=6.90969e-05 t=66148
+li jie 	理解	c=51 d=0.255738 t=66148
+li jie le 	理解了	c=1 d=4.33197e-12 t=66148
+li jun ji 	李俊基	c=1 d=1 t=56883
+li kai 	离开	c=2 d=9.18981e-07 t=66148
+li ke 	立刻	c=1 d=1 t=58963
+li kong 	利空	c=1 d=1 t=63071
+li lun 	理论	c=1 d=1 t=49948
+li mian 	里面	c=13 d=4.0468e-05 t=66148
+li nian 	历年	c=1 d=0.174645 t=66148
+li nian 	理念	c=9 d=0.000158576 t=66148
+li pai 	立牌	c=1 d=1 t=64210
+li qi 	力气	c=1 d=2.35866e-07 t=66148
+li qing 	李青	c=3 d=2.97516 t=54080
+li qing 	沥青	c=1 d=1 t=61331
+li ru 	例如	c=2 d=6.14421e-06 t=66148
+li run 	利润	c=3 d=0.00036159 t=66148
+li shi 	历史	c=25 d=0.000418012 t=66148
+li xian 	离线	c=1 d=7.35597e-06 t=66148
+li xiang 	理想	c=4 d=0.94525 t=66148
+li xing 	例行	c=3 d=2.39131e-07 t=66148
+li you 	理由	c=4 d=0.000273284 t=66148
+li zi 	例子	c=2 d=0.0020601 t=66148
+lian 	连	c=28 d=0.00475029 t=66148
+lian 	链	c=20 d=6.89895e-05 t=66148
+lian bu shang 	连不上	c=2 d=1.13162e-05 t=66148
+lian chu 	联储	c=1 d=1 t=61080
+lian dao 	连到	c=8 d=1.93078e-05 t=66148
+lian dong 	联动	c=2 d=0.000154549 t=66148
+lian ge 	连个	c=1 d=2.64019e-10 t=66148
+lian guan 	连贯	c=1 d=1 t=48772
+lian jie 	连接	c=55 d=0.456138 t=66148
+lian jie 	链接	c=65 d=0.328331 t=66148
+lian le 	练了	c=1 d=1 t=61477
+lian lu 	链路	c=4 d=1.46427e-06 t=66148
+lian meng 	联盟	c=4 d=0.0015648 t=66148
+lian shang 	连上	c=4 d=0.0590164 t=66148
+lian tiao 	联调	c=6 d=1.00046 t=53075
+lian tong 	联通	c=4 d=7.39285e-06 t=66148
+lian tong 	连通	c=7 d=0.248617 t=66148
+lian wang 	联网	c=1 d=1 t=64313
+lian xi 	练习	c=1 d=4.98039e-06 t=66148
+lian xi 	联系	c=5 d=0.000569934 t=66148
+liang 	两	c=11 d=1.60884e-06 t=66148
+liang 	亮	c=2 d=6.26833e-06 t=66148
+liang 	量	c=28 d=0.192321 t=66148
+liang bian 	两边	c=1 d=2.681e-14 t=66148
+liang bu fen 	两部分	c=2 d=1.19803e-08 t=66148
+liang chu 	两处	c=1 d=1 t=46502
+liang ci 	两次	c=5 d=2.3465e-05 t=66148
+liang deng 	亮灯	c=1 d=1 t=60521
+liang dian 	亮点	c=1 d=1 t=60760
+liang duan 	两段	c=1 d=1 t=62700
+liang duan 	两端	c=3 d=1.38715e-06 t=66148
+liang fen 	两份	c=1 d=2.82384e-07 t=66148
+liang ge 	两个	c=76 d=1.09858 t=66148
+liang hang 	两行	c=3 d=1.05708e-06 t=66148
+liang lie 	两列	c=1 d=1 t=62193
+liang nian 	两年	c=1 d=5.96668e-14 t=66148
+liang ping 	两屏	c=1 d=1 t=48073
+liang se 	亮色	c=1 d=1 t=53247
+liang tao 	两套	c=3 d=0.0335406 t=66148
+liang tian 	两天	c=4 d=7.57998e-06 t=66148
+liang tiao 	两条	c=1 d=7.48772e-09 t=66148
+liang wei 	两位	c=1 d=1 t=55765
+liang ye 	两页	c=1 d=3.05902e-07 t=66148
+liang zhong 	两种	c=2 d=1.45975e-09 t=66148
+liang zu 	两组	c=1 d=8.50667e-10 t=66148
+liao jie 	了解	c=4 d=5.42225e-06 t=66148
+liao liao 	聊聊	c=1 d=5.27741e-11 t=66148
+liao tian 	聊天	c=36 d=0.014365 t=66148
+lie 	列	c=7 d=3.21532e-05 t=66148
+lie biao 	列表	c=14 d=4.31596e-05 t=66148
+lie chu 	列出	c=1 d=5.03217e-10 t=66148
+lie ju 	列举	c=1 d=1.38497e-08 t=66148
+lin 	临	c=1 d=1 t=61021
+lin fen 	临汾	c=11 d=1.86702e-07 t=66148
+lin fen shi 	临汾市	c=1 d=1.77864e-10 t=66148
+lin shi 	临时	c=4 d=0.000466618 t=66148
+ling 	另	c=1 d=1 t=52345
+ling 	领	c=2 d=2.27282e-12 t=66148
+ling chen 	凌晨	c=1 d=1.11415e-07 t=66148
+ling cun wei 	另存为	c=4 d=3.42515 t=52381
+ling dao 	领到	c=2 d=2.85911e-06 t=66148
+ling gan 	灵感	c=1 d=1.2601e-14 t=66148
+ling huo 	灵活	c=5 d=0.0207543 t=66148
+ling kai 	另开	c=1 d=1.87953e-12 t=66148
+ling kou 	领口	c=5 d=0.741536 t=66148
+ling qu 	领取	c=1 d=2.30717e-12 t=66148
+ling wai 	另外	c=22 d=0.0963276 t=66148
+ling xing 	另行	c=1 d=0.0526021 t=66148
+ling yu 	领域	c=1 d=1 t=45285
+liu 	六	c=4 d=1.04977e-05 t=66148
+liu 	刘	c=2 d=5.4415e-06 t=66148
+liu 	流	c=1 d=1 t=44696
+liu 	留	c=5 d=3.42354e-06 t=66148
+liu cheng 	流程	c=3 d=2.18787e-05 t=66148
+liu chu 	流出	c=1 d=0.427415 t=66148
+liu dong 	流动	c=2 d=2.7594e-07 t=66148
+liu dong xing 	流动性	c=3 d=3.06851e-14 t=66148
+liu lan 	浏览	c=3 d=1.6998e-06 t=66148
+liu lan qi 	浏览器	c=11 d=0.0300468 t=66148
+liu liang 	流量	c=6 d=0.0143357 t=66148
+liu mei ti 	流媒体	c=5 d=0.032941 t=66148
+liu ru 	流入	c=1 d=0.425283 t=66148
+liu xia 	留下	c=6 d=0.0317475 t=66148
+liu zheng hua 	刘正华	c=1 d=5.13208e-06 t=66148
+long xia 	龙虾	c=1 d=1.40662e-14 t=66148
+lu 	录	c=3 d=2.80927e-05 t=66148
+lu 	路	c=8 d=0.256666 t=66148
+lu bao 	路保	c=2 d=1.00428e-05 t=66148
+lu chan 	路产	c=4 d=0.000168027 t=66148
+lu duan 	路段	c=1 d=1.78294e-09 t=66148
+lu jing 	路径	c=3 d=1.70832e-06 t=66148
+lu xian 	路线	c=3 d=1 t=56173
+lu you 	路由	c=6 d=0.0148464 t=66148
+lu zheng 	路政	c=3 d=0.533072 t=66148
+luan 	乱	c=16 d=0.00610455 t=66148
+luan dong 	乱动	c=2 d=0.0808629 t=66148
+luan ma 	乱码	c=4 d=0.00416933 t=66148
+luan qi ba zao 	乱七八糟	c=1 d=0.0190631 t=66148
+luan shuo 	乱说	c=1 d=6.17608e-08 t=66148
+luan zhao 	乱找	c=1 d=1 t=47779
+lun pan 	轮盘	c=8 d=1.29818e-05 t=66148
+lun tai 	轮胎	c=3 d=2.90752 t=61947
+lun tan 	论坛	c=4 d=9.30462e-06 t=66148
+lun zheng 	论证	c=17 d=0.551574 t=66148
+luo 	罗	c=2 d=7.45584e-07 t=66148
+luo 	落	c=2 d=1.00468 t=60166
+luo 	裸	c=2 d=1.58677e-20 t=66148
+luo di 	落地	c=2 d=4.3327e-14 t=66148
+luo hou 	落后	c=1 d=3.64343e-05 t=66148
+luo ji 	逻辑	c=96 d=0.589423 t=66148
+luo ku 	落库	c=3 d=2.72717 t=59169
+luo shan ji 	洛杉矶	c=1 d=0.00263203 t=66148
+luo wen 	螺纹	c=2 d=4.53108e-14 t=66148
+lv 	捋	c=9 d=0.00362464 t=66148
+lv 	率	c=4 d=0.0018363 t=66148
+lv dong 	律动	c=4 d=2.82436e-05 t=66148
+lv lv 	捋捋	c=1 d=9.66427e-11 t=66148
+lv se 	绿色	c=1 d=9.71271e-11 t=66148
+ma 	吗	c=974 d=4.34557 t=66148
+ma 	码	c=36 d=0.100234 t=66148
+ma 	马	c=1 d=1 t=60998
+ma fan 	麻烦	c=9 d=0.00452936 t=66148
+ma ma 	妈妈	c=3 d=3.81308e-11 t=66148
+ma qiang 	马强	c=1 d=1 t=62101
+ma shang 	马上	c=2 d=1.46403e-14 t=66148
+mai 	买	c=64 d=0.903237 t=66148
+mai 	卖	c=38 d=0.525912 t=66148
+mai chu 	卖出	c=20 d=0.196931 t=66148
+mai fu 	埋伏	c=2 d=4.55494e-14 t=66148
+mai ge 	买个	c=1 d=1.6141e-15 t=66148
+mai jin 	买进	c=2 d=5.2493e-07 t=66148
+mai le 	买了	c=1 d=1.31403e-07 t=66148
+mai mai 	买卖	c=1 d=5.34698e-18 t=66148
+mai ru 	买入	c=13 d=0.172212 t=66148
+man 	慢	c=44 d=0.56318 t=66148
+man 	满	c=14 d=0.180388 t=66148
+man man 	慢慢	c=2 d=1.99005 t=49676
+man ping 	满屏	c=5 d=1 t=51528
+man xue 	满血	c=1 d=1 t=44387
+man yi 	满意	c=4 d=7.22897e-07 t=66148
+man zu 	满足	c=2 d=1.54949e-05 t=66148
+mang 	忙	c=1 d=0.000118571 t=66148
+me 	么	c=1 d=5.87884e-16 t=66148
+mei 	每	c=2 d=0.000356206 t=66148
+mei 	没	c=211 d=3.10823 t=66148
+mei 	美	c=7 d=1.69161e-08 t=66148
+mei bu 	每步	c=1 d=2.25135e-18 t=66148
+mei ci 	每次	c=2 d=1 t=56227
+mei dong 	没动	c=1 d=1.36528e-16 t=66148
+mei dong 	美东	c=2 d=1.96561 t=45262
+mei dong guo 	没动过	c=1 d=0.00135358 t=66148
+mei fa 	没法	c=1 d=3.04325e-05 t=66148
+mei ge 	每个	c=5 d=0.000397161 t=66148
+mei gu 	美股	c=88 d=0.644962 t=66148
+mei guang 	美光	c=3 d=1.25708 t=45416
+mei guo 	美国	c=34 d=0.0433499 t=66148
+mei hua 	美化	c=6 d=9.0867e-06 t=66148
+mei jian 	没见	c=1 d=1 t=47818
+mei jin 	美金	c=1 d=5.30206e-07 t=66148
+mei ju 	美剧	c=4 d=1 t=60388
+mei jun 	美军	c=1 d=1 t=44535
+mei kan dao 	没看到	c=1 d=0.00159641 t=66148
+mei le 	没了	c=5 d=1 t=66148
+mei lian chu 	美联储	c=1 d=1 t=58904
+mei neng 	没能	c=1 d=1 t=52140
+mei nian 	每年	c=3 d=0.00257991 t=66148
+mei pian 	美篇	c=1 d=6.05272e-06 t=66148
+mei qu 	美区	c=1 d=5.26199e-06 t=66148
+mei ri 	每日	c=1 d=1.59283e-06 t=66148
+mei shen me 	没什么	c=1 d=1.09246e-11 t=66148
+mei ti 	媒体	c=2 d=1 t=65267
+mei tian 	每天	c=22 d=0.035471 t=66148
+mei tuan 	美团	c=3 d=1.02882 t=61544
+mei wen ti 	没问题	c=3 d=0.0639279 t=66148
+mei you 	没有	c=292 d=2.46049 t=66148
+mei yu 	美育	c=1 d=1 t=54041
+mei yuan 	美元	c=17 d=0.460704 t=66148
+mei yue 	每月	c=4 d=0.0968105 t=66148
+mei zhao 	没找	c=1 d=2.88088e-07 t=66148
+mei zhuang 	没装	c=1 d=1 t=47452
+men 	们	c=78 d=1.23176 t=66148
+men 	门	c=1 d=4.59984e-12 t=66148
+men tou 	门头	c=3 d=2.31 t=64159
+meng 	猛	c=6 d=0.814647 t=66148
+meng 	蒙	c=1 d=1 t=59713
+meng zhang 	猛涨	c=1 d=5.17293e-11 t=66148
+mi 	米	c=5 d=2.98084 t=64228
+mi bu 	弥补	c=3 d=0.0617291 t=66148
+mi huang 	米黄	c=2 d=0.614222 t=66148
+mi ma 	密码	c=40 d=0.0151632 t=66148
+mi mang 	迷茫	c=1 d=0.0539337 t=66148
+mi yao 	密钥	c=27 d=0.047796 t=66148
+mian 	面	c=8 d=0.00162866 t=66148
+mian ceng 	面层	c=1 d=1 t=61334
+mian fei 	免费	c=36 d=0.20076 t=66148
+mian ji 	面积	c=2 d=7.8483e-20 t=66148
+mian mi 	免密	c=1 d=2.097e-06 t=66148
+mian mu quan fei 	面目全非	c=1 d=1 t=50019
+mian shui 	免税	c=1 d=1.59283e-06 t=66148
+miao shu 	描述	c=1 d=1.24735e-12 t=66148
+mie 	灭	c=1 d=0.00524752 t=66148
+min 	敏	c=1 d=5.7505e-21 t=66148
+min 	民	c=2 d=0.240513 t=66148
+min zhu 	民主	c=1 d=1 t=65326
+ming 	名	c=28 d=0.0109799 t=66148
+ming bai 	明白	c=21 d=0.00651622 t=66148
+ming bai le 	明白了	c=1 d=0.153355 t=66148
+ming cheng 	名称	c=22 d=0.0483156 t=66148
+ming dan 	名单	c=3 d=2.28339e-06 t=66148
+ming e 	名额	c=1 d=1.00102e-12 t=66148
+ming ji 	明基	c=1 d=1 t=46133
+ming lang 	明朗	c=1 d=6.3182e-11 t=66148
+ming le 	命了	c=1 d=2.13457e-09 t=66148
+ming ling 	命令	c=103 d=1.26828 t=66148
+ming que 	明确	c=1 d=1 t=59308
+ming tian 	明天	c=13 d=0.384812 t=66148
+ming wen 	明文	c=21 d=0.000257409 t=66148
+ming xi 	明细	c=1 d=0.0128424 t=66148
+ming zhong 	命中	c=5 d=4.97767e-08 t=66148
+ming zi 	名字	c=31 d=0.0149713 t=66148
+mo ban 	模板	c=18 d=0.000342239 t=66148
+mo fang 	模仿	c=2 d=1.47062e-08 t=66148
+mo he 	磨合	c=1 d=0.1764 t=66148
+mo kuai 	模块	c=16 d=1.69896e-06 t=66148
+mo ming 	莫名	c=2 d=0.0380064 t=66148
+mo mo 	默默	c=1 d=1.19494e-07 t=66148
+mo ni 	模拟	c=6 d=9.16609e-06 t=66148
+mo ren 	默认	c=4 d=1 t=60616
+mo shi 	模式	c=37 d=0.536753 t=66148
+mo xing 	模型	c=115 d=1.16253 t=66148
+mou ge 	某个	c=1 d=3.20146e-13 t=66148
+mou mou 	某某	c=2 d=1.7788 t=54073
+mou xie 	某些	c=2 d=1.12283e-10 t=66148
+mu 	目	c=1 d=1 t=47976
+mu ba pei 	姆巴佩	c=1 d=1 t=64486
+mu ban 	模板	c=4 d=7.45165e-11 t=66148
+mu biao 	目标	c=3 d=1.22836e-08 t=66148
+mu bu zhuan jing 	目不转睛	c=1 d=2.70933e-20 t=66148
+mu di 	目的	c=8 d=2.2896e-07 t=66148
+mu di di 	目的地	c=1 d=1 t=53653
+mu lu 	目录	c=79 d=0.486573 t=66148
+mu qian 	目前	c=239 d=1.09626 t=66148
+na 	哪	c=1 d=1.02389e-13 t=66148
+na 	拿	c=23 d=3.94031e-07 t=66148
+na 	纳	c=1 d=4.61095e-11 t=66148
+na 	那	c=4 d=3.20756e-06 t=66148
+na dao 	拿到	c=3 d=0.436049 t=66148
+na dian 	那点	c=1 d=4.10866e-07 t=66148
+na duan 	那段	c=1 d=1 t=64889
+na ge 	哪个	c=54 d=0.225427 t=66148
+na ge 	那个	c=18 d=0.0344024 t=66148
+na guo lai 	拿过来	c=1 d=5.06875e-07 t=66148
+na hui 	那会	c=7 d=3.84013e-06 t=66148
+na ji ge 	哪几个	c=2 d=0.00548905 t=66148
+na jia 	哪家	c=1 d=1.30073e-05 t=66148
+na jiu 	那就	c=2 d=4.18083e-06 t=66148
+na ju 	哪句	c=1 d=6.39824e-12 t=66148
+na li 	哪里	c=128 d=1.27504 t=66148
+na li 	那里	c=4 d=0.119433 t=66148
+na me 	那么	c=5 d=0.000460444 t=66148
+na nian 	哪年	c=1 d=1.87921e-10 t=66148
+na qu 	拿去	c=1 d=1 t=57798
+na si da ke 	纳斯达克	c=5 d=1.13248 t=66148
+na tie 	拿铁	c=1 d=1.05252e-14 t=66148
+na xie 	哪些	c=24 d=0.108532 t=66148
+na xie 	那些	c=1 d=5.6445e-08 t=66148
+na yang 	那样	c=1 d=8.57289e-13 t=66148
+na zhong 	那种	c=11 d=0.324652 t=66148
+nai fei 	奈飞	c=1 d=1 t=45003
+nai xin 	耐心	c=3 d=4.89608e-11 t=66148
+nan 	难	c=1 d=6.86097e-10 t=66148
+nan du 	难度	c=1 d=0.0023344 t=66148
+nan fei 	南非	c=1 d=2.29449e-06 t=66148
+nan kan 	难看	c=1 d=1 t=58821
+nan men 	南门	c=1 d=1 t=60344
+nan xing 	男性	c=1 d=4.56741e-17 t=66148
+nao ling 	闹铃	c=1 d=4.75138e-11 t=66148
+ne 	呢	c=133 d=0.687126 t=66148
+nei 	内	c=5 d=0.0319048 t=66148
+nei bu 	内部	c=2 d=1.15164e-14 t=66148
+nei cun 	内存	c=7 d=0.351692 t=66148
+nei he 	内核	c=3 d=8.76274e-06 t=66148
+nei meng gu 	内蒙古	c=2 d=1.95123 t=62336
+nei rong 	内容	c=101 d=0.531381 t=66148
+nei zhi 	内置	c=2 d=1.17246e-05 t=66148
+nen 	嫩	c=2 d=0.548812 t=66148
+neng 	能	c=289 d=1.95689 t=66148
+neng gou 	能够	c=7 d=1.10294e-07 t=66148
+neng jia 	能加	c=1 d=1 t=49164
+neng li 	能力	c=5 d=0.000345679 t=66148
+neng xing 	能行	c=1 d=4.1207e-12 t=66148
+neng yong 	能用	c=2 d=0.000239969 t=66148
+ni 	你	c=1035 d=5.99063 t=66148
+ni a 	你啊	c=1 d=1 t=58167
+ni bo er 	尼泊尔	c=1 d=1 t=59488
+ni de 	你的	c=5 d=0.0446014 t=66148
+ni hao 	你好	c=72 d=0.415084 t=66148
+ni hao a 	你好啊	c=1 d=1 t=58166
+ni kan 	你看	c=1 d=1.55726e-05 t=66148
+ni qu 	你去	c=3 d=0.23457 t=66148
+ni shi 	你是	c=1 d=0.114178 t=66148
+ni shuo 	你说	c=1 d=1.9321e-13 t=66148
+ni you 	你有	c=2 d=5.19707e-07 t=66148
+nian 	年	c=44 d=0.665979 t=66148
+nian du 	年度	c=1 d=1 t=61327
+nian fu 	年付	c=1 d=4.79832e-09 t=66148
+nian ling 	年龄	c=1 d=1 t=61689
+nian tie 	粘贴	c=14 d=1.44498e-07 t=66148
+nin 	您	c=15 d=5.83399e-05 t=66148
+nin hao 	您好	c=2 d=0.000949097 t=66148
+niu 	牛	c=4 d=4.82468e-07 t=66148
+niu kui 	扭亏	c=1 d=1.55832e-13 t=66148
+niu niu 	牛牛	c=31 d=0.0135713 t=66148
+niu qu 	扭曲	c=1 d=1 t=64113
+niu shi 	牛市	c=5 d=0.106561 t=66148
+nong 	弄	c=18 d=0.947567 t=66148
+nong li 	农历	c=1 d=4.91812e-05 t=66148
+o 	哦	c=3 d=0.603506 t=66148
+ou er 	偶尔	c=2 d=0.00105417 t=66148
+ou ge 	讴歌	c=0 d=7.64159e-14 t=66148
+ou mu long 	欧姆龙	c=1 d=3.60779e-07 t=66148
+ou zhou 	欧洲	c=2 d=1 t=54744
+pa 	怕	c=4 d=2.28857e-05 t=66148
+pa qu 	爬取	c=1 d=6.50731e-05 t=66148
+pai 	排	c=1 d=1 t=62600
+pai 	牌	c=1 d=4.62291e-12 t=66148
+pai ban 	排版	c=1 d=1.01353e-11 t=66148
+pai cha 	排查	c=54 d=0.790595 t=66148
+pai chu 	排除	c=1 d=1.0165e-16 t=66148
+pai dui 	排队	c=1 d=1 t=53364
+pai lian 	排练	c=1 d=7.96863e-06 t=66148
+pai ming 	排名	c=3 d=2.23244e-07 t=66148
+pai xi 	派息	c=2 d=7.77767e-07 t=66148
+pai xu 	排序	c=1 d=1 t=57104
+pan 	盘	c=17 d=0.30271 t=66148
+pan duan 	判断	c=12 d=0.917884 t=66148
+pan fu 	盘符	c=1 d=1 t=63773
+pan hou 	盘后	c=18 d=1 t=65911
+pan qian 	盘前	c=17 d=9.73289e-06 t=66148
+pan zhong 	盘中	c=3 d=4.9804e-06 t=66148
+pang bian 	旁边	c=5 d=1.38591e-08 t=66148
+pao 	跑	c=55 d=0.0707657 t=66148
+pao kai 	抛开	c=1 d=1 t=47490
+pao pao 	跑跑	c=1 d=5.02003e-11 t=66148
+pao qi 	抛弃	c=4 d=5.54799e-11 t=66148
+pao qi lai 	跑起来	c=1 d=1 t=47657
+pao tong 	跑通	c=14 d=3.47471e-06 t=66148
+pao yi bian 	跑一遍	c=1 d=8.21828e-16 t=66148
+pao yi ci 	跑一次	c=1 d=5.44941e-06 t=66148
+pao zhe 	跑着	c=1 d=4.24401e-06 t=66148
+pei 	赔	c=2 d=1.00006 t=46159
+pei 	配	c=2 d=1.98512e-08 t=66148
+pei fu 	佩服	c=1 d=4.71469e-08 t=66148
+pei ge 	配个	c=1 d=6.76229e-16 t=66148
+pei he 	配合	c=10 d=0.0780817 t=66148
+pei qian 	赔钱	c=1 d=7.877e-17 t=66148
+pei shang 	配上	c=1 d=5.99251e-06 t=66148
+pei tao 	配套	c=4 d=2.61972e-09 t=66148
+pei zhi 	配置	c=445 d=4.08483 t=66148
+pei zhi xiang 	配置项	c=1 d=0.0953692 t=66148
+peng 	朋	c=1 d=2.46891e-15 t=66148
+peng 	碰	c=3 d=4.98293e-12 t=66148
+peng you 	朋友	c=2 d=1.00023 t=59066
+pi ci 	批次	c=1 d=1 t=54354
+pi liang 	批量	c=2 d=1.24973e-05 t=66148
+pi pei 	匹配	c=3 d=1.99602 t=64136
+pi ping 	批评	c=1 d=1.15742e-14 t=66148
+pi zhun 	批准	c=1 d=4.35664e-20 t=66148
+pian 	偏	c=2 d=0.0710054 t=66148
+pian 	片	c=3 d=2.24325e-05 t=66148
+pian da 	偏大	c=1 d=1 t=61690
+pian duan 	片段	c=1 d=1 t=49377
+pian hao 	偏好	c=2 d=6.78085e-05 t=66148
+pian yi 	便宜	c=7 d=0.165849 t=66148
+piao 	票	c=1 d=9.07488e-06 t=66148
+piao 	飘	c=1 d=1 t=48540
+piao liang 	漂亮	c=15 d=3.20369e-06 t=66148
+pin 	拼	c=1 d=7.84998e-06 t=66148
+pin dao 	频道	c=9 d=7.79817e-08 t=66148
+pin jie 	拼接	c=7 d=2.88296e-07 t=66148
+pin lv 	频率	c=1 d=1.28468e-06 t=66148
+pin pai 	品牌	c=1 d=1.51592e-12 t=66148
+pin xie 	拼写	c=1 d=7.54988e-18 t=66148
+pin zhong 	品种	c=4 d=2.33559e-09 t=66148
+ping 	凭	c=1 d=3.63464e-06 t=66148
+ping 	屏	c=2 d=1 t=59714
+ping 	平	c=4 d=0.000474472 t=66148
+ping 	萍	c=1 d=1 t=62111
+ping bi 	屏蔽	c=3 d=0.00719167 t=66148
+ping cang 	平仓	c=33 d=0.431715 t=66148
+ping ce 	评测	c=3 d=0.00286795 t=66148
+ping fen 	评分	c=1 d=3.08179e-06 t=66148
+ping gu 	评估	c=18 d=0.00223168 t=66148
+ping guo 	苹果	c=35 d=3.25416 t=66148
+ping heng 	平衡	c=1 d=1.13138e-11 t=66148
+ping hua 	平滑	c=1 d=1 t=46952
+ping ji 	评级	c=1 d=1 t=46212
+ping jia 	评价	c=5 d=1.01907 t=65765
+ping jiao 	平交	c=10 d=1.2936e-05 t=66148
+ping jun 	平均	c=1 d=3.30581e-08 t=66148
+ping lun 	评论	c=24 d=5.93761e-05 t=66148
+ping mi 	平米	c=1 d=1 t=61335
+ping mu 	屏幕	c=14 d=0.00121866 t=66148
+ping pan 	评判	c=2 d=6.87874e-11 t=66148
+ping pu 	平铺	c=2 d=1.28567e-16 t=66148
+ping shi 	平时	c=10 d=0.0945243 t=66148
+ping tai 	平台	c=19 d=0.0507598 t=66148
+ping xuan 	评选	c=0 d=0.1 t=54055
+ping xuan huo dong zhong 	评选活动中	c=1 d=1 t=54056
+po 	破	c=1 d=1 t=43994
+po huai 	破坏	c=1 d=8.1155e-15 t=66148
+po jie 	破解	c=2 d=1.30792e-11 t=66148
+pu tong 	普通	c=4 d=0.00162866 t=66148
+qi 	七	c=2 d=1.1429e-05 t=66148
+qi 	其	c=6 d=0.000503136 t=66148
+qi 	器	c=29 d=0.00136719 t=66148
+qi 	期	c=7 d=0.00980366 t=66148
+qi 	起	c=5 d=7.75312e-07 t=66148
+qi 	齐	c=1 d=1.21949e-11 t=66148
+qi bei 	齐备	c=1 d=5.94924e-09 t=66148
+qi bu 	起步	c=4 d=2.81023e-09 t=66148
+qi cao 	起草	c=1 d=2.00024e-09 t=66148
+qi dian 	起点	c=2 d=1 t=50054
+qi dong 	启动	c=95 d=0.425304 t=66148
+qi dong gan 	启动杆	c=1 d=3.17619e-08 t=66148
+qi fei 	起飞	c=1 d=2.4989e-10 t=66148
+qi ge 	起个	c=5 d=2.1002 t=50389
+qi ge ming 	起个名	c=1 d=1.98e-07 t=66148
+qi he 	契合	c=1 d=6.07046e-11 t=66148
+qi huo 	期货	c=10 d=4.50165e-09 t=66148
+qi la 	期拉	c=1 d=9.28535e-11 t=66148
+qi lai 	起来	c=20 d=0.0422141 t=66148
+qi le 	起了	c=2 d=1.71177 t=47743
+qi lin 	麒麟	c=1 d=1 t=61558
+qi man 	欺瞒	c=1 d=1 t=49462
+qi ming 	起名	c=1 d=4.85744e-06 t=66148
+qi ming zi 	起名字	c=1 d=3.48429e-09 t=66148
+qi quan 	期权	c=217 d=1.7926 t=66148
+qi quan 	齐全	c=1 d=0.0012684 t=66148
+qi quan jin 	期权金	c=1 d=4.64449e-08 t=66148
+qi quan lian 	期权连	c=1 d=2.10208e-05 t=66148
+qi shen me 	起什么	c=1 d=5.14625e-09 t=66148
+qi shi 	其实	c=5 d=6.45922e-06 t=66148
+qi si 	气死	c=7 d=0.0649388 t=66148
+qi ta 	其他	c=79 d=0.0534034 t=66148
+qi wen 	气温	c=1 d=4.39744e-12 t=66148
+qi ye 	企业	c=5 d=0.0510474 t=66148
+qi yi ge 	起一个	c=1 d=2.79089e-16 t=66148
+qi yong 	启用	c=7 d=0.000635649 t=66148
+qi yong 	弃用	c=3 d=1.12846e-10 t=66148
+qi yu 	其余	c=16 d=0.00578425 t=66148
+qi yun 	气晕	c=1 d=1 t=55134
+qia dang 	恰当	c=1 d=1 t=64373
+qian 	前	c=39 d=0.304227 t=66148
+qian 	欠	c=1 d=0.366045 t=66148
+qian 	钱	c=6 d=0.00120177 t=66148
+qian ban 	牵绊	c=1 d=1 t=59252
+qian dao 	签到	c=5 d=4.61187 t=62100
+qian duan 	前段	c=1 d=6.92758e-06 t=66148
+qian duan 	前端	c=28 d=0.0280154 t=66148
+qian fa 	签发	c=1 d=0.00927901 t=66148
+qian fang 	前方	c=1 d=9.32711e-05 t=66148
+qian hou 	前后	c=25 d=1 t=59880
+qian jin 	前进	c=1 d=1 t=49368
+qian li 	潜力	c=1 d=1 t=62055
+qian mian 	前面	c=12 d=8.2758e-07 t=66148
+qian ming 	签名	c=2 d=8.09275e-12 t=66148
+qian qi 	前期	c=3 d=0.0531593 t=66148
+qian tai 	前台	c=1 d=1 t=61219
+qian wen 	千问	c=6 d=5.37231 t=65829
+qian xin 	潜心	c=1 d=1 t=54027
+qian yan 	前言	c=1 d=6.45922e-06 t=66148
+qian yi 	迁移	c=32 d=0.729181 t=66148
+qian yi ge 	前一个	c=1 d=1.38163e-09 t=66148
+qian zhui 	前缀	c=1 d=1 t=44728
+qiang 	墙	c=11 d=0.00875542 t=66148
+qiang 	强	c=3 d=0.0101529 t=66148
+qiang da 	强大	c=1 d=5.41009e-09 t=66148
+qiang diao 	强调	c=2 d=0.000378233 t=66148
+qiang hua 	强化	c=1 d=1.84677e-11 t=66148
+qiang shou 	枪手	c=1 d=3.41588e-11 t=66148
+qiang zhi 	墙纸	c=1 d=1.72191e-11 t=66148
+qiang zhi 	强制	c=1 d=1 t=65055
+qiao chu 	翘楚	c=1 d=1 t=45296
+qiao jie 	桥接	c=2 d=0.00305798 t=66148
+qiao miao 	巧妙	c=1 d=0.00106477 t=66148
+qie 	切	c=5 d=0.486752 t=66148
+qie duan 	切断	c=2 d=2.93149e-06 t=66148
+qie huan 	切换	c=53 d=1.51372 t=66148
+qie shen 	切身	c=1 d=2.90578e-20 t=66148
+qin qi 	亲戚	c=1 d=1 t=61654
+qin zi 	亲子	c=1 d=7.57998e-06 t=66148
+qin zi 	亲自	c=1 d=1 t=49968
+qing 	情	c=1 d=2.24401e-09 t=66148
+qing 	清	c=3 d=1.93078e-05 t=66148
+qing 	请	c=125 d=2.24366 t=66148
+qing 	青	c=2 d=1.29969 t=62346
+qing ba 	请把	c=2 d=0.14808 t=66148
+qing cang 	清仓	c=1 d=8.05283e-12 t=66148
+qing chu 	清楚	c=13 d=0.0574114 t=66148
+qing chu 	清除	c=8 d=0.000208619 t=66148
+qing dan 	清单	c=17 d=1.54126 t=66148
+qing ji xu 	请继续	c=1 d=3.8594e-06 t=66148
+qing jiao 	请教	c=1 d=1 t=61680
+qing kong 	清空	c=1 d=9.45327e-16 t=66148
+qing kuang 	情况	c=70 d=0.0121554 t=66148
+qing li 	清理	c=27 d=0.0559459 t=66148
+qing liang 	轻量	c=2 d=1.01616 t=49390
+qing ping 	清屏	c=1 d=2.58035e-05 t=66148
+qing qiu 	请求	c=7 d=0.20222 t=66148
+qing wen 	请问	c=4 d=0.00100779 t=66148
+qing xi 	清晰	c=3 d=3.86005e-08 t=66148
+qing xu 	情绪	c=3 d=0.0528821 t=66148
+qiu 	求	c=1 d=8.46135e-06 t=66148
+qiu dui 	球队	c=2 d=5.91866e-17 t=66148
+qiu yi 	球衣	c=3 d=9.16909e-07 t=66148
+qiu yuan 	球员	c=1 d=9.09683e-05 t=66148
+qu 	区	c=10 d=3.8653e-05 t=66148
+qu 	去	c=211 d=1.14928 t=66148
+qu 	取	c=20 d=0.346889 t=66148
+qu 	曲	c=1 d=0.00162053 t=66148
+qu bie 	区别	c=11 d=0.444858 t=66148
+qu chong 	去重	c=1 d=2.36638e-16 t=66148
+qu chu 	去除	c=1 d=6.07046e-11 t=66148
+qu dao 	渠道	c=2 d=1.48824e-22 t=66148
+qu de 	取得	c=5 d=4.22572e-14 t=66148
+qu diao 	去掉	c=75 d=0.965676 t=66148
+qu dong 	驱动	c=1 d=2.90934e-05 t=66148
+qu fen 	区分	c=1 d=1 t=51392
+qu guan 	取关	c=1 d=1.14571e-12 t=66148
+qu jian 	区间	c=1 d=4.18083e-06 t=66148
+qu jin 	趋近	c=1 d=0.276651 t=66148
+qu kuan 	取款	c=1 d=1.33779e-12 t=66148
+qu mian 	曲面	c=2 d=0.00360101 t=66148
+qu ming 	取名	c=1 d=1.02954e-19 t=66148
+qu na ge 	去哪个	c=1 d=1 t=52285
+qu nian 	去年	c=1 d=1.79621e-08 t=66148
+qu shi 	趋势	c=4 d=6.25534e-11 t=66148
+qu xian 	曲线	c=1 d=1 t=46950
+qu xiao 	取消	c=16 d=0.310367 t=66148
+qu yu 	区域	c=2 d=8.74607e-13 t=66148
+qu zhi 	取值	c=1 d=6.38171e-11 t=66148
+quan 	全	c=48 d=1.15104 t=66148
+quan 	券	c=9 d=2.07062e-10 t=66148
+quan 	圈	c=2 d=4.57777e-14 t=66148
+quan 	权	c=2 d=3.25659e-08 t=66148
+quan ban 	全班	c=1 d=7.35597e-06 t=66148
+quan bu 	全部	c=49 d=0.293861 t=66148
+quan cheng 	全程	c=1 d=1 t=54044
+quan ju 	全局	c=30 d=0.810609 t=66148
+quan li 	权利	c=27 d=1.34706 t=66148
+quan li jin 	权利金	c=5 d=0.0393602 t=66148
+quan mian 	全面	c=12 d=0.000792942 t=66148
+quan ping 	全屏	c=3 d=6.53494e-09 t=66148
+quan qiu 	全球	c=1 d=1.39263e-14 t=66148
+quan quan 	全权	c=4 d=1.80148e-13 t=66148
+quan shang 	券商	c=9 d=0.00491738 t=66148
+quan tao 	全套	c=1 d=5.85869e-05 t=66148
+quan wang 	全网	c=1 d=6.67204e-05 t=66148
+quan wei 	权威	c=1 d=1 t=59737
+quan wen 	全文	c=3 d=1.86501e-09 t=66148
+quan xian 	权限	c=30 d=0.000834962 t=66148
+quan xin 	全新	c=1 d=0.00375375 t=66148
+quan zhan 	全站	c=1 d=0.0195457 t=66148
+que 	却	c=3 d=7.4684e-08 t=66148
+que 	缺	c=8 d=9.63606e-06 t=66148
+que bao 	确保	c=1 d=0.000109455 t=66148
+que dian 	缺点	c=1 d=1 t=46640
+que ding 	确定	c=2 d=6.67318e-07 t=66148
+que li 	确立	c=1 d=1 t=57369
+que ren 	确认	c=24 d=0.28939 t=66148
+que sheng 	缺省	c=26 d=0.83527 t=66148
+que shi 	缺失	c=2 d=6.0715e-13 t=66148
+qun li 	群里	c=2 d=3.26653e-05 t=66148
+qun ou 	群殴	c=1 d=1 t=44120
+qun zhu 	群主	c=2 d=3.53859e-05 t=66148
+ran hou 	然后	c=21 d=0.00011876 t=66148
+rang 	让	c=89 d=0.656856 t=66148
+rang gei 	让给	c=2 d=1.32403e-08 t=66148
+rang hou 	让后	c=2 d=0.000190664 t=66148
+rang ta 	让他	c=1 d=1.05982e-07 t=66148
+rang wo 	让我	c=5 d=0.891366 t=66148
+rao guo 	绕过	c=1 d=1 t=52897
+rao lu 	绕路	c=3 d=0.000115362 t=66148
+rao yuan 	绕远	c=2 d=0.0156076 t=66148
+re 	热	c=1 d=1 t=49514
+re dian 	热点	c=1 d=0.0147723 t=66148
+re geng xin 	热更新	c=1 d=1 t=49511
+re men 	热门	c=1 d=1 t=57027
+ren 	人	c=26 d=0.0141931 t=66148
+ren 	任	c=1 d=4.41032e-17 t=66148
+ren 	认	c=1 d=4.23378e-07 t=66148
+ren he 	任何	c=7 d=0.000918308 t=66148
+ren ke 	认可	c=1 d=8.13928e-20 t=66148
+ren men 	人们	c=1 d=8.9413e-08 t=66148
+ren min 	人民	c=4 d=0.168638 t=66148
+ren min bi 	人民币	c=4 d=0.0655462 t=66148
+ren ming 	人名	c=1 d=1 t=62173
+ren shi 	认识	c=3 d=4.71388e-06 t=66148
+ren wei 	认为	c=5 d=0.000446085 t=66148
+ren wu 	任务	c=87 d=1.90049 t=66148
+ren zhen 	认真	c=4 d=1.51123e-05 t=66148
+ren zheng 	认证	c=6 d=0.0349094 t=66148
+ren zhu 	忍住	c=3 d=8.17173e-08 t=66148
+ri 	日	c=196 d=3.24029 t=66148
+ri bao 	日报	c=6 d=3.66232e-07 t=66148
+ri ben 	日本	c=3 d=5.99071e-08 t=66148
+ri chang 	日常	c=4 d=5.91857e-07 t=66148
+ri li 	日历	c=2 d=6.46253e-12 t=66148
+ri nei 	日内	c=1 d=1 t=58020
+ri qi 	日期	c=10 d=0.000259956 t=66148
+ri xian 	日线	c=74 d=0.470011 t=66148
+ri zhi 	日志	c=84 d=0.84942 t=66148
+ri zhou yue 	日周月	c=2 d=1.09255 t=59634
+rong he 	融合	c=1 d=2.60673e-07 t=66148
+rong liang 	容量	c=1 d=8.55368e-16 t=66148
+rong qi 	容器	c=18 d=0.20089 t=66148
+rong yi 	容易	c=1 d=6.62839e-16 t=66148
+rou yan 	肉眼	c=1 d=1 t=57424
+ru 	入	c=12 d=0.00477195 t=66148
+ru 	如	c=5 d=0.000784864 t=66148
+ru chang 	入场	c=1 d=0.19398 t=66148
+ru er 	入耳	c=1 d=1 t=54047
+ru gu ao 	入孤傲	c=1 d=1 t=51153
+ru guo 	如果	c=43 d=0.000302 t=66148
+ru he 	如何	c=538 d=2.81796 t=66148
+ru jin 	入金	c=3 d=5.57391e-07 t=66148
+ru kou 	入口	c=8 d=0.186374 t=66148
+ru ku 	入库	c=4 d=4.29704e-05 t=66148
+ru qi 	如期	c=1 d=7.34446e-17 t=66148
+ru qin 	入侵	c=1 d=3.51871e-07 t=66148
+ru qun 	入群	c=1 d=1.72103e-05 t=66148
+ru shang 	如上	c=1 d=1 t=48389
+ru shou 	入手	c=1 d=1 t=61543
+ru xia 	如下	c=3 d=2.32315e-05 t=66148
+ruan 	软	c=3 d=0.000135032 t=66148
+ruan jian 	软件	c=18 d=0.398252 t=66148
+ruan lian jie 	软链接	c=10 d=0.000131698 t=66148
+rui 	瑞	c=1 d=1 t=65561
+rui xing 	瑞幸	c=6 d=4.69638e-14 t=66148
+sai 	赛	c=2 d=2.22668e-06 t=66148
+san 	三	c=6 d=0.00367942 t=66148
+san 	散	c=1 d=1 t=61230
+san bu 	三步	c=1 d=1 t=50360
+san chong 	三重	c=1 d=8.31387e-05 t=66148
+san ge 	三个	c=7 d=0.480771 t=66148
+san hu 	散户	c=2 d=4.06209e-13 t=66148
+san ji 	三级	c=1 d=1 t=59984
+san jia 	三家	c=1 d=3.22364e-06 t=66148
+san jian 	三件	c=1 d=1.24071e-08 t=66148
+san tao 	三套	c=1 d=0.00115345 t=66148
+san wu 	三巫	c=1 d=3.86611e-07 t=66148
+san wu ri 	三巫日	c=1 d=4.19166e-07 t=66148
+san zhi 	三只	c=1 d=2.15156e-14 t=66148
+sao 	扫	c=5 d=0.000154451 t=66148
+sao miao 	扫描	c=8 d=0.0029096 t=66148
+se 	色	c=1 d=1 t=53129
+sha 	啥	c=38 d=0.3167 t=66148
+sha 	杀	c=1 d=1 t=65395
+sha 	莎	c=1 d=1 t=62344
+sha die 	杀跌	c=1 d=1 t=45423
+sha gua 	傻瓜	c=1 d=7.57998e-06 t=66148
+sha shi hou 	啥时候	c=1 d=2.39472e-09 t=66148
+shai xuan 	筛选	c=2 d=2.67226e-05 t=66148
+shan 	删	c=1 d=1 t=63720
+shan 	闪	c=2 d=1 t=55976
+shan chu 	删除	c=61 d=0.00511774 t=66148
+shan diao 	删掉	c=6 d=0.16696 t=66148
+shan dong 	闪动	c=1 d=1 t=55984
+shan shuo 	闪烁	c=1 d=1 t=54213
+shan xi 	山西	c=16 d=4.08114e-05 t=66148
+shang 	上	c=369 d=2.87183 t=66148
+shang 	伤	c=2 d=0.109154 t=66148
+shang 	商	c=11 d=0.185345 t=66148
+shang ban 	上班	c=1 d=1 t=62035
+shang bao 	上报	c=1 d=1.31743e-08 t=66148
+shang bu fen 	上部分	c=1 d=3.92919e-11 t=66148
+shang cheng 	商城	c=3 d=1.94649 t=65733
+shang chuan 	上传	c=14 d=0.000445342 t=66148
+shang ci 	上次	c=14 d=7.67467e-05 t=66148
+shang de 	上的	c=1 d=1.70212e-22 t=66148
+shang fang 	上方	c=7 d=6.19311e-11 t=66148
+shang ge 	上个	c=4 d=6.34882e-09 t=66148
+shang hai 	上海	c=1 d=1 t=64941
+shang hai 	伤害	c=1 d=1.16603e-13 t=66148
+shang hu 	商户	c=1 d=1 t=60678
+shang hui 	上回	c=1 d=0.0214936 t=66148
+shang jia 	商家	c=2 d=7.75576e-11 t=66148
+shang le 	上了	c=1 d=6.49382e-10 t=66148
+shang le 	伤了	c=1 d=1 t=52386
+shang mian 	上面	c=34 d=0.153078 t=66148
+shang pin 	商品	c=6 d=9.01686e-10 t=66148
+shang qu 	上去	c=2 d=4.71388e-06 t=66148
+shang shi 	上市	c=2 d=4.37401e-08 t=66148
+shang ti 	上提	c=2 d=0.0013515 t=66148
+shang wang 	伤亡	c=1 d=1 t=44536
+shang wu 	上午	c=18 d=0.000858778 t=66148
+shang xia 	上下	c=44 d=0.206237 t=66148
+shang xian 	上线	c=9 d=3.65286e-06 t=66148
+shang xian 	上限	c=1 d=1.05762e-12 t=66148
+shang xing 	上行	c=2 d=2.23206e-05 t=66148
+shang yi 	上移	c=1 d=0.302704 t=66148
+shang yi bu 	上一步	c=1 d=7.66268e-16 t=66148
+shang yi ge 	上一个	c=2 d=5.03474e-16 t=66148
+shang you 	上游	c=36 d=1.12025 t=66148
+shang zhang 	上涨	c=11 d=0.250324 t=66148
+shang zheng 	上证	c=1 d=1 t=45035
+shang zhou 	上周	c=1 d=3.42414e-10 t=66148
+shao 	少	c=22 d=3.83023e-05 t=66148
+shao deng 	稍等	c=8 d=0.00307728 t=66148
+shao wei 	稍微	c=1 d=2.44942e-10 t=66148
+shao yong 	少用	c=2 d=1.29468e-09 t=66148
+she 	舍	c=2 d=2.76077e-06 t=66148
+she 	设	c=5 d=4.07761e-06 t=66148
+she bei 	设备	c=1 d=0.0137049 t=66148
+she ding 	设定	c=3 d=4.11006e-11 t=66148
+she hui 	社会	c=3 d=1 t=61796
+she ji 	涉及	c=1 d=1 t=57001
+she ji 	设计	c=68 d=0.00839911 t=66148
+she jiao 	社交	c=1 d=1 t=43821
+she li 	设立	c=1 d=4.41722e-06 t=66148
+she qi 	舍弃	c=2 d=1.69743e-19 t=66148
+she qu 	社区	c=24 d=0.615971 t=66148
+she shi 	设施	c=1 d=1 t=61937
+she shi du 	摄氏度	c=2 d=1.56965e-10 t=66148
+she zhi 	设置	c=155 d=1.84089 t=66148
+shen 	沈	c=1 d=2.8527e-09 t=66148
+shen bo yang 	沈博阳	c=1 d=2.81023e-09 t=66148
+shen cha 	审查	c=1 d=1 t=54901
+shen du 	深度	c=1 d=1 t=56435
+shen fen 	身份	c=2 d=1.09529e-12 t=66148
+shen geng 	深耕	c=1 d=1 t=54032
+shen he 	审核	c=8 d=0.0434998 t=66148
+shen ji 	审计	c=1 d=1.73833e-05 t=66148
+shen me 	什么	c=478 d=1.99394 t=66148
+shen pi 	审批	c=3 d=3.81598e-06 t=66148
+shen qi 	神奇	c=1 d=3.83218e-11 t=66148
+shen qing 	申请	c=19 d=0.0395575 t=66148
+shen ru 	深入	c=6 d=0.0769192 t=66148
+shen shang 	身上	c=1 d=6.46253e-12 t=66148
+shen shi 	审视	c=1 d=1 t=56192
+shen su 	申诉	c=3 d=1.01382e-05 t=66148
+shen ti 	身体	c=1 d=6.79042e-07 t=66148
+shen tou 	渗透	c=1 d=1 t=56036
+shen wa 	深挖	c=1 d=9.19607e-15 t=66148
+shen zhen 	深圳	c=1 d=1 t=64943
+sheng 	剩	c=2 d=1.03347e-05 t=66148
+sheng 	声	c=1 d=1 t=54046
+sheng 	盛	c=2 d=4.29852e-09 t=66148
+sheng 	省	c=14 d=2.6742e-06 t=66148
+sheng chan 	生产	c=3 d=0.00477195 t=66148
+sheng cheng 	生成	c=62 d=0.494109 t=66148
+sheng dao 	升到	c=1 d=7.79198e-07 t=66148
+sheng ji 	升级	c=114 d=1.32123 t=66148
+sheng ji ji 	声级计	c=1 d=7.9084e-05 t=66148
+sheng li 	胜利	c=1 d=1 t=49366
+sheng lve 	省略	c=1 d=1 t=62696
+sheng qi 	生气	c=1 d=1 t=43952
+sheng qian 	省钱	c=1 d=2.53796e-16 t=66148
+sheng shi 	声势	c=2 d=1.41899e-05 t=66148
+sheng xiao 	生效	c=10 d=0.00208262 t=66148
+sheng xuan 	胜选	c=1 d=1 t=65328
+sheng yin 	声音	c=1 d=1 t=46404
+shi 	事	c=7 d=7.89068e-08 t=66148
+shi 	使	c=9 d=0.247833 t=66148
+shi 	士	c=3 d=5.97704e-05 t=66148
+shi 	室	c=1 d=5.31487e-06 t=66148
+shi 	市	c=9 d=4.35556e-09 t=66148
+shi 	式	c=1 d=7.61799e-06 t=66148
+shi 	时	c=60 d=1.00664 t=66148
+shi 	是	c=1425 d=8.31313 t=66148
+shi 	试	c=2 d=0.00631391 t=66148
+shi bai 	失败	c=75 d=1.18033 t=66148
+shi bie 	识别	c=2 d=6.77401e-07 t=66148
+shi bing 	士兵	c=1 d=2.64612e-07 t=66148
+shi bu 	是不	c=1 d=1 t=56563
+shi bu shi 	是不是	c=39 d=0.176864 t=66148
+shi chang 	市场	c=15 d=0.398555 t=66148
+shi cuo 	试错	c=1 d=1 t=50947
+shi dai 	时代	c=1 d=1 t=55768
+shi de 	是的	c=2 d=3.39769e-07 t=66148
+shi duan 	时段	c=31 d=0.19398 t=66148
+shi er 	时而	c=2 d=1.99005 t=55987
+shi fan 	示范	c=1 d=1 t=62129
+shi fang 	释放	c=1 d=0.0127784 t=66148
+shi fou 	是否	c=94 d=0.345469 t=66148
+shi ge 	是个	c=3 d=7.24768e-08 t=66148
+shi guo le 	试过了	c=1 d=1.8692e-06 t=66148
+shi hao shi huai 	时好时坏	c=1 d=1.80522e-08 t=66148
+shi he 	适合	c=4 d=0.0359725 t=66148
+shi hou 	时候	c=43 d=0.175592 t=66148
+shi hui 	实惠	c=1 d=5.57487e-09 t=66148
+shi ji 	事迹	c=2 d=1.12938 t=54019
+shi ji 	实际	c=5 d=0.00492229 t=66148
+shi jia 	市价	c=1 d=3.52051e-13 t=66148
+shi jian 	实践	c=1 d=4.06778e-07 t=66148
+shi jian 	时间	c=81 d=1.10569 t=66148
+shi jian lei 	实践类	c=1 d=5.05569e-06 t=66148
+shi jie 	世界	c=5 d=7.54857e-07 t=66148
+shi jie bei 	世界杯	c=6 d=6.17823e-06 t=66148
+shi li 	实例	c=2 d=0.0125881 t=66148
+shi li 	示例	c=1 d=1 t=49017
+shi lian 	失联	c=1 d=1 t=50784
+shi mu yi dai 	拭目以待	c=1 d=1 t=45432
+shi pan 	实盘	c=21 d=0.107536 t=66148
+shi pei 	适配	c=3 d=1.37919e-11 t=66148
+shi pin 	视频	c=74 d=0.0547488 t=66148
+shi qi 	使其	c=2 d=0.000262568 t=66148
+shi qing 	事情	c=7 d=9.46968e-07 t=66148
+shi qu 	失去	c=3 d=0.244143 t=66148
+shi qu 	时区	c=3 d=3.50963e-06 t=66148
+shi sha 	是啥	c=1 d=3.76476e-08 t=66148
+shi shi 	实施	c=4 d=9.74116e-16 t=66148
+shi shi 	实时	c=71 d=0.202545 t=66148
+shi shi 	试试	c=37 d=0.0397124 t=66148
+shi tu 	试图	c=1 d=1 t=49819
+shi wang 	失望	c=2 d=0.19398 t=66148
+shi wo 	是我	c=1 d=1.7407e-21 t=66148
+shi wu 	事务	c=1 d=5.80237e-09 t=66148
+shi wu 	失误	c=1 d=1.38234e-15 t=66148
+shi xian 	实现	c=100 d=0.33454 t=66148
+shi xiang 	事项	c=4 d=5.88906e-07 t=66148
+shi xiao 	失效	c=7 d=0.00169651 t=66148
+shi yan 	实验	c=4 d=0.000166605 t=66148
+shi yao 	是要	c=2 d=0.000531398 t=66148
+shi yi 	事宜	c=2 d=1.9705e-09 t=66148
+shi yi ge 	是一个	c=1 d=1.32196e-19 t=66148
+shi yi tu 	示意图	c=1 d=0.00192083 t=66148
+shi yi xia 	试一下	c=1 d=9.80866e-09 t=66148
+shi ying 	适应	c=5 d=0.188247 t=66148
+shi yo 	是哟	c=0 d=0.1 t=65356
+shi yo neng 	是哟能	c=1 d=1 t=65357
+shi yong 	使用	c=432 d=2.42049 t=66148
+shi yong 	实用	c=2 d=1.08776e-19 t=66148
+shi yong 	试用	c=2 d=8.52579e-07 t=66148
+shi yong 	适用	c=1 d=1 t=55347
+shi yong guo 	使用过	c=7 d=0.0784731 t=66148
+shi yong nan 	使用难	c=1 d=0.0102037 t=66148
+shi yong o gai 	使用哦改	c=2 d=1 t=57903
+shi zai 	实在	c=1 d=0.00719046 t=66148
+shi ze 	实则	c=1 d=0.000944363 t=66148
+shi zhan 	实战	c=2 d=2.94131e-09 t=66148
+shi zhe 	试着	c=1 d=4.995e-11 t=66148
+shi zhen 	失真	c=2 d=1 t=52844
+shi zhi 	使之	c=1 d=1.54014e-22 t=66148
+shi zhi 	市值	c=3 d=3.33041e-07 t=66148
+shi zhong 	始终	c=1 d=1 t=54049
+shi zi 	十字	c=2 d=1.94649 t=48933
+shi zi xing 	十字星	c=1 d=1 t=65418
+shi zu 	十足	c=1 d=0.00388746 t=66148
+shou 	受	c=4 d=0.00782838 t=66148
+shou 	手	c=6 d=0.120633 t=66148
+shou 	收	c=11 d=0.118837 t=66148
+shou bu dao 	收不到	c=1 d=1.76035e-06 t=66148
+shou cang 	收藏	c=21 d=0.000625509 t=66148
+shou ci 	首次	c=1 d=7.43116e-08 t=66148
+shou dao 	收到	c=65 d=0.830733 t=66148
+shou dong 	手动	c=16 d=0.00109172 t=66148
+shou fei 	收费	c=23 d=0.179366 t=66148
+shou gong 	手工	c=1 d=6.70663e-07 t=66148
+shou huo 	收获	c=2 d=2.02068e-11 t=66148
+shou ji 	手机	c=66 d=0.831104 t=66148
+shou ji 	收集	c=5 d=6.16012e-07 t=66148
+shou ji duan 	手机端	c=1 d=1 t=55734
+shou jiao 	手脚	c=1 d=1.26229e-05 t=66148
+shou ju 	收据	c=3 d=1.12535e-07 t=66148
+shou kuan 	收款	c=1 d=8.8967e-08 t=66148
+shou pan 	收盘	c=19 d=5.09852e-05 t=66148
+shou qu 	收取	c=1 d=3.92919e-11 t=66148
+shou quan 	授权	c=2 d=0.0221482 t=66148
+shou shen 	瘦身	c=2 d=1.60351 t=58395
+shou shi 	手势	c=1 d=3.58297e-14 t=66148
+shou xian 	受限	c=1 d=4.50876e-12 t=66148
+shou xian 	首先	c=3 d=1.36765e-07 t=66148
+shou xie 	手写	c=1 d=1 t=62200
+shou xu 	手续	c=3 d=0.000167058 t=66148
+shou xu fei 	手续费	c=1 d=1 t=60706
+shou ye 	首页	c=1 d=1 t=58585
+shou yi 	收益	c=5 d=4.24331e-11 t=66148
+shou yin 	收银	c=2 d=1.00073 t=62130
+shu 	书	c=2 d=2.3616e-11 t=66148
+shu 	数	c=6 d=1.842e-05 t=66148
+shu biao 	鼠标	c=2 d=2.37049e-07 t=66148
+shu cai 	蔬菜	c=1 d=1 t=60886
+shu chu 	输出	c=12 d=3.57718e-06 t=66148
+shu ji 	书记	c=2 d=1.97531 t=60988
+shu ju 	数据	c=408 d=1.94784 t=66148
+shu ju ku 	数据库	c=8 d=2.63248e-05 t=66148
+shu ju yuan 	数据源	c=1 d=6.09033e-20 t=66148
+shu li 	梳理	c=4 d=7.44911e-07 t=66148
+shu lian 	熟练	c=2 d=8.63523e-10 t=66148
+shu mian 	书面	c=1 d=4.95555e-06 t=66148
+shu ou 	数偶	c=2 d=1.93111e-07 t=66148
+shu ping 	竖屏	c=1 d=1 t=57286
+shu qian 	书签	c=1 d=2.96862e-07 t=66148
+shu ru 	输入	c=42 d=0.00445705 t=66148
+shu tu tong gui 	殊途同归	c=1 d=2.91083e-11 t=66148
+shu xi 	熟悉	c=5 d=0.0251994 t=66148
+shu xie 	书写	c=1 d=1 t=45558
+shu xing 	属性	c=2 d=4.87084e-09 t=66148
+shu xue 	数学	c=1 d=1 t=45284
+shu yu 	属于	c=2 d=0.000418012 t=66148
+shu yu 	术语	c=1 d=1 t=62072
+shu zhi 	数值	c=4 d=1.04697 t=66148
+shu zi 	数字	c=9 d=8.72053e-08 t=66148
+shu zu 	数组	c=2 d=1 t=57570
+shua xin 	刷新	c=11 d=0.0845849 t=66148
+shuan guo 	涮锅	c=2 d=1.96079 t=60891
+shuang ji 	双击	c=1 d=2.38237e-07 t=66148
+shuang pin 	双拼	c=1 d=1 t=46146
+shuang tui 	双腿	c=1 d=8.48327e-07 t=66148
+shuang yu 	双语	c=3 d=1.85552 t=46585
+shui 	睡	c=1 d=7.82147e-22 t=66148
+shui 	谁	c=29 d=1.203 t=66148
+shui jiao 	睡觉	c=5 d=0.000539429 t=66148
+shui tong 	水桶	c=2 d=1.97531 t=61944
+shun 	顺	c=1 d=1 t=49069
+shun chang 	顺畅	c=2 d=3.97762e-08 t=66148
+shun jian 	瞬间	c=3 d=0.0051953 t=66148
+shun shou 	顺手	c=1 d=6.31606e-07 t=66148
+shun xu 	顺序	c=2 d=1 t=62606
+shuo 	说	c=155 d=0.347717 t=66148
+shuo chu 	说出	c=1 d=1.07306e-06 t=66148
+shuo de 	说的	c=4 d=0.158817 t=66148
+shuo fa 	说法	c=2 d=7.75577e-11 t=66148
+shuo guo 	说过	c=3 d=0.0145524 t=66148
+shuo hao 	说好	c=1 d=8.32662e-23 t=66148
+shuo hua 	说话	c=1 d=9.10613e-17 t=66148
+shuo ming 	说明	c=10 d=0.00107876 t=66148
+shuo shuo 	说说	c=8 d=0.0623495 t=66148
+shuo yi xia 	说一下	c=1 d=1 t=47235
+si 	四	c=8 d=0.0271874 t=66148
+si 	死	c=7 d=0.694197 t=66148
+si fang 	四方	c=7 d=9.96422e-05 t=66148
+si ge 	四个	c=3 d=1.29759e-06 t=66148
+si ji 	司机	c=1 d=1 t=44370
+si ji 	死机	c=1 d=1 t=57348
+si ji le 	死机了	c=1 d=3.44072e-08 t=66148
+si kan ni ya 	斯堪尼亚	c=2 d=1.96561 t=44380
+si kao 	思考	c=3 d=5.17212e-08 t=66148
+si lu 	思路	c=37 d=0.649172 t=66148
+si ren 	私人	c=1 d=1 t=43636
+si wei 	思维	c=8 d=1.83662e-05 t=66148
+si wu ri 	四巫日	c=1 d=2.99896e-09 t=66148
+si xiang 	思想	c=22 d=0.0199405 t=66148
+si you 	私有	c=16 d=0.354094 t=66148
+si you ku 	私有库	c=1 d=1 t=47624
+song 	宋	c=1 d=2.15603e-09 t=66148
+song 	送	c=2 d=3.4153e-09 t=66148
+song chi 	松弛	c=1 d=1.27914e-14 t=66148
+sou 	搜	c=9 d=3.4579e-05 t=66148
+sou suo 	搜索	c=28 d=0.113608 t=66148
+su 	素	c=1 d=4.43242e-17 t=66148
+su 	速	c=2 d=1.01861e-11 t=66148
+su cai 	素材	c=4 d=1.38892e-09 t=66148
+su dong 	速冻	c=1 d=4.26528e-06 t=66148
+su du 	速度	c=32 d=0.0201378 t=66148
+su ren 	俗人	c=0 d=0.1 t=63015
+su ren ge 	俗人个	c=1 d=1 t=63016
+su zi feng 	苏姿丰	c=1 d=1 t=61651
+suan 	算	c=14 d=0.129389 t=66148
+suan chu 	算出	c=1 d=1 t=46893
+suan fa 	算法	c=4 d=1.44921e-12 t=66148
+suan yi xia 	算一下	c=1 d=1 t=43992
+sui 	随	c=2 d=1 t=56464
+sui bian 	随便	c=3 d=1.44125e-06 t=66148
+sui dao 	隧道	c=19 d=0.414258 t=66148
+sui hou 	随后	c=1 d=4.85991e-12 t=66148
+sui ji 	随机	c=1 d=0.00143728 t=66148
+sui pian 	碎片	c=1 d=6.23705e-06 t=66148
+sui ran 	虽然	c=2 d=5.07136e-13 t=66148
+sui shi 	随时	c=1 d=1 t=58900
+sui shou 	随手	c=1 d=1 t=49233
+sui song 	随送	c=1 d=1 t=51906
+sui zhe 	随着	c=2 d=1 t=56851
+sun hai 	损害	c=1 d=1.54229e-09 t=66148
+sun huai 	损坏	c=5 d=0.00134011 t=66148
+sun li 	孙俪	c=1 d=1 t=55903
+sun shi 	损失	c=2 d=1.37344 t=44194
+suo 	所	c=6 d=0.00559538 t=66148
+suo 	索	c=1 d=3.96735e-07 t=66148
+suo 	锁	c=4 d=0.00029902 t=66148
+suo che 	锁车	c=1 d=1 t=45110
+suo jin 	缩进	c=1 d=0.120032 t=66148
+suo shu 	所属	c=1 d=1 t=60316
+suo si 	锁死	c=2 d=1.00698 t=45120
+suo xiao 	缩小	c=1 d=1 t=56965
+suo yi 	所以	c=3 d=5.1471e-11 t=66148
+suo you 	所有	c=60 d=0.302371 t=66148
+suo you nei rong 	所有内容	c=1 d=7.89337e-12 t=66148
+suo yu 	所遇	c=1 d=7.75445e-09 t=66148
+suo zai 	所在	c=4 d=6.89303e-06 t=66148
+ta 	他	c=63 d=0.722527 t=66148
+ta 	她	c=1 d=4.47697e-17 t=66148
+ta 	它	c=4 d=1.87671e-05 t=66148
+ta de 	他的	c=2 d=1.47799e-08 t=66148
+ta ke yi 	他可以	c=1 d=2.06045e-05 t=66148
+ta kong 	踏空	c=2 d=6.79042e-06 t=66148
+ta men 	他们	c=8 d=0.00463092 t=66148
+tai 	台	c=11 d=6.49138e-05 t=66148
+tai 	太	c=79 d=0.52118 t=66148
+tai bang 	太棒	c=1 d=3.37202e-06 t=66148
+tai duo 	太多	c=1 d=1 t=52670
+tai gao 	太高	c=1 d=6.96467e-10 t=66148
+tai guo 	泰国	c=1 d=1 t=44038
+tai ji dian 	台积电	c=29 d=0.89076 t=66148
+tai man 	太慢	c=2 d=7.21274e-10 t=66148
+tai ping 	太平	c=1 d=1.74734e-07 t=66148
+tai shao 	太少	c=2 d=1.0007 t=50302
+tai xiao 	太小	c=4 d=2.00992e-07 t=66148
+tan 	探	c=1 d=1 t=44158
+tan ming 	探明	c=2 d=1.97045 t=45427
+tan qin 	弹琴	c=2 d=1.26785e-05 t=66148
+tan suo 	探索	c=3 d=4.52904e-06 t=66148
+tan tan 	谈谈	c=1 d=1 t=44539
+tan tao 	探讨	c=2 d=1 t=57355
+tang 	唐	c=1 d=1 t=62109
+tao 	套	c=9 d=0.00127476 t=66148
+tao bao 	淘宝	c=6 d=0.00306044 t=66148
+tao can 	套餐	c=6 d=0.00158052 t=66148
+tao ke 	套壳	c=1 d=1 t=49255
+tao lun 	讨论	c=48 d=3.4153e-05 t=66148
+tao tai 	淘汰	c=2 d=4.9821e-10 t=66148
+tao yan 	讨厌	c=2 d=3.14512e-10 t=66148
+te bie 	特别	c=7 d=2.95024e-05 t=66148
+te dian 	特点	c=2 d=8.95089e-10 t=66148
+te gang 	特岗	c=2 d=1.99501 t=54017
+te shu 	特殊	c=1 d=1 t=45914
+te si la 	特斯拉	c=27 d=2.94994e-05 t=66148
+teng 	腾	c=1 d=8.23115e-05 t=66148
+teng xun 	腾讯	c=3 d=2.78844 t=64761
+ti 	体	c=1 d=2.17769e-09 t=66148
+ti 	提	c=5 d=2.6e-06 t=66148
+ti 	踢	c=1 d=1.47874e-14 t=66148
+ti chu 	提出	c=3 d=1.83219e-06 t=66148
+ti dai 	替代	c=7 d=5.2002e-06 t=66148
+ti dao 	提到	c=3 d=7.59959e-07 t=66148
+ti diao 	踢掉	c=1 d=5.83442e-15 t=66148
+ti gao 	提高	c=6 d=2.02978e-05 t=66148
+ti ge 	提个	c=1 d=3.05476e-20 t=66148
+ti gong 	提供	c=33 d=1.7754e-05 t=66148
+ti gong gei 	提供给	c=2 d=4.5651e-11 t=66148
+ti guo 	提过	c=1 d=1 t=49552
+ti huan 	替换	c=22 d=0.814647 t=66148
+ti jia 	提价	c=3 d=0.00650789 t=66148
+ti jiao 	提交	c=204 d=2.95152 t=66148
+ti lian 	提炼	c=2 d=2.14564e-11 t=66148
+ti qian 	提前	c=2 d=9.21204e-06 t=66148
+ti qu 	提取	c=11 d=9.2169e-06 t=66148
+ti sheng 	提升	c=3 d=1 t=63831
+ti shi 	提示	c=80 d=0.279902 t=66148
+ti shi ci 	提示词	c=1 d=1.68753e-09 t=66148
+ti shi hang 	提示行	c=1 d=0.136014 t=66148
+ti xi 	体系	c=10 d=0.0522165 t=66148
+ti xian 	体现	c=3 d=3.32828e-05 t=66148
+ti xian 	提现	c=1 d=1.39937e-12 t=66148
+ti xing 	提醒	c=5 d=0.0816756 t=66148
+ti yan 	体验	c=7 d=0.000868207 t=66148
+tian 	填	c=16 d=4.28667e-06 t=66148
+tian 	天	c=35 d=0.362402 t=66148
+tian 	添	c=1 d=1 t=53195
+tian 	田	c=3 d=3.15218e-07 t=66148
+tian de 	填的	c=1 d=1 t=56071
+tian dian 	甜点	c=1 d=4.15998e-06 t=66148
+tian e 	天鹅	c=1 d=1 t=46788
+tian hao 	填好	c=2 d=2.27243e-10 t=66148
+tian jia 	添加	c=52 d=0.00277112 t=66148
+tian jian 	田间	c=1 d=3.91093e-15 t=66148
+tian qi 	天气	c=22 d=8.26527e-09 t=66148
+tian ru 	填入	c=3 d=0.0017555 t=66148
+tian shu 	天数	c=1 d=1 t=61817
+tian xia 	天下	c=1 d=1 t=48456
+tian xie 	填写	c=7 d=0.0202419 t=66148
+tian xin 	田鑫	c=1 d=3.18387e-07 t=66148
+tiao 	条	c=5 d=0.0875977 t=66148
+tiao 	调	c=5 d=0.000332391 t=66148
+tiao 	跳	c=3 d=7.58126e-08 t=66148
+tiao ban 	跳板	c=1 d=2.04593e-10 t=66148
+tiao chu 	跳出	c=2 d=0.0167392 t=66148
+tiao da 	调大	c=1 d=0.105399 t=66148
+tiao dong 	跳动	c=11 d=0.0457346 t=66148
+tiao jian 	条件	c=6 d=0.0578443 t=66148
+tiao li 	条例	c=1 d=6.58971e-06 t=66148
+tiao lou 	跳楼	c=1 d=1 t=65202
+tiao shi 	调试	c=21 d=0.00195963 t=66148
+tiao you 	调优	c=7 d=0.000163371 t=66148
+tiao yue 	跳跃	c=17 d=0.0197441 t=66148
+tiao zheng 	调整	c=28 d=0.0129131 t=66148
+tiao zhuan 	跳转	c=8 d=0.00253079 t=66148
+tie 	贴	c=41 d=0.257071 t=66148
+tie chu 	贴出	c=1 d=1 t=58620
+tie gei ni 	贴给你	c=1 d=5.73175e-12 t=66148
+tie jin 	贴近	c=3 d=8.13375e-12 t=66148
+tie lv 	铁律	c=1 d=3.38247e-13 t=66148
+tie qie 	贴切	c=1 d=1 t=66106
+tie yi xia 	贴一下	c=1 d=1 t=58597
+ting 	停	c=31 d=0.145854 t=66148
+ting 	厅	c=1 d=1.3172e-06 t=66148
+ting 	听	c=1 d=1 t=49851
+ting 	挺	c=1 d=9.07952e-12 t=66148
+ting diao 	停掉	c=1 d=9.62426e-21 t=66148
+ting gong 	停工	c=1 d=1.92181e-09 t=66148
+ting huo 	停火	c=1 d=1 t=44529
+ting ji 	停机	c=2 d=2.02531e-08 t=66148
+ting li hai 	挺厉害	c=1 d=5.14624e-09 t=66148
+ting liu 	停留	c=2 d=1.73084e-13 t=66148
+ting shuo 	听说	c=1 d=6.96703e-14 t=66148
+ting ting 	听听	c=1 d=2.22668e-06 t=66148
+ting yi xia 	停一下	c=1 d=7.63769e-07 t=66148
+ting yong 	停用	c=5 d=8.21129e-06 t=66148
+ting zhi 	停止	c=36 d=0.130174 t=66148
+ting zhun 	挺准	c=1 d=0.0461896 t=66148
+tong 	同	c=2 d=7.34071e-11 t=66148
+tong 	通	c=99 d=3.37093 t=66148
+tong bu 	同步	c=57 d=1.94655 t=66148
+tong bu tong 	通不通	c=1 d=1 t=58140
+tong chang 	通畅	c=1 d=1 t=58448
+tong dao 	通道	c=1 d=2.22131e-07 t=66148
+tong dian 	痛点	c=2 d=0.559898 t=66148
+tong guo 	通过	c=44 d=0.220226 t=66148
+tong hang 	同行	c=1 d=1 t=56538
+tong hang ye 	同行业	c=1 d=0.203926 t=66148
+tong ji 	统计	c=4 d=0.00424209 t=66148
+tong le 	通了	c=11 d=0.00644558 t=66148
+tong qin 	通勤	c=1 d=1 t=46125
+tong shi 	同时	c=23 d=0.00870315 t=66148
+tong su 	通俗	c=1 d=1.86628e-17 t=66148
+tong xing 	通行	c=1 d=2.03012e-07 t=66148
+tong yang 	同样	c=1 d=1.14512e-06 t=66148
+tong yi 	同一	c=1 d=1 t=48074
+tong yi 	同意	c=8 d=2.26579e-05 t=66148
+tong yi 	统一	c=3 d=6.42921e-10 t=66148
+tong yi ge 	同一个	c=3 d=1 t=63952
+tong yong 	通用	c=4 d=1.99541e-10 t=66148
+tong zhi 	通知	c=11 d=0.00153368 t=66148
+tou 	偷	c=1 d=1.32701e-05 t=66148
+tou 	头	c=13 d=0.946485 t=66148
+tou bu 	头部	c=3 d=2.00238e-11 t=66148
+tou che 	透彻	c=1 d=2.03642e-14 t=66148
+tou ming 	透明	c=1 d=7.99332e-13 t=66148
+tou tou 	偷偷	c=1 d=1.11434e-09 t=66148
+tou xiang 	头像	c=2 d=1.00923 t=55140
+tou zi 	投资	c=8 d=0.267135 t=66148
+tu 	图	c=44 d=0.0119742 t=66148
+tu biao 	图标	c=11 d=0.104876 t=66148
+tu biao 	图表	c=51 d=1.1617 t=66148
+tu chu 	突出	c=1 d=7.3255e-16 t=66148
+tu pian 	图片	c=40 d=0.000515734 t=66148
+tu po 	突破	c=3 d=1.20424e-10 t=66148
+tu ran 	突然	c=15 d=0.0547532 t=66148
+tu shang 	图上	c=3 d=1.12063 t=56807
+tu wen 	图文	c=1 d=1 t=53617
+tu xing 	图形	c=1 d=4.03911e-12 t=66148
+tu zhong 	图中	c=1 d=1 t=64629
+tuan dui 	团队	c=5 d=1.56129e-06 t=66148
+tui 	推	c=2 d=9.44845e-10 t=66148
+tui 	腿	c=3 d=1.28468e-06 t=66148
+tui 	退	c=6 d=0.000269215 t=66148
+tui chu 	推出	c=2 d=4.38533e-09 t=66148
+tui chu 	退出	c=20 d=0.855651 t=66148
+tui duan 	推断	c=2 d=0.190139 t=66148
+tui guang 	推广	c=1 d=1.82964e-19 t=66148
+tui jian 	推荐	c=15 d=0.0023962 t=66148
+tui jin 	推进	c=5 d=1.0056 t=58571
+tui kuan 	退款	c=6 d=0.000459639 t=66148
+tui rang 	退让	c=1 d=7.99468e-15 t=66148
+tui song 	推送	c=170 d=2.37437 t=66148
+tui suan 	推算	c=4 d=3.20756e-06 t=66148
+tui te 	推特	c=1 d=1.0031e-07 t=66148
+tui yan 	推演	c=1 d=1.54759e-20 t=66148
+tui yi 	推移	c=1 d=1 t=44970
+tuo 	脱	c=1 d=5.72182e-21 t=66148
+tuo dang 	妥当	c=2 d=1 t=64365
+tuo dong 	拖动	c=2 d=1 t=57103
+tuo guan 	托管	c=3 d=0.000104638 t=66148
+tuo kuan 	拓宽	c=1 d=1 t=59510
+tuo min 	脱敏	c=2 d=0.0424257 t=66148
+tuo zhan 	拓展	c=1 d=1 t=54039
+tuo zhuai 	拖拽	c=1 d=1.43085e-09 t=66148
+wai 	外	c=1 d=1 t=60345
+wai bu 	外部	c=1 d=1.44847e-06 t=66148
+wai guo 	外国	c=1 d=4.4639e-12 t=66148
+wai jie 	外接	c=1 d=1 t=46135
+wai ke 	外壳	c=2 d=1.69628e-11 t=66148
+wai wang 	外网	c=1 d=1 t=64683
+wan 	万	c=8 d=0.0642483 t=66148
+wan 	完	c=37 d=0.013442 t=66148
+wan 	晚	c=2 d=1.53089e-10 t=66148
+wan 	湾	c=1 d=3.48311e-05 t=66148
+wan bei 	完备	c=3 d=0.000927263 t=66148
+wan bi 	完毕	c=9 d=0.00172074 t=66148
+wan cheng 	完成	c=45 d=0.0350794 t=66148
+wan lu 	弯路	c=2 d=3.86873e-05 t=66148
+wan mei 	完美	c=25 d=0.631284 t=66148
+wan neng 	万能	c=1 d=0.0934807 t=66148
+wan quan 	完全	c=8 d=0.000128819 t=66148
+wan shan 	完善	c=31 d=0.183341 t=66148
+wan shang 	晚上	c=1 d=1 t=49834
+wan wang 	万网	c=1 d=1 t=64869
+wan yan 	晚宴	c=1 d=3.43301e-11 t=66148
+wan zheng 	完整	c=16 d=0.0629761 t=66148
+wang 	往	c=8 d=0.000893825 t=66148
+wang 	网	c=13 d=0.00798652 t=66148
+wang chuan 	网传	c=1 d=3.1386e-15 t=66148
+wang ji 	忘记	c=1 d=1 t=45023
+wang ka 	网卡	c=2 d=6.44476e-09 t=66148
+wang le 	忘了	c=13 d=0.677057 t=66148
+wang luo 	网络	c=6 d=0.489192 t=66148
+wang ming 	网名	c=1 d=1 t=55143
+wang pan 	网盘	c=1 d=2.0403e-07 t=66148
+wang shang 	网上	c=12 d=0.000320607 t=66148
+wang su 	网速	c=1 d=0.546074 t=66148
+wang ye 	网页	c=33 d=0.447088 t=66148
+wang you 	网友	c=1 d=4.22355e-08 t=66148
+wang zhan 	网站	c=55 d=1.1447 t=66148
+wang zhi 	网址	c=11 d=0.000497965 t=66148
+wei 	为	c=114 d=0.235426 t=66148
+wei 	伪	c=2 d=1.88692 t=46802
+wei 	位	c=11 d=8.5464e-06 t=66148
+wei 	喂	c=3 d=1.98659 t=48437
+wei 	未	c=15 d=0.429557 t=66148
+wei bei 	违背	c=1 d=1 t=50068
+wei bo 	微薄	c=1 d=1 t=45355
+wei fa 	违法	c=2 d=2.09195e-07 t=66148
+wei fan 	违反	c=1 d=1 t=56605
+wei fu wu 	微服务	c=1 d=1 t=62300
+wei gong 	为公	c=1 d=3.4837e-07 t=66148
+wei gui 	违规	c=7 d=0.0800591 t=66148
+wei hao 	为好	c=1 d=1 t=49848
+wei hu 	维护	c=4 d=0.000286989 t=66148
+wei ji 	危机	c=1 d=8.35555e-05 t=66148
+wei lai 	未来	c=1 d=1.03668e-12 t=66148
+wei lan 	围栏	c=1 d=0.0118551 t=66148
+wei le 	为了	c=3 d=3.02962e-11 t=66148
+wei ruan 	微软	c=14 d=3.5449e-06 t=66148
+wei shen me 	为什么	c=9 d=0.00166156 t=66148
+wei tuo 	委托	c=1 d=1.07415e-18 t=66148
+wei xin 	微信	c=7 d=1.05435e-05 t=66148
+wei yi hou 	为以后	c=1 d=1.38116e-05 t=66148
+wei yuan hui 	委员会	c=1 d=1 t=61072
+wei zhi 	为止	c=2 d=6.96467e-10 t=66148
+wei zhi 	位置	c=37 d=0.833751 t=66148
+wei zhu 	为主	c=2 d=5.10647e-06 t=66148
+wei zhuang 	伪装	c=5 d=0.230133 t=66148
+wei zuo 	围坐	c=1 d=6.79042e-06 t=66148
+wen 	文	c=51 d=0.263405 t=66148
+wen 	问	c=12 d=0.108067 t=66148
+wen dang 	文档	c=74 d=1.70053 t=66148
+wen ding 	稳定	c=1 d=1 t=65622
+wen du 	温度	c=3 d=1.08384e-06 t=66148
+wen hua 	文化	c=2 d=1.23515e-14 t=66148
+wen hua 	文华	c=3 d=7.05197e-14 t=66148
+wen ji 	文集	c=0 d=0.1 t=48227
+wen ji jiao an 	文集教案	c=1 d=1 t=48228
+wen jian 	文件	c=238 d=2.74857 t=66148
+wen jian 	稳健	c=1 d=6.52527e-08 t=66148
+wen jian li 	文件里	c=1 d=3.69911e-07 t=66148
+wen ta 	问他	c=1 d=0.101266 t=66148
+wen ti 	文体	c=1 d=5.44941e-06 t=66148
+wen ti 	问题	c=191 d=1.63405 t=66148
+wen tuo 	稳妥	c=1 d=1 t=46347
+wen wen 	问问	c=4 d=6.92876e-08 t=66148
+wen wo 	问我	c=28 d=0.644665 t=66148
+wen yi 	文艺	c=1 d=1 t=56874
+wen zhu 	稳住	c=1 d=1 t=46959
+wen zi 	文字	c=8 d=0.0303487 t=66148
+wo 	我	c=2901 d=17.0643 t=66148
+wo ba 	我把	c=2 d=2.09159e-05 t=66148
+wo dan wei 	我单位	c=1 d=1.94112e-09 t=66148
+wo de 	我的	c=16 d=0.65377 t=66148
+wo duan 	我段	c=2 d=1.99501 t=61042
+wo fu zhi 	我复制	c=2 d=0.000177774 t=66148
+wo gai 	我该	c=1 d=1.02371e-11 t=66148
+wo gei 	我给	c=1 d=1.19926e-20 t=66148
+wo hai 	我还	c=1 d=3.66294e-09 t=66148
+wo hai you 	我还有	c=1 d=3.75503e-07 t=66148
+wo he 	我和	c=1 d=5.18629e-12 t=66148
+wo jiu 	我就	c=2 d=0.00280879 t=66148
+wo jue 	我觉	c=1 d=3.64653e-15 t=66148
+wo jue de 	我觉得	c=1 d=4.83731e-16 t=66148
+wo mei 	我没	c=1 d=2.56129e-06 t=66148
+wo men 	我们	c=465 d=1.11933 t=66148
+wo men zi ji 	我们自己	c=1 d=2.984e-09 t=66148
+wo qu 	我去	c=7 d=1.91157e-05 t=66148
+wo rang 	我让	c=1 d=5.01832e-07 t=66148
+wo ru he 	我如何	c=1 d=2.13421e-07 t=66148
+wo shi 	我是	c=11 d=7.82533e-09 t=66148
+wo shi huang 	我是皇	c=1 d=7.1274e-17 t=66148
+wo shou 	握手	c=2 d=2.21557e-06 t=66148
+wo shuo 	我说	c=2 d=9.63767e-08 t=66148
+wo xian 	我先	c=1 d=1.46e-11 t=66148
+wo xian zai 	我现在	c=1 d=1 t=58997
+wo xiang 	我想	c=2 d=1.53988e-20 t=66148
+wo xu yao 	我需要	c=2 d=0.0572688 t=66148
+wo xuan 	我选	c=1 d=1.61773e-12 t=66148
+wo yao 	我要	c=2 d=2.59417e-09 t=66148
+wo ye 	我也	c=3 d=3.05113e-06 t=66148
+wo yong 	我用	c=2 d=9.32711e-05 t=66148
+wo you 	我有	c=7 d=2.50409e-05 t=66148
+wo you yi ge 	我有一个	c=1 d=2.37008e-05 t=66148
+wo yuan lai 	我原来	c=1 d=7.7571e-13 t=66148
+wo zai 	我再	c=1 d=9.81034e-11 t=66148
+wo zai 	我在	c=1 d=2.27321e-14 t=66148
+wo zhi jie 	我直接	c=1 d=3.16906e-11 t=66148
+wo zhi shi 	我只是	c=1 d=2.78179e-07 t=66148
+wu 	五	c=4 d=1.24187e-09 t=66148
+wu 	巫	c=4 d=5.37703e-07 t=66148
+wu 	无	c=14 d=0.360607 t=66148
+wu 	武	c=2 d=1.97531 t=60989
+wu ban 	舞伴	c=1 d=1 t=65201
+wu chi zhi tu 	无耻之徒	c=1 d=1 t=60389
+wu dao 	舞蹈	c=1 d=8.29383e-06 t=66148
+wu fa 	无法	c=42 d=0.458193 t=66148
+wu guan 	无关	c=4 d=0.00250366 t=66148
+wu hen 	无痕	c=1 d=1 t=65103
+wu hui 	误会	c=3 d=1.06754 t=64662
+wu jiao xing 	五角星	c=1 d=1 t=62655
+wu men 	无门	c=1 d=3.82423e-16 t=66148
+wu nei rong 	无内容	c=1 d=3.12082e-07 t=66148
+wu pan 	误判	c=2 d=4.14924e-05 t=66148
+wu qu 	误区	c=1 d=1 t=59251
+wu quan 	无权	c=1 d=1.58106e-07 t=66148
+wu quan xian 	无权限	c=1 d=1.39168e-06 t=66148
+wu ri 	巫日	c=1 d=3.26502e-09 t=66148
+wu shang 	误伤	c=4 d=0.207008 t=66148
+wu shui 	午睡	c=2 d=1.20323e-19 t=66148
+wu song 	雾凇	c=1 d=2.4933e-13 t=66148
+wu xian 	无限	c=3 d=0.251579 t=66148
+wu xiao 	无效	c=38 d=0.145876 t=66148
+wu xiao guo 	无效果	c=1 d=1 t=55092
+wu yong 	无用	c=1 d=1 t=65407
+wu yu 	无语	c=1 d=0.115325 t=66148
+xi 	习	c=1 d=1 t=61699
+xi 	息	c=1 d=1 t=61082
+xi 	汐	c=1 d=4.45464e-17 t=66148
+xi 	锡	c=1 d=1 t=60990
+xi ban ya 	西班牙	c=1 d=1 t=54741
+xi feng tai 	栖凤台	c=4 d=2.79165 t=64226
+xi guan 	习惯	c=5 d=1.91727 t=66148
+xi huan 	喜欢	c=10 d=2.2772e-05 t=66148
+xi jie 	细节	c=6 d=0.015947 t=66148
+xi lie 	系列	c=1 d=1 t=46086
+xi tong 	系统	c=110 d=3.13339 t=66148
+xi wang 	希望	c=1 d=1 t=50112
+xi zhi 	细致	c=1 d=1.25037e-11 t=66148
+xia 	下	c=209 d=1.20991 t=66148
+xia ban 	下班	c=7 d=0.0042963 t=66148
+xia ci 	下次	c=26 d=0.000898306 t=66148
+xia ci 	瑕疵	c=2 d=1 t=57392
+xia dan 	下单	c=4 d=1.47112e-12 t=66148
+xia die 	下跌	c=15 d=0.97531 t=66148
+xia fang 	下方	c=13 d=0.000319105 t=66148
+xia jiang 	下降	c=2 d=0.0107807 t=66148
+xia lai 	下来	c=23 d=0.0997588 t=66148
+xia mian 	下面	c=6 d=4.89359e-05 t=66148
+xia wu 	下午	c=12 d=1.64069e-08 t=66148
+xia xian 	下线	c=1 d=8.40456e-15 t=66148
+xia yi bu 	下一步	c=8 d=6.68929e-06 t=66148
+xia yi ge 	下一个	c=3 d=3.08977e-07 t=66148
+xia yi wei 	下一位	c=1 d=4.76367e-12 t=66148
+xia yu 	下雨	c=1 d=0.0739031 t=66148
+xia yue 	下月	c=1 d=0.0132999 t=66148
+xia zai 	下载	c=50 d=0.000693571 t=66148
+xia zhou 	下周	c=5 d=1.71245e-05 t=66148
+xian 	先	c=282 d=2.60274 t=66148
+xian 	县	c=6 d=0.000251014 t=66148
+xian 	现	c=1 d=2.09879e-16 t=66148
+xian 	线	c=222 d=0.00577709 t=66148
+xian 	限	c=1 d=1 t=53528
+xian ba 	先把	c=4 d=0.000183188 t=66148
+xian bu 	先不	c=1 d=1 t=49475
+xian chang 	现场	c=4 d=0.580263 t=66148
+xian cheng 	现成	c=1 d=0.0020396 t=66148
+xian da 	先打	c=2 d=0.32628 t=66148
+xian dai 	现代	c=1 d=1 t=56006
+xian e 	限额	c=2 d=0.0317456 t=66148
+xian gei wo 	先给我	c=1 d=0.0023461 t=66148
+xian ji 	县级	c=3 d=2.78073 t=54067
+xian jia 	现价	c=11 d=0.121238 t=66148
+xian jia 	限价	c=3 d=3.80194e-06 t=66148
+xian jie duan 	现阶段	c=1 d=1 t=56600
+xian jin 	先进	c=3 d=3.11382e-10 t=66148
+xian jin 	现金	c=2 d=2.12428e-11 t=66148
+xian jing 	陷阱	c=1 d=1 t=49411
+xian lu 	线路	c=6 d=0.000168692 t=66148
+xian qu 	先去	c=2 d=0.000136389 t=66148
+xian shang 	线上	c=1 d=1 t=53441
+xian shi 	显示	c=218 d=1.52532 t=66148
+xian shi 	现实	c=2 d=0.000953854 t=66148
+xian shu 	娴熟	c=1 d=5.37103e-12 t=66148
+xian suo 	线索	c=1 d=1.23175e-11 t=66148
+xian tao lun 	先讨论	c=1 d=2.26618e-07 t=66148
+xian xiang 	现象	c=1 d=1 t=64439
+xian yong 	先用	c=1 d=1.15404e-09 t=66148
+xian you 	现有	c=8 d=0.0192591 t=66148
+xian zai 	现在	c=268 d=2.83765 t=66148
+xian zhi 	闲置	c=1 d=1 t=46840
+xian zhi 	限制	c=6 d=0.000376347 t=66148
+xian zhuang 	现状	c=1 d=1 t=47256
+xiang 	像	c=4 d=3.16044e-08 t=66148
+xiang 	向	c=9 d=0.04573 t=66148
+xiang 	想	c=119 d=0.975378 t=66148
+xiang 	相	c=2 d=7.89201e-10 t=66148
+xiang 	箱	c=1 d=0.00427488 t=66148
+xiang 	项	c=6 d=0.0176857 t=66148
+xiang 	香	c=13 d=1.00021 t=64695
+xiang ba 	想把	c=1 d=1 t=66142
+xiang ban fa 	想办法	c=1 d=1 t=45955
+xiang bei 	向北	c=1 d=1 t=44234
+xiang bu qi 	想不起	c=1 d=1.45598e-08 t=66148
+xiang dang 	相当	c=1 d=1 t=59295
+xiang de 	想的	c=1 d=1.74342e-10 t=66148
+xiang dui 	相对	c=2 d=0.000283018 t=66148
+xiang fa 	想法	c=20 d=0.0131007 t=66148
+xiang fu 	相符	c=1 d=6.01109e-13 t=66148
+xiang gang 	香港	c=90 d=0.043393 t=66148
+xiang guan 	相关	c=3 d=5.29275e-06 t=66148
+xiang mai 	想买	c=1 d=3.91907e-10 t=66148
+xiang mu 	项目	c=63 d=0.302924 t=66148
+xiang qi 	想起	c=1 d=1 t=63300
+xiang qing 	详情	c=3 d=2.38377e-06 t=66148
+xiang ta 	向他	c=1 d=1.20736e-11 t=66148
+xiang tong 	相同	c=1 d=0.000122182 t=66148
+xiang wai 	向外	c=1 d=8.27665e-11 t=66148
+xiang xi 	详细	c=12 d=1.67017e-05 t=66148
+xiang xiang 	想想	c=9 d=1.16524e-05 t=66148
+xiang xiang 	想象	c=9 d=0.0142125 t=66148
+xiang xin 	相信	c=1 d=5.58738e-06 t=66148
+xiang yi ju 	香亿居	c=2 d=1.22537 t=64696
+xiang ying su du 	响应速度	c=1 d=1 t=60020
+xiao 	小	c=36 d=0.000281537 t=66148
+xiao 	笑	c=1 d=1 t=50049
+xiao an niu 	小按钮	c=1 d=2.40133e-12 t=66148
+xiao bu 	小步	c=1 d=1 t=47833
+xiao cheng xu 	小程序	c=4 d=4.08551e-09 t=66148
+xiao guo 	效果	c=44 d=0.000444662 t=66148
+xiao hao 	消耗	c=3 d=2.11402e-06 t=66148
+xiao hua 	消化	c=1 d=1 t=49677
+xiao hua xiao hua 	消化消化	c=1 d=1 t=49362
+xiao lian 	笑脸	c=3 d=1.0034 t=51285
+xiao lv 	效率	c=1 d=1.11993e-09 t=66148
+xiao mi 	小米	c=2 d=6.32518e-14 t=66148
+xiao shi 	小时	c=11 d=2.23206e-05 t=66148
+xiao shi 	消失	c=2 d=0.000236397 t=66148
+xiao shi pin 	小视频	c=1 d=2.78852e-06 t=66148
+xiao shu 	小数	c=1 d=1 t=51316
+xiao xi 	消息	c=5 d=0.354243 t=66148
+xiao yang 	小样	c=1 d=1 t=62623
+xiao yuan 	校园	c=1 d=1 t=54028
+xiao zhou qi 	小周期	c=1 d=1 t=59259
+xiao zhu shou 	小助手	c=1 d=2.40672e-09 t=66148
+xiao zu 	小组	c=5 d=2.15703e-05 t=66148
+xie 	些	c=13 d=5.01772e-05 t=66148
+xie 	写	c=156 d=1.0894 t=66148
+xie cheng 	写成	c=7 d=0.0328764 t=66148
+xie chu 	写出	c=1 d=1 t=54677
+xie dao 	写到	c=10 d=2.44456e-05 t=66148
+xie de 	写的	c=0 d=0.1 t=54051
+xie e 	邪恶	c=1 d=1 t=44332
+xie fa 	写法	c=4 d=0.141516 t=66148
+xie gang 	斜杠	c=3 d=1.22056e-05 t=66148
+xie ge 	写个	c=3 d=0.102284 t=66148
+xie hao 	写好	c=4 d=1.96029e-07 t=66148
+xie jin 	写进	c=9 d=0.629781 t=66148
+xie lou 	泄露	c=37 d=3.97915 t=66148
+xie ru 	写入	c=11 d=0.0710139 t=66148
+xie si 	写死	c=2 d=0.701173 t=66148
+xie tiao 	协调	c=1 d=2.78994e-12 t=66148
+xie tong 	协同	c=1 d=5.6865e-07 t=66148
+xie xia 	写下	c=1 d=1.40227e-07 t=66148
+xie xie 	谢谢	c=31 d=0.0377287 t=66148
+xie yi 	协议	c=34 d=0.377384 t=66148
+xie yi fen 	写一份	c=1 d=0.250324 t=66148
+xie yi ge 	写一个	c=1 d=4.64686e-14 t=66148
+xie zai 	写在	c=5 d=7.30162e-07 t=66148
+xie zai 	卸载	c=20 d=0.0407051 t=66148
+xie zuo 	协作	c=2 d=1.8825 t=64677
+xin 	信	c=3 d=2.19328e-07 t=66148
+xin 	心	c=7 d=0.00051312 t=66148
+xin 	新	c=131 d=2.27052 t=66148
+xin 	鑫	c=2 d=3.16798e-07 t=66148
+xin ban 	新版	c=6 d=0.008271 t=66148
+xin ban ben 	新版本	c=1 d=1.18878e-05 t=66148
+xin de 	心得	c=1 d=2.52487e-14 t=66148
+xin de 	新的	c=6 d=0.647265 t=66148
+xin gao 	新高	c=2 d=1.21634e-10 t=66148
+xin gu 	新股	c=2 d=0.0397558 t=66148
+xin jia po 	新加坡	c=2 d=8.09797e-09 t=66148
+xin jian 	新建	c=4 d=0.0188734 t=66148
+xin ku 	新库	c=1 d=1.03098e-06 t=66148
+xin ku 	辛苦	c=3 d=5.49092e-07 t=66148
+xin li 	心理	c=1 d=2.51793e-11 t=66148
+xin pian 	芯片	c=6 d=0.0555973 t=66148
+xin pin 	新品	c=2 d=1.31506 t=60642
+xin qing 	心情	c=1 d=1.79591e-06 t=66148
+xin shang 	欣赏	c=1 d=1.06018e-11 t=66148
+xin wen 	新闻	c=46 d=0.691123 t=66148
+xin xi 	信息	c=88 d=0.0947778 t=66148
+xin xin 	信心	c=1 d=1 t=49572
+xin yong 	信用	c=2 d=0.0327124 t=66148
+xin zhi 	心智	c=1 d=0.179964 t=66148
+xin zu 	新组	c=2 d=3.63567e-09 t=66148
+xing 	型	c=1 d=1 t=45357
+xing 	性	c=33 d=0.173774 t=66148
+xing 	星	c=2 d=1 t=60302
+xing 	行	c=14 d=0.00499159 t=66148
+xing ba 	行吧	c=1 d=1 t=46566
+xing bu 	行不	c=1 d=5.89708e-23 t=66148
+xing che 	行车	c=1 d=1.84645e-09 t=66148
+xing cheng 	形成	c=12 d=0.0112701 t=66148
+xing dong 	行动	c=7 d=0.217621 t=66148
+xing fen 	兴奋	c=1 d=5.70315e-12 t=66148
+xing ge 	性格	c=1 d=1.81865e-07 t=66148
+xing jia bi 	性价比	c=4 d=0.00240549 t=66148
+xing lian 	星链	c=1 d=1 t=61626
+xing ma 	行吗	c=3 d=5.89801e-12 t=66148
+xing ming 	姓名	c=6 d=4.98835 t=62201
+xing mu 	醒目	c=2 d=1 t=64167
+xing neng 	性能	c=6 d=1.10574e-06 t=66148
+xing qi 	星期	c=5 d=8.98763e-10 t=66148
+xing quan 	行权	c=9 d=4.02261e-11 t=66148
+xing quan jia 	行权价	c=4 d=2.27881e-05 t=66148
+xing shi 	形式	c=7 d=6.47485e-05 t=66148
+xing tai 	形态	c=1 d=5.01832e-07 t=66148
+xing wei 	行为	c=4 d=8.35698e-07 t=66148
+xing xing 	星星	c=1 d=1 t=52923
+xing zheng 	行政	c=1 d=1.39865e-06 t=66148
+xing zou 	行走	c=1 d=1 t=45141
+xiong shi 	熊市	c=1 d=1 t=63865
+xiu 	修	c=16 d=0.99008 t=66148
+xiu 	秀	c=1 d=1.73621e-20 t=66148
+xiu fu 	修复	c=138 d=1.81167 t=66148
+xiu gai 	修改	c=137 d=0.642854 t=66148
+xiu hao 	修好	c=4 d=2.07791e-16 t=66148
+xiu shi 	休市	c=1 d=6.69045e-08 t=66148
+xiu si 	休斯	c=1 d=1 t=55778
+xiu tan 	嗅探	c=1 d=1.5931e-08 t=66148
+xiu xi 	休息	c=19 d=0.0225956 t=66148
+xiu yi xia 	修一下	c=1 d=1.68289e-06 t=66148
+xiu zheng 	修正	c=15 d=0.089984 t=66148
+xu bu xu yao 	需不需要	c=1 d=1.3172e-06 t=66148
+xu chuan 	续传	c=1 d=1.29446e-07 t=66148
+xu fei 	续费	c=11 d=0.078084 t=66148
+xu ke 	许可	c=1 d=1.40567e-06 t=66148
+xu lie 	序列	c=1 d=2.44434e-15 t=66148
+xu ni 	虚拟	c=18 d=0.00164288 t=66148
+xu ni wang 	虚拟网	c=1 d=6.60789e-09 t=66148
+xu qi 	续期	c=2 d=1.89137 t=64298
+xu qiu 	需求	c=9 d=1.62534e-05 t=66148
+xu yao 	需要	c=216 d=1.03702 t=66148
+xu yao you 	需要有	c=1 d=8.19009e-05 t=66148
+xuan 	选	c=74 d=0.956524 t=66148
+xuan chu 	选出	c=3 d=6.6925e-05 t=66148
+xuan chuan 	宣传	c=6 d=0.781121 t=66148
+xuan fu 	悬浮	c=2 d=1.80654 t=58813
+xuan gu 	选股	c=6 d=0.0212797 t=66148
+xuan hao 	选好	c=1 d=1.38521e-10 t=66148
+xuan ju 	选举	c=1 d=1 t=65263
+xuan ting 	悬停	c=6 d=1.34893e-08 t=66148
+xuan xiang 	选项	c=10 d=0.767206 t=66148
+xuan ze 	选择	c=14 d=0.000599149 t=66148
+xue 	学	c=7 d=1.28294e-13 t=66148
+xue dao 	学到	c=1 d=1 t=56188
+xue hui 	学会	c=1 d=1 t=49824
+xue qiu 	雪球	c=2 d=1.16737e-09 t=66148
+xue sheng 	学生	c=2 d=1.84366 t=54048
+xue xi 	学习	c=59 d=1.57916 t=66148
+xue xi yi xia 	学习一下	c=1 d=0.000121572 t=66148
+xun 	讯	c=1 d=8.27241e-05 t=66148
+xun cha 	巡查	c=3 d=8.33472e-06 t=66148
+xun jian 	巡检	c=22 d=0.129793 t=66148
+xun lian 	训练	c=2 d=1.17168e-11 t=66148
+xun zhao 	寻找	c=7 d=0.0977834 t=66148
+ya 	亚	c=3 d=0.00425356 t=66148
+ya ma xun 	亚马逊	c=1 d=0.000202454 t=66148
+ya suo 	压缩	c=11 d=0.00408677 t=66148
+ya tai 	亚太	c=1 d=0.000291637 t=66148
+ya zhou 	亚洲	c=3 d=3.55589e-13 t=66148
+yan 	演	c=1 d=3.41472e-07 t=66148
+yan chang 	延长	c=1 d=1 t=65540
+yan chi 	延迟	c=26 d=0.282239 t=66148
+yan ge 	严格	c=38 d=0.405869 t=66148
+yan jin 	严谨	c=1 d=0.130029 t=66148
+yan jiu 	研究	c=25 d=0.704688 t=66148
+yan qi 	延期	c=1 d=6.07252e-15 t=66148
+yan se 	颜色	c=5 d=0.283654 t=66148
+yan shen 	延伸	c=4 d=4.19816e-06 t=66148
+yan shen 	眼神	c=1 d=3.16034e-08 t=66148
+yan su 	严肃	c=1 d=1 t=53712
+yan tao 	研讨	c=2 d=6.25483e-07 t=66148
+yan yuan 	演员	c=2 d=9.00164e-17 t=66148
+yan zheng 	验证	c=84 d=0.515234 t=66148
+yan zheng ma 	验证码	c=5 d=0.0213864 t=66148
+yan zhong 	严重	c=5 d=7.79867e-05 t=66148
+yang 	样	c=8 d=2.25526e-09 t=66148
+yang 	洋	c=1 d=1.7561e-07 t=66148
+yang le 	样了	c=1 d=4.1228e-18 t=66148
+yang li ping 	杨丽萍	c=1 d=1 t=65199
+yang shi 	样式	c=7 d=2.51664e-05 t=66148
+yang zi 	样子	c=1 d=1 t=48895
+yao 	姚	c=1 d=1 t=62347
+yao 	要	c=170 d=2.06043 t=66148
+yao bao zheng 	要保证	c=1 d=7.12376e-11 t=66148
+yao bi 	要比	c=1 d=2.32513e-15 t=66148
+yao bu 	要不	c=2 d=1.39168e-06 t=66148
+yao dian 	要点	c=3 d=0.126818 t=66148
+yao he 	要和	c=2 d=0.000236397 t=66148
+yao ming 	要命	c=1 d=2.19353e-06 t=66148
+yao qing 	邀请	c=2 d=3.49689e-05 t=66148
+yao qiu 	要求	c=13 d=0.235746 t=66148
+yao yong 	要用	c=1 d=1 t=48049
+yao you 	要有	c=2 d=4.87168e-11 t=66148
+ye 	业	c=2 d=1.14255e-09 t=66148
+ye 	也	c=178 d=2.12306 t=66148
+ye 	夜	c=2 d=6.20809e-10 t=66148
+ye 	页	c=4 d=3.6541e-10 t=66148
+ye bu 	也不	c=1 d=1 t=54865
+ye cao 	野草	c=7 d=0.408608 t=66148
+ye cao yun 	野草云	c=1 d=0.00173804 t=66148
+ye ke yi 	也可以	c=1 d=2.02557e-10 t=66148
+ye mian 	页面	c=25 d=0.00047824 t=66148
+ye pan 	夜盘	c=41 d=0.307995 t=66148
+ye shi 	也是	c=4 d=8.21129e-06 t=66148
+ye tai 	业态	c=1 d=9.51553e-05 t=66148
+ye wu 	业务	c=8 d=0.0542067 t=66148
+ye xing 	也行	c=2 d=2.90934e-05 t=66148
+ye xu 	也许	c=3 d=4.82156e-07 t=66148
+ye yao 	也要	c=1 d=2.03572e-10 t=66148
+ye you 	也有	c=3 d=0.000457378 t=66148
+yi 	一	c=21 d=0.000192762 t=66148
+yi 	亿	c=13 d=1.50347e-07 t=66148
+yi 	以	c=3 d=5.0056e-06 t=66148
+yi 	仪	c=1 d=1 t=56013
+yi 	已	c=32 d=0.00642811 t=66148
+yi ban 	一般	c=8 d=0.000356206 t=66148
+yi bian 	一遍	c=31 d=0.0636415 t=66148
+yi bian 	以便	c=1 d=1 t=61779
+yi bu 	一步	c=42 d=6.55225e-05 t=66148
+yi bu fen 	一部分	c=3 d=2.96811e-05 t=66148
+yi bu yi bu 	一步一步	c=3 d=1.77814e-09 t=66148
+yi chang 	异常	c=15 d=0.340641 t=66148
+yi chu 	移除	c=4 d=2.21146e-05 t=66148
+yi ci 	一次	c=67 d=0.10881 t=66148
+yi ci 	以此	c=1 d=1.31063e-06 t=66148
+yi ci xing 	一次性	c=1 d=1.58106e-07 t=66148
+yi dan 	一旦	c=2 d=4.38606e-11 t=66148
+yi dao 	一道	c=1 d=1 t=62223
+yi dian 	一点	c=8 d=3.71703e-05 t=66148
+yi ding 	一定	c=6 d=6.44365e-07 t=66148
+yi dong 	移动	c=13 d=0.00364427 t=66148
+yi dong bu dong 	一动不动	c=1 d=1 t=51281
+yi duan 	一段	c=5 d=1 t=61415
+yi dui 	一堆	c=1 d=0.0168231 t=66148
+yi fang 	以防	c=1 d=8.67556e-06 t=66148
+yi fen 	一份	c=12 d=0.04573 t=66148
+yi fen er 	一份儿	c=1 d=0.085435 t=66148
+yi feng 	一封	c=2 d=1.33711e-06 t=66148
+yi ge 	一个	c=177 d=0.508869 t=66148
+yi ge e 	一个饿	c=1 d=7.4504e-09 t=66148
+yi gen 	一根	c=9 d=9.65955e-14 t=66148
+yi gong 	一共	c=2 d=7.54601e-12 t=66148
+yi hang 	一行	c=2 d=0.00012341 t=66148
+yi hou 	以后	c=40 d=0.467544 t=66148
+yi hui 	一会	c=8 d=7.47744e-08 t=66148
+yi hui 	一回	c=1 d=7.85131e-08 t=66148
+yi hui shi 	一回事	c=2 d=0.0015415 t=66148
+yi ji 	以及	c=1 d=8.46135e-06 t=66148
+yi jia 	一家	c=3 d=6.77287e-05 t=66148
+yi jian 	一键	c=4 d=4.23522e-11 t=66148
+yi jian 	意见	c=10 d=1.34036e-05 t=66148
+yi jian hao 	已建好	c=1 d=1 t=51575
+yi jian jiu cuo 	一键纠错	c=2 d=1 t=61383
+yi jing 	已经	c=106 d=0.76517 t=66148
+yi jing gei 	已经给	c=3 d=6.20596e-06 t=66148
+yi jiu 	依旧	c=1 d=6.01621e-23 t=66148
+yi ju 	依据	c=3 d=0.00244185 t=66148
+yi lai 	以来	c=2 d=0.0021322 t=66148
+yi lai 	依赖	c=1 d=1.53063e-08 t=66148
+yi liu 	遗留	c=1 d=1 t=59018
+yi lou 	遗漏	c=1 d=1 t=53866
+yi lu 	一路	c=1 d=1 t=44233
+yi man 	已满	c=1 d=1 t=61458
+yi mian 	以免	c=1 d=1 t=56631
+yi ming 	一名	c=1 d=4.61018e-09 t=66148
+yi nian 	一年	c=1 d=7.61799e-06 t=66148
+yi pian 	一片	c=2 d=2.76792e-07 t=66148
+yi pian 	一篇	c=3 d=0.00245409 t=66148
+yi ping 	一屏	c=1 d=1 t=48045
+yi qi 	一起	c=12 d=2.48885e-05 t=66148
+yi qi he cheng 	一气呵成	c=3 d=2.68657e-09 t=66148
+yi qian 	以前	c=6 d=0.486752 t=66148
+yi qie 	一切	c=21 d=0.210149 t=66148
+yi ran 	依然	c=11 d=0.00479587 t=66148
+yi se lie 	以色列	c=1 d=9.59123e-10 t=66148
+yi shang 	以上	c=11 d=0.371577 t=66148
+yi si 	意思	c=68 d=1.49353 t=66148
+yi ta hu tu 	一塌糊涂	c=2 d=0.786628 t=66148
+yi tai 	一台	c=1 d=1 t=63570
+yi tao 	一套	c=8 d=0.01649 t=66148
+yi ti hua 	一体化	c=1 d=5.75754e-06 t=66148
+yi tian 	一天	c=4 d=0.912511 t=66148
+yi tiao 	一条	c=5 d=2.21023e-07 t=66148
+yi tu 	意图	c=1 d=0.000127168 t=66148
+yi wai 	意外	c=2 d=1 t=54760
+yi wan 	亿万	c=1 d=1.42076e-14 t=66148
+yi wan cheng 	已完成	c=1 d=1 t=46575
+yi wei 	一位	c=2 d=0.0916297 t=66148
+yi wei 	以为	c=3 d=0.092089 t=66148
+yi xi 	依稀	c=1 d=1 t=58139
+yi xia 	一下	c=775 d=3.03442 t=66148
+yi xia 	以下	c=13 d=1.81834e-05 t=66148
+yi xiang 	一项	c=1 d=2.68611e-07 t=66148
+yi xie 	一些	c=9 d=0.00107547 t=66148
+yi yan 	一眼	c=2 d=5.39613e-08 t=66148
+yi yang 	一样	c=36 d=0.158044 t=66148
+yi ye 	一夜	c=1 d=1.49309e-10 t=66148
+yi ye 	一页	c=1 d=1 t=62163
+yi yi 	意义	c=1 d=4.47391e-09 t=66148
+yi you 	已有	c=1 d=2.26148e-12 t=66148
+yi zhang 	一张	c=4 d=6.3182e-11 t=66148
+yi zhao 	依照	c=1 d=1 t=59677
+yi zhi 	一直	c=19 d=0.00286594 t=66148
+yi zhi 	一致	c=20 d=0.13332 t=66148
+yi zhi 	移植	c=8 d=0.650509 t=66148
+yi zhi shi 	一直是	c=1 d=1 t=52736
+yi zhong 	一种	c=1 d=0.0129715 t=66148
+yi zu 	一组	c=2 d=6.24537e-14 t=66148
+yin 	因	c=1 d=6.3674e-14 t=66148
+yin 	殷	c=1 d=6.62276e-06 t=66148
+yin 	银	c=1 d=1 t=62136
+yin 	音	c=1 d=8.09592e-16 t=66148
+yin biao 	音标	c=2 d=1 t=50043
+yin cang 	隐藏	c=7 d=5.40609e-09 t=66148
+yin dao 	引导	c=19 d=0.0209629 t=66148
+yin fa 	印发	c=1 d=1 t=61015
+yin gui 	音轨	c=3 d=1.42946e-09 t=66148
+yin han 	隐含	c=1 d=2.80441e-14 t=66148
+yin han bo dong lv 	隐含波动率	c=1 d=1 t=46890
+yin hang 	银行	c=23 d=0.477114 t=66148
+yin huan 	隐患	c=1 d=1.88375e-09 t=66148
+yin jin lai 	引进来	c=1 d=1 t=49378
+yin liao 	饮料	c=1 d=1 t=61228
+yin ling 	引领	c=1 d=1 t=48959
+yin liu 	引流	c=2 d=1.89137 t=61526
+yin pin 	音频	c=2 d=6.05272e-06 t=66148
+yin qi 	引起	c=3 d=1 t=63476
+yin qing 	引擎	c=1 d=4.58718e-09 t=66148
+yin ru 	引入	c=2 d=1.74734e-07 t=66148
+yin te 	因特	c=6 d=4.69037e-06 t=66148
+yin wei 	因为	c=25 d=0.453198 t=66148
+yin yong 	引用	c=7 d=2.03721e-08 t=66148
+yin yue 	音乐	c=1 d=5.03044e-06 t=66148
+ying 	应	c=1 d=1 t=62227
+ying 	盈	c=2 d=5.63183e-11 t=66148
+ying bang 	英镑	c=1 d=1.78385e-15 t=66148
+ying dui 	应对	c=12 d=0.0668703 t=66148
+ying gai 	应该	c=73 d=0.589422 t=66148
+ying gai neng 	应该能	c=1 d=1 t=44232
+ying guo 	英国	c=2 d=8.05007e-08 t=66148
+ying kui 	盈亏	c=1 d=1 t=44965
+ying li 	盈利	c=9 d=0.0303487 t=66148
+ying pan 	硬盘	c=1 d=1 t=65940
+ying shou 	营收	c=2 d=4.56324e-16 t=66148
+ying wei da 	英伟达	c=15 d=3.29396e-05 t=66148
+ying wen 	英文	c=26 d=0.0415857 t=66148
+ying xian 	影线	c=1 d=1 t=57432
+ying xiang 	影响	c=26 d=0.261992 t=66148
+ying xing 	硬性	c=1 d=3.81179e-07 t=66148
+ying yong 	应用	c=7 d=0.606531 t=66148
+yo yu 	哟于	c=2 d=1 t=59801
+yong 	永	c=1 d=1 t=61001
+yong 	用	c=348 d=1.18427 t=66148
+yong bu dao 	用不到	c=1 d=2.11952e-14 t=66148
+yong dao 	用到	c=3 d=1.33366e-05 t=66148
+yong de 	用的	c=4 d=0.000131698 t=66148
+yong fa 	用法	c=10 d=0.000850932 t=66148
+yong gan 	勇敢	c=12 d=0.763379 t=66148
+yong guang 	用光	c=1 d=5.71791e-13 t=66148
+yong guo 	用过	c=1 d=5.16219e-16 t=66148
+yong hu 	用户	c=65 d=0.0875681 t=66148
+yong hu ming 	用户名	c=1 d=0.00341356 t=66148
+yong le 	用了	c=2 d=5.02003e-11 t=66148
+yong liang 	用量	c=2 d=2.90281e-08 t=66148
+yong ma 	用吗	c=1 d=2.05192e-15 t=66148
+yong ni 	用你	c=1 d=1 t=53079
+yong shen ti 	用身体	c=1 d=6.82443e-06 t=66148
+yong tu 	用途	c=3 d=6.42812e-08 t=66148
+yong wan 	用完	c=1 d=1 t=53362
+yong wo 	用我	c=1 d=1.65411e-09 t=66148
+yong wo men 	用我们	c=1 d=0.00110269 t=66148
+yong yong 	用用	c=1 d=6.33133e-06 t=66148
+yong yu 	用于	c=1 d=0.267135 t=66148
+yong zhe ge 	用这个	c=1 d=2.42587e-14 t=66148
+yong zheng 	雍正	c=1 d=1 t=44391
+you 	优	c=5 d=0.000169951 t=66148
+you 	又	c=28 d=0.315058 t=66148
+you 	友	c=2 d=8.52869e-11 t=66148
+you 	右	c=2 d=1 t=62220
+you 	有	c=538 d=2.50864 t=66148
+you 	游	c=1 d=1 t=45135
+you 	由	c=1 d=1.40299e-13 t=66148
+you bian 	右边	c=1 d=1.24994e-07 t=66148
+you bian 	邮编	c=2 d=4.52425e-15 t=66148
+you bian hua 	有变化	c=1 d=1.66354e-17 t=66148
+you ce 	右侧	c=6 d=2.9878e-11 t=66148
+you dian 	优点	c=8 d=0.729913 t=66148
+you dian 	有点	c=2 d=2.96297e-14 t=66148
+you die zhuan zhang 	由跌转涨	c=1 d=9.54343e-10 t=66148
+you gan qing 	有感情	c=0 d=7.57998e-07 t=66148
+you gan qing de 	有感情的	c=1 d=7.61799e-06 t=66148
+you ge 	有个	c=18 d=0.673687 t=66148
+you geng xin 	又更新	c=1 d=2.23358e-13 t=66148
+you hua 	优化	c=95 d=1.54508 t=66148
+you hui 	优惠	c=3 d=0.000867409 t=66148
+you jian 	邮件	c=42 d=0.506251 t=66148
+you ke 	游客	c=2 d=1.01343 t=53044
+you lai 	由来	c=1 d=3.51811e-05 t=66148
+you le 	有了	c=1 d=1.25946e-08 t=66148
+you ma 	有吗	c=1 d=2.80297e-08 t=66148
+you min 	游民	c=1 d=1 t=54746
+you qi 	尤其	c=1 d=1 t=57513
+you qi shi 	尤其是	c=1 d=1.97012e-07 t=66148
+you qing you yi 	有情有义	c=1 d=1.1808e-14 t=66148
+you que dian 	优缺点	c=2 d=5.21053e-08 t=66148
+you ren 	有人	c=1 d=3.8901e-11 t=66148
+you shi 	优势	c=4 d=0.755784 t=66148
+you shi 	有事	c=5 d=5.1197e-07 t=66148
+you shi 	有时	c=1 d=1.63315e-06 t=66148
+you wu 	有误	c=1 d=1.7567e-11 t=66148
+you xian 	优先	c=6 d=2.16675e-05 t=66148
+you xian 	有限	c=5 d=0.249075 t=66148
+you xian shi 	有显示	c=1 d=4.54077e-07 t=66148
+you xiang 	邮箱	c=10 d=0.90037 t=66148
+you xiao 	有效	c=9 d=0.00975476 t=66148
+you xiao qi 	有效期	c=5 d=0.263158 t=66148
+you xiu 	优秀	c=32 d=0.657336 t=66148
+you xuan 	优选	c=1 d=1.6919e-10 t=66148
+you yi 	有一	c=1 d=0.000863083 t=66148
+you yin yue 	有音乐	c=1 d=6.96232e-06 t=66148
+you yong 	有用	c=3 d=1.81488e-12 t=66148
+you yu 	由于	c=1 d=2.75552e-13 t=66148
+you zhe ge 	有这个	c=1 d=3.82361e-14 t=66148
+you zou 	游走	c=3 d=2.50051 t=48935
+yu 	与	c=3 d=1.46043e-05 t=66148
+yu 	于	c=4 d=0.279431 t=66148
+yu 	余	c=3 d=1 t=63339
+yu ce 	预测	c=3 d=0.0614212 t=66148
+yu dao 	遇到	c=5 d=0.000930303 t=66148
+yu ding 	预订	c=1 d=1.63877e-17 t=66148
+yu fa 	语法	c=2 d=1 t=60614
+yu gu 	预估	c=1 d=1 t=63816
+yu ju 	语句	c=1 d=3.62526e-05 t=66148
+yu lan 	预览	c=3 d=0.000457196 t=66148
+yu men 	郁闷	c=1 d=7.69586e-08 t=66148
+yu ming 	域名	c=29 d=0.822521 t=66148
+yu pan 	预判	c=1 d=1 t=62084
+yu qi 	语气	c=3 d=6.49493e-12 t=66148
+yu qi 	预期	c=8 d=1.25931e-06 t=66148
+yu ren 	育人	c=0 d=0.1 t=54049
+yu ren chu xin 	育人初心	c=1 d=1 t=54050
+yu she 	预设	c=2 d=1.93239 t=48422
+yu su 	语速	c=2 d=9.03415e-08 t=66148
+yu suan 	预算	c=3 d=1.55456e-09 t=66148
+yu xi 	预习	c=1 d=6.14421e-06 t=66148
+yu yan 	语言	c=10 d=1.95775 t=60567
+yu yin 	语音	c=2 d=2.72199e-16 t=66148
+yu yong 	御用	c=1 d=1 t=65200
+yuan 	元	c=13 d=0.397723 t=66148
+yuan 	原	c=17 d=0.000974077 t=66148
+yuan 	员	c=5 d=0.0361797 t=66148
+yuan 	源	c=33 d=0.00216311 t=66148
+yuan 	远	c=4 d=0.0322254 t=66148
+yuan ban 	原版	c=2 d=1.69857e-11 t=66148
+yuan cai liao 	原材料	c=1 d=1 t=61217
+yuan cheng 	远程	c=70 d=4.98446 t=66148
+yuan chu 	远处	c=1 d=1 t=46782
+yuan di 	原地	c=1 d=0.00244185 t=66148
+yuan duan 	远端	c=23 d=0.951229 t=66148
+yuan gong 	员工	c=2 d=1.92774 t=62031
+yuan gu 	缘故	c=2 d=1 t=55723
+yuan ji hua 	原计划	c=2 d=0.0349094 t=66148
+yuan lai 	原来	c=104 d=0.154125 t=66148
+yuan li 	原理	c=2 d=1.00657 t=49976
+yuan li le 	远离了	c=1 d=1 t=61315
+yuan ma 	源码	c=17 d=0.00227676 t=66148
+yuan ming 	原名	c=1 d=1.28246e-15 t=66148
+yuan qi 	远期	c=1 d=5.61539e-06 t=66148
+yuan sheng 	原生	c=24 d=0.032804 t=66148
+yuan tu 	原图	c=2 d=1.91851 t=64138
+yuan yi 	愿意	c=4 d=0.00144449 t=66148
+yuan yin 	原因	c=10 d=0.57695 t=66148
+yuan zhi yuan wei 	原汁原味	c=2 d=1.51685 t=47684
+yuan zuo zhe 	原作者	c=4 d=2.77456e-11 t=66148
+yue 	月	c=121 d=2.35061 t=66148
+yue 	越	c=1 d=7.54218e-06 t=66148
+yue deng yu 	约等于	c=3 d=1 t=55607
+yue ding 	约定	c=1 d=1 t=64895
+yue du 	阅读	c=2 d=1.74734e-07 t=66148
+yue fen 	月份	c=2 d=1.24392e-09 t=66148
+yue hao 	越好	c=1 d=7.65615e-06 t=66148
+yue wei 	越位	c=3 d=0.000191918 t=66148
+yun 	云	c=28 d=0.465655 t=66148
+yun 	晕	c=11 d=0.0263839 t=66148
+yun dao 	晕倒	c=4 d=0.0227089 t=66148
+yun duan 	云端	c=1 d=1 t=54668
+yun duo 	云朵	c=2 d=5.5894e-10 t=66148
+yun si 	晕死	c=2 d=0.00182715 t=66148
+yun wei 	运维	c=2 d=1.11415e-07 t=66148
+yun xing 	运行	c=74 d=0.830306 t=66148
+yun xu 	允许	c=7 d=0.000796853 t=66148
+yun zhuan 	运转	c=1 d=1.38927e-15 t=66148
+yun zuo 	运作	c=1 d=1.27871e-10 t=66148
+za 	咋	c=1 d=0.970446 t=66148
+za hui shi 	咋回事	c=1 d=1.16905e-14 t=66148
+zai 	再	c=255 d=0.727083 t=66148
+zai 	在	c=476 d=2.50208 t=66148
+zai 	栽	c=2 d=5.41401e-09 t=66148
+zai ci 	再次	c=27 d=0.779976 t=66148
+zai hu 	在乎	c=1 d=4.08816e-07 t=66148
+zai jian 	再见	c=1 d=5.94723e-05 t=66148
+zai kan 	再看	c=1 d=4.37326e-06 t=66148
+zai ma 	在吗	c=2 d=1.76095e-10 t=66148
+zai na li 	在哪里	c=1 d=0.0682212 t=66148
+zai xian 	在线	c=3 d=7.21032e-06 t=66148
+zai xiang xiang 	再想想	c=1 d=1.27828e-06 t=66148
+zan cheng 	赞成	c=3 d=2.99425e-12 t=66148
+zan huan 	暂缓	c=1 d=2.34244e-14 t=66148
+zan men 	咱们	c=4 d=4.63171e-05 t=66148
+zan shi 	暂时	c=4 d=0.00687406 t=66148
+zan ting 	暂停	c=20 d=0.00047843 t=66148
+zao 	早	c=5 d=0.379083 t=66148
+zao cheng 	造成	c=24 d=0.5041 t=66148
+zao jiu 	早就	c=1 d=1 t=48305
+zao shang 	早上	c=4 d=0.346456 t=66148
+ze 	则	c=1 d=7.52397e-07 t=66148
+ze ji 	择机	c=1 d=3.61836e-12 t=66148
+ze ling 	责令	c=3 d=5.98482e-09 t=66148
+zen 	怎	c=1 d=4.34393e-15 t=66148
+zen jia 	怎加	c=3 d=1.00015 t=64396
+zen me 	怎么	c=179 d=2.09564 t=66148
+zen me qi 	怎么起	c=1 d=1.49335e-12 t=66148
+zen yang 	怎样	c=1 d=5.54704e-09 t=66148
+zeng 	增	c=3 d=8.13513e-14 t=66148
+zeng jia 	增加	c=60 d=0.158221 t=66148
+zeng jian 	增减	c=1 d=1 t=53161
+zeng jin 	赠金	c=1 d=3.2398e-06 t=66148
+zeng liang 	增量	c=1 d=1 t=59110
+zeng qiang 	增强	c=1 d=6.92758e-06 t=66148
+zeng shan gai cha 	增删改查	c=1 d=1 t=50394
+zeng she 	增设	c=1 d=1.37783e-06 t=66148
+zeng song 	赠送	c=2 d=2.84485e-06 t=66148
+zhai chu 	摘出	c=1 d=1 t=46334
+zhan 	占	c=11 d=1.22499e-05 t=66148
+zhan 	斩	c=1 d=1 t=54061
+zhan 	栈	c=1 d=8.23256e-07 t=66148
+zhan 	站	c=3 d=0.00198925 t=66148
+zhan dian 	站点	c=1 d=1 t=61593
+zhan fa 	战法	c=2 d=1.2437e-11 t=66148
+zhan ju 	占据	c=1 d=1 t=64370
+zhan ju 	战局	c=1 d=1 t=63836
+zhan kai 	展开	c=6 d=1.21797e-08 t=66148
+zhan qi 	展期	c=4 d=5.52033e-11 t=66148
+zhan shang 	站上	c=1 d=9.66263e-09 t=66148
+zhan sheng 	战胜	c=1 d=1 t=44331
+zhan shi 	展示	c=3 d=1.36695e-05 t=66148
+zhan tie 	粘贴	c=2 d=1.15453e-10 t=66148
+zhan wang 	展望	c=2 d=5.16307e-18 t=66148
+zhan wei 	展位	c=1 d=5.13732e-18 t=66148
+zhan wei 	站位	c=2 d=1.24538e-07 t=66148
+zhan wen 	站稳	c=1 d=1 t=44399
+zhan xian 	展现	c=2 d=1.92774 t=53223
+zhan yong 	占用	c=11 d=2.65297e-08 t=66148
+zhan zheng 	战争	c=1 d=1.70009e-08 t=66148
+zhang 	张	c=38 d=1.25746 t=66148
+zhang 	涨	c=19 d=0.179066 t=66148
+zhang 	长	c=2 d=2.78227e-09 t=66148
+zhang dan 	账单	c=1 d=1.18652e-12 t=66148
+zhang de 	涨得	c=1 d=5.19884e-11 t=66148
+zhang die 	涨跌	c=5 d=3.5715 t=56239
+zhang fu 	涨幅	c=1 d=4.17218e-11 t=66148
+zhang gui 	掌柜	c=2 d=1.97475 t=61523
+zhang hao 	账号	c=15 d=0.0280619 t=66148
+zhang hu 	账户	c=29 d=0.25284 t=66148
+zhang jia 	涨价	c=4 d=3.87702e-12 t=66148
+zhang ting 	涨停	c=1 d=2.48002e-09 t=66148
+zhao 	找	c=70 d=0.0484776 t=66148
+zhao 	照	c=1 d=1 t=53561
+zhao 	赵	c=1 d=1 t=61000
+zhao bu dao 	找不到	c=1 d=1 t=52899
+zhao chu 	找出	c=1 d=3.30693e-12 t=66148
+zhao dao 	找到	c=16 d=0.0495388 t=66148
+zhao ge 	找个	c=3 d=6.17501e-06 t=66148
+zhao ji 	着急	c=1 d=1 t=59436
+zhao pian 	照片	c=7 d=0.832251 t=66148
+zhao ren 	找人	c=2 d=1.91851 t=54280
+zhao sheng 	招生	c=1 d=1 t=63988
+zhao wo 	找我	c=1 d=6.0287e-18 t=66148
+zhao yi xia 	找一下	c=1 d=1 t=62531
+zhao zhao 	找找	c=8 d=0.13068 t=66148
+zhao zhe ge 	照这个	c=1 d=1 t=62577
+zhe 	折	c=1 d=7.12498e-13 t=66148
+zhe 	着	c=18 d=0.0468877 t=66148
+zhe 	者	c=4 d=1.0285e-07 t=66148
+zhe 	这	c=90 d=0.947544 t=66148
+zhe bian 	这边	c=1 d=3.10473e-05 t=66148
+zhe bu 	这步	c=1 d=0.0219278 t=66148
+zhe bu fen 	这部分	c=8 d=0.532592 t=66148
+zhe ci 	这次	c=12 d=5.70025e-06 t=66148
+zhe dan 	这但	c=2 d=0.00109172 t=66148
+zhe dian 	这点	c=1 d=1 t=44190
+zhe duan 	这段	c=9 d=0.000106596 t=66148
+zhe ge 	这个	c=719 d=4.08964 t=66148
+zhe ge geng 	这个梗	c=8 d=0.0037167 t=66148
+zhe hang 	这行	c=4 d=1.77405e-09 t=66148
+zhe ji ge 	这几个	c=4 d=6.22204e-07 t=66148
+zhe jia 	这家	c=2 d=4.4501e-05 t=66148
+zhe ju 	这句	c=21 d=0.000833218 t=66148
+zhe kuan 	这款	c=1 d=1 t=65959
+zhe lei 	这类	c=3 d=5.73175e-12 t=66148
+zhe li 	这里	c=145 d=1.30118 t=66148
+zhe liang ge 	这两个	c=7 d=2.32917e-06 t=66148
+zhe liang xiang 	这两项	c=1 d=1 t=50660
+zhe me 	这么	c=28 d=0.254107 t=66148
+zhe shi 	这是	c=27 d=3.06642e-06 t=66148
+zhe tiao 	这条	c=6 d=0.000309671 t=66148
+zhe xie 	这些	c=118 d=0.7634 t=66148
+zhe yang 	这样	c=83 d=0.0736927 t=66148
+zhe yi 	这一	c=1 d=1.56613e-13 t=66148
+zhe yi bu 	这一步	c=1 d=0.0228227 t=66148
+zhe zhong 	这种	c=21 d=0.141564 t=66148
+zhei 	这	c=1 d=1 t=52154
+zhen 	真	c=10 d=0.0424257 t=66148
+zhen de 	真的	c=1 d=1 t=58788
+zhen dui 	针对	c=1 d=2.32917e-06 t=66148
+zhen duo 	真多	c=1 d=1 t=63138
+zhen shi 	真实	c=9 d=0.146852 t=66148
+zhen shi xing 	真实性	c=1 d=0.0012684 t=66148
+zhen xin 	真心	c=1 d=1.06018e-11 t=66148
+zhen yun 	真晕	c=1 d=1.35101e-10 t=66148
+zhen zheng 	真正	c=3 d=0.000171659 t=66148
+zheng 	整	c=4 d=1.67478e-08 t=66148
+zheng 	正	c=10 d=0.011109 t=66148
+zheng 	证	c=3 d=0.000112585 t=66148
+zheng ce 	政策	c=7 d=1.08927e-06 t=66148
+zheng chang 	正常	c=180 d=1.04086 t=66148
+zheng chang gao 	正常高	c=1 d=2.59505e-13 t=66148
+zheng fu 	政府	c=2 d=1.62081e-05 t=66148
+zheng fu 	正负	c=1 d=0.275271 t=66148
+zheng gai 	整改	c=2 d=4.11212e-09 t=66148
+zheng ge 	整个	c=6 d=1.93111e-07 t=66148
+zheng gu 	正股	c=30 d=0.193013 t=66148
+zheng he 	整合	c=1 d=6.03918e-09 t=66148
+zheng hua 	正华	c=1 d=5.46623e-06 t=66148
+zheng jie 	整洁	c=1 d=2.83895e-11 t=66148
+zheng li 	整理	c=52 d=0.145606 t=66148
+zheng qi 	整齐	c=1 d=3.4413e-10 t=66148
+zheng quan 	证券	c=14 d=3.02302e-07 t=66148
+zheng que 	正确	c=57 d=0.831104 t=66148
+zheng shi 	正式	c=4 d=1.27563e-11 t=66148
+zheng shu 	证书	c=15 d=0.0205223 t=66148
+zheng ti 	整体	c=15 d=0.000166586 t=66148
+zheng yi 	正义	c=1 d=1 t=44330
+zheng zai 	正在	c=7 d=6.63876e-05 t=66148
+zheng zhi 	政治	c=1 d=2.09337e-15 t=66148
+zheng zong 	正宗	c=2 d=1.81873 t=64222
+zhi 	之	c=1 d=1 t=50046
+zhi 	值	c=29 d=0.431816 t=66148
+zhi 	只	c=83 d=0.0737675 t=66148
+zhi 	志	c=1 d=1 t=62348
+zhi 	指	c=8 d=0.0165727 t=66148
+zhi 	支	c=3 d=1.8449e-07 t=66148
+zhi 	纸	c=5 d=3.40754e-06 t=66148
+zhi 	至	c=5 d=0.360595 t=66148
+zhi 	致	c=3 d=2.40672e-09 t=66148
+zhi biao 	指标	c=16 d=0.00196945 t=66148
+zhi bo 	直播	c=9 d=0.000247036 t=66148
+zhi bu 	支部	c=2 d=1.92312 t=60969
+zhi cheng 	支撑	c=6 d=1.28535 t=66148
+zhi chi 	支持	c=57 d=0.41734 t=66148
+zhi chu 	之处	c=1 d=5.44943e-06 t=66148
+zhi da 	直达	c=1 d=1 t=65578
+zhi dao 	指导	c=28 d=0.0062534 t=66148
+zhi dao 	知道	c=10 d=6.72455e-08 t=66148
+zhi ding 	指定	c=2 d=2.37049e-07 t=66148
+zhi fu 	支付	c=7 d=6.9972e-06 t=66148
+zhi fu ze 	只负责	c=1 d=1 t=46764
+zhi gong 	直供	c=1 d=1 t=61227
+zhi gong si 	支公司	c=1 d=2.11333e-09 t=66148
+zhi guan 	直观	c=1 d=2.5358e-06 t=66148
+zhi hou 	滞后	c=1 d=1 t=63800
+zhi hui 	只会	c=1 d=1.67245e-21 t=66148
+zhi jian 	之间	c=1 d=1.50058e-10 t=66148
+zhi jiao yi 	纸交易	c=6 d=9.60551e-06 t=66148
+zhi jie 	直接	c=77 d=0.149975 t=66148
+zhi jin 	至今	c=1 d=0.00104891 t=66148
+zhi lei 	之类	c=1 d=1 t=55363
+zhi li 	智力	c=1 d=0.0107269 t=66148
+zhi lian 	直连	c=38 d=1.46808 t=66148
+zhi ling 	指令	c=1 d=1 t=63366
+zhi liu 	只留	c=1 d=1 t=64109
+zhi ming 	知名	c=1 d=4.59031e-17 t=66148
+zhi ming que dian 	致命缺点	c=1 d=1 t=59361
+zhi nan 	指南	c=2 d=1.30725e-05 t=66148
+zhi neng 	只能	c=17 d=0.0459827 t=66148
+zhi neng 	智能	c=2 d=2.84485e-06 t=66148
+zhi pai 	指派	c=4 d=0.00133343 t=66148
+zhi pu 	智谱	c=3 d=5.13187e-06 t=66148
+zhi qian 	之前	c=9 d=3.19156e-06 t=66148
+zhi shang 	纸上	c=1 d=1 t=62152
+zhi shao 	至少	c=2 d=3.52782e-08 t=66148
+zhi shi 	只是	c=22 d=0.0234957 t=66148
+zhi shi 	指示	c=1 d=7.93562e-16 t=66148
+zhi shi 	知识	c=3 d=5.53273e-08 t=66148
+zhi shi dian 	知识点	c=2 d=1.38615e-18 t=66148
+zhi shou 	只收	c=1 d=0.0381969 t=66148
+zhi shu 	指数	c=8 d=0.163654 t=66148
+zhi sun 	止损	c=33 d=1.51978 t=66148
+zhi xian 	直线	c=1 d=6.86215e-12 t=66148
+zhi xian shi 	只显示	c=1 d=1 t=55139
+zhi xiang 	指向	c=19 d=0.0639459 t=66148
+zhi xing 	执行	c=216 d=1.77421 t=66148
+zhi xiu gai 	只修改	c=1 d=8.05007e-08 t=66148
+zhi xu 	只需	c=1 d=3.77514e-11 t=66148
+zhi yao 	只要	c=7 d=1.18285e-05 t=66148
+zhi yi 	质疑	c=1 d=1 t=45336
+zhi yin 	指引	c=4 d=0.00856561 t=66148
+zhi ying 	止盈	c=17 d=0.20089 t=66148
+zhi yong 	只用	c=8 d=0.00203237 t=66148
+zhi you 	只有	c=18 d=0.1764 t=66148
+zhi yu 	之余	c=1 d=1 t=54030
+zhi yun xu 	只允许	c=1 d=9.18981e-07 t=66148
+zhi zai 	只在	c=3 d=0.0234005 t=66148
+zhi zao 	制造	c=1 d=1 t=65571
+zhi ze 	职责	c=1 d=1.213e-07 t=66148
+zhi zhang 	滞涨	c=1 d=1.77345e-05 t=66148
+zhi zhi dao 	只知道	c=1 d=1 t=63550
+zhi zou 	只走	c=1 d=2.96912e-09 t=66148
+zhi zuo 	制作	c=1 d=1 t=44648
+zhong 	中	c=84 d=0.504147 t=66148
+zhong 	忠	c=1 d=1 t=60991
+zhong 	种	c=1 d=1 t=44071
+zhong 	重	c=1 d=2.30082e-09 t=66148
+zhong 	钟	c=3 d=1.18531 t=59072
+zhong chang 	中长	c=1 d=6.55795e-08 t=66148
+zhong dian 	重点	c=14 d=0.00646379 t=66148
+zhong dong 	中东	c=1 d=1 t=63835
+zhong duan 	中断	c=6 d=2.40713e-11 t=66148
+zhong duan 	终端	c=11 d=0.0187793 t=66148
+zhong guo 	中国	c=37 d=0.0112414 t=66148
+zhong jian 	中间	c=9 d=0.182684 t=66148
+zhong qi 	中期	c=2 d=0.0119145 t=66148
+zhong wen 	中文	c=57 d=0.519478 t=66148
+zhong xin 	中心	c=2 d=1.81865e-07 t=66148
+zhong xin 	重心	c=1 d=1.15663e-06 t=66148
+zhong yao 	重要	c=6 d=1.82362e-05 t=66148
+zhong ying 	中英	c=1 d=1 t=56001
+zhong ying wen 	中英文	c=3 d=1.28033 t=56267
+zhong yu 	终于	c=3 d=0.0108347 t=66148
+zhong zhuan 	中转	c=3 d=0.00197932 t=66148
+zhou 	周	c=35 d=0.389298 t=66148
+zhou 	州	c=1 d=1.60081e-06 t=66148
+zhou 	轴	c=3 d=1.9802 t=56427
+zhou mo 	周末	c=3 d=0.394554 t=66148
+zhou qi 	周期	c=29 d=2.63248e-05 t=66148
+zhou wu 	周五	c=7 d=1.92992 t=59744
+zhou xian 	周线	c=6 d=2.02957 t=60126
+zhou yi 	周一	c=1 d=1 t=59742
+zhu 	主	c=40 d=2.37008e-05 t=66148
+zhu 	住	c=13 d=0.00419023 t=66148
+zhu ce 	注册	c=15 d=0.0004555 t=66148
+zhu chi ren 	主持人	c=1 d=1 t=61688
+zhu dong 	主动	c=1 d=1 t=54031
+zhu fen qu 	主分区	c=2 d=1 t=53802
+zhu fen zhi 	主分支	c=13 d=0.357007 t=66148
+zhu ge 	逐个	c=2 d=0.0305009 t=66148
+zhu ji 	主机	c=9 d=0.00165111 t=66148
+zhu li 	主力	c=2 d=4.4501e-05 t=66148
+zhu ming 	注明	c=1 d=1.37096e-06 t=66148
+zhu ming 	著名	c=1 d=3.53756e-11 t=66148
+zhu shi 	注释	c=11 d=0.117655 t=66148
+zhu shou 	助手	c=2 d=4.69202e-09 t=66148
+zhu ti 	主题	c=7 d=7.54906e-06 t=66148
+zhu tu biao 	主图表	c=1 d=1 t=56298
+zhu xi 	主席	c=1 d=1 t=58905
+zhu xiang 	逐项	c=1 d=1 t=54750
+zhu xiao 	注销	c=1 d=0.000219315 t=66148
+zhu yan 	主演	c=1 d=1 t=55904
+zhu yao 	主要	c=23 d=0.0148989 t=66148
+zhu ye 	主页	c=1 d=3.53203e-22 t=66148
+zhu yi 	主意	c=1 d=4.05865e-10 t=66148
+zhu yi 	注意	c=29 d=0.151829 t=66148
+zhua 	抓	c=4 d=4.38702e-05 t=66148
+zhua qu 	抓取	c=2 d=1.58872e-05 t=66148
+zhuan 	专	c=2 d=9.3287e-07 t=66148
+zhuan 	赚	c=9 d=7.83104e-07 t=66148
+zhuan 	转	c=10 d=5.0452e-07 t=66148
+zhuan chu 	转出	c=1 d=4.079e-10 t=66148
+zhuan cun 	转存	c=1 d=1.12516e-05 t=66148
+zhuan gao 	撰稿	c=1 d=5.95027e-11 t=66148
+zhuan hua 	转化	c=2 d=0.00154923 t=66148
+zhuan huan 	转换	c=14 d=0.311923 t=66148
+zhuan ji 	转机	c=1 d=1 t=44406
+zhuan le 	赚了	c=1 d=7.4684e-08 t=66148
+zhuan lu 	转录	c=7 d=9.339e-09 t=66148
+zhuan men 	专门	c=5 d=3.23198e-07 t=66148
+zhuan qian 	赚钱	c=1 d=7.75972e-17 t=66148
+zhuan ru 	转入	c=1 d=2.68009e-10 t=66148
+zhuan wen 	撰文	c=1 d=1 t=53611
+zhuan xian 	专线	c=7 d=0.860734 t=66148
+zhuan xiang 	专项	c=1 d=1.84263e-14 t=66148
+zhuan xiang 	转向	c=1 d=1 t=49596
+zhuan ye 	专业	c=1 d=8.73093e-22 t=66148
+zhuan yi 	转移	c=2 d=9.12703e-10 t=66148
+zhuan yong 	专用	c=4 d=1.00051e-06 t=66148
+zhuan zhang 	转账	c=1 d=1.7655e-11 t=66148
+zhuan zuo 	专做	c=1 d=6.17817e-12 t=66148
+zhuang 	装	c=10 d=1.23573e-07 t=66148
+zhuang dao 	装到	c=1 d=1 t=65405
+zhuang hao 	装好	c=2 d=1.17188e-13 t=66148
+zhuang kuang 	状况	c=4 d=0.000154328 t=66148
+zhuang le 	装了	c=2 d=9.90555e-07 t=66148
+zhuang tai 	状态	c=80 d=0.385679 t=66148
+zhui 	追	c=1 d=1 t=65090
+zhui jia 	追加	c=1 d=3.87005e-09 t=66148
+zhui qiu 	追求	c=3 d=0.0160027 t=66148
+zhun 	准	c=3 d=1.04422e-09 t=66148
+zhun bei 	准备	c=19 d=0.00163942 t=66148
+zhun ma 	准吗	c=1 d=7.89335e-12 t=66148
+zhun que 	准确	c=14 d=0.0500366 t=66148
+zhun shi 	准时	c=1 d=3.53696e-09 t=66148
+zhuo 	桌	c=2 d=0.00017956 t=66148
+zhuo jian 	拙见	c=1 d=3.10093e-20 t=66148
+zhuo mian 	桌面	c=39 d=0.256827 t=66148
+zhuo tai 	桌台	c=1 d=1 t=64517
+zi 	子	c=5 d=6.85865e-06 t=66148
+zi 	字	c=16 d=0.941868 t=66148
+zi 	紫	c=1 d=1 t=50930
+zi 	自	c=4 d=0.0609075 t=66148
+zi ben 	资本	c=2 d=7.10897e-08 t=66148
+zi ce 	自测	c=4 d=0.000340532 t=66148
+zi dai 	自带	c=1 d=1.48156e-07 t=66148
+zi ding yi 	自定义	c=4 d=1.66699e-12 t=66148
+zi dong 	自动	c=109 d=0.97373 t=66148
+zi dong bu shu 	自动部署	c=1 d=1 t=53804
+zi dong guan 	自动关	c=1 d=2.67964e-08 t=66148
+zi dong hua 	自动化	c=1 d=5.03132e-08 t=66148
+zi fu 	字符	c=2 d=2.29488e-08 t=66148
+zi gu 	自顾	c=1 d=1.97146e-15 t=66148
+zi hao 	字号	c=1 d=1 t=62214
+zi ji 	自己	c=77 d=0.402984 t=66148
+zi jia 	自家	c=1 d=4.85744e-06 t=66148
+zi jian 	自检	c=7 d=6.07197e-05 t=66148
+zi jin 	资金	c=3 d=0.421052 t=66148
+zi jing hua 	紫荆花	c=2 d=1.97045 t=62669
+zi ku 	字库	c=2 d=2.22168e-09 t=66148
+zi liao 	资料	c=35 d=0.000136399 t=66148
+zi mo kuai 	子模块	c=2 d=0.666977 t=66148
+zi mu 	字幕	c=21 d=5.37787e-05 t=66148
+zi se 	紫色	c=1 d=1 t=51970
+zi shi ying 	自适应	c=9 d=0.617669 t=66148
+zi ti 	字体	c=11 d=0.880094 t=66148
+zi wo 	自我	c=7 d=0.000181422 t=66148
+zi xi 	仔细	c=17 d=0.275287 t=66148
+zi xing 	自行	c=20 d=0.298197 t=66148
+zi xuan 	自选	c=14 d=7.99196e-11 t=66148
+zi xun 	咨询	c=2 d=1 t=61485
+zi yan 	字眼	c=1 d=1 t=43846
+zi you 	自有	c=19 d=0.219808 t=66148
+zi you 	自由	c=4 d=5.70124e-08 t=66148
+zi you jie dian 	自由节点	c=1 d=8.4206e-08 t=66148
+zi yuan 	资源	c=1 d=1 t=43745
+zi zhu 	自主	c=6 d=0.0275983 t=66148
+zong 	总	c=7 d=0.565571 t=66148
+zong 	纵	c=4 d=1 t=65915
+zong dai 	总代	c=1 d=1 t=61225
+zong he 	综合	c=6 d=0.162838 t=66148
+zong jie 	总结	c=37 d=1.16285 t=66148
+zong lan 	总览	c=1 d=9.98099e-08 t=66148
+zong shi 	总是	c=1 d=1 t=49433
+zong tong 	总统	c=1 d=1 t=50986
+zong zhi 	宗旨	c=1 d=1 t=47680
+zou 	走	c=61 d=0.843673 t=66148
+zou dao 	走到	c=1 d=8.98458e-06 t=66148
+zou shi 	走势	c=8 d=1.10817e-06 t=66148
+zu 	组	c=51 d=2.16938 t=66148
+zu 	足	c=3 d=0.000508015 t=66148
+zu cheng 	组成	c=2 d=5.55664e-07 t=66148
+zu duan 	阻断	c=4 d=9.37461e-05 t=66148
+zu e 	足额	c=1 d=3.51023e-08 t=66148
+zu gou 	足够	c=1 d=2.7005e-11 t=66148
+zu he 	组合	c=6 d=0.0587657 t=66148
+zu qiu 	足球	c=7 d=9.07481e-05 t=66148
+zu zhi 	组织	c=1 d=2.07148e-09 t=66148
+zu zhi 	阻止	c=3 d=7.03228e-06 t=66148
+zu zhuang 	组装	c=1 d=3.19211e-08 t=66148
+zuan 	攥	c=0 d=0.1 t=54051
+zuan xie de 	攥写的	c=1 d=1 t=54052
+zui 	最	c=51 d=0.145876 t=66148
+zui da 	最大	c=8 d=0.00255424 t=66148
+zui di 	最低	c=1 d=0.831104 t=66148
+zui duo 	最多	c=1 d=2.07219e-13 t=66148
+zui hou 	最后	c=20 d=0.0164107 t=66148
+zui jia 	最佳	c=13 d=0.373439 t=66148
+zui jian dan 	最简单	c=1 d=0.0495388 t=66148
+zui jin 	最近	c=12 d=0.0773047 t=66148
+zui kuai 	最快	c=2 d=3.90894e-09 t=66148
+zui qing 	最轻	c=1 d=1 t=49372
+zui shang mian 	最上面	c=1 d=1 t=64022
+zui shao 	最少	c=1 d=1.26577e-08 t=66148
+zui shi he 	最适合	c=1 d=4.10866e-07 t=66148
+zui xia fang 	最下方	c=2 d=1 t=53047
+zui xiao 	最小	c=1 d=6.52638e-10 t=66148
+zui xin 	最新	c=48 d=0.465807 t=66148
+zui you 	最优	c=1 d=2.35258e-06 t=66148
+zui you 	最有	c=1 d=1.20424e-10 t=66148
+zui you bian 	最右边	c=1 d=1 t=58816
+zui you xiu 	最优秀	c=1 d=9.12814e-16 t=66148
+zui zhong 	最终	c=2 d=3.63464e-06 t=66148
+zun shou 	遵守	c=1 d=0.000113922 t=66148
+zun zhao 	遵照	c=1 d=1.1345e-14 t=66148
+zuo 	做	c=148 d=2.43735 t=66148
+zuo 	左	c=8 d=0.00209124 t=66148
+zuo 	座	c=1 d=1 t=61232
+zuo bian 	左边	c=4 d=1.2625e-07 t=66148
+zuo biao 	坐标	c=5 d=1 t=65916
+zuo ce 	左侧	c=7 d=2.18507e-11 t=66148
+zuo cheng 	做成	c=2 d=0.150318 t=66148
+zuo de 	做的	c=3 d=5.04604e-13 t=66148
+zuo fa 	做法	c=4 d=0.0518189 t=66148
+zuo fan 	做饭	c=1 d=3.08284e-10 t=66148
+zuo fei 	作废	c=1 d=1 t=62899
+zuo ge 	做个	c=2 d=1.26229e-05 t=66148
+zuo guo 	做过	c=2 d=2.40214e-16 t=66148
+zuo hao 	做好	c=4 d=0.0101529 t=66148
+zuo kong 	做空	c=1 d=3.29896e-13 t=66148
+zuo le 	做了	c=1 d=2.58879e-14 t=66148
+zuo pin 	作品	c=2 d=1.46403e-14 t=66148
+zuo ri 	昨日	c=2 d=1.00173 t=58824
+zuo shou pan 	昨收盘	c=1 d=1 t=44982
+zuo tian 	昨天	c=51 d=1.5047 t=66148
+zuo wan 	做完	c=1 d=1 t=54337
+zuo wan 	昨晚	c=1 d=1 t=44692
+zuo wei 	作为	c=6 d=1.32061e-07 t=66148
+zuo ye 	作业	c=7 d=2.77825e-05 t=66148
+zuo yi ci 	做一次	c=1 d=7.71709e-11 t=66148
+zuo yi ge 	做一个	c=1 d=1.28801e-07 t=66148
+zuo yong 	作用	c=9 d=0.0234005 t=66148
+zuo you 	左右	c=7 d=5.06789e-05 t=66148
+zuo zhe 	作者	c=6 d=1.60468e-05 t=66148
+zuo zhu 	做主	c=9 d=0.715338 t=66148

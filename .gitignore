@@ -4,7 +4,10 @@
 dist/
 
 build/
-sync/
+sync/*
+!sync/*/
+!sync/*/*.userdb.txt
+!sync/*/custom_phrase*.txt
 *.userdb/
 installation.yaml
 user.yaml
